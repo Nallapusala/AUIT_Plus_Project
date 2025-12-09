@@ -4119,7 +4119,7 @@ MonoBehaviour:
   adaptationSpeed: 2
   closeDistance: 1.5
   normalDistance: 2.5
-  triggerFatigueKey: 49
+  triggerFatigueKey: 102
 --- !u!4 &1774163965
 Transform:
   m_ObjectHideFlags: 0
