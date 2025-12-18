@@ -136,7 +136,6 @@ GameObject:
   - component: {fileID: 152365600}
   - component: {fileID: 152365599}
   - component: {fileID: 152365598}
-  - component: {fileID: 152365604}
   m_Layer: 5
   m_Name: VideoPanel
   m_TagString: Untagged
@@ -303,19 +302,6 @@ MonoBehaviour:
   UIElements:
   - {fileID: 152365594}
   isGlobal: 0
---- !u!114 &152365604
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 152365594}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: acdb22969542ff64abc8e118e6c2f0cc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::UIBillboard
-  userCamera: {fileID: 1159610951}
 --- !u!1 &280071227
 GameObject:
   m_ObjectHideFlags: 0
@@ -4263,7 +4249,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1774163965}
-  - component: {fileID: 1774163966}
   m_Layer: 0
   m_Name: SceneManager
   m_TagString: Untagged
@@ -4286,19 +4271,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1774163966
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1774163963}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 34ab37cae937f6246a141f7ee052b6b6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::TaskStepManager
-  initialStep: 0
 --- !u!1 &1824153786 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 544518319627232864, guid: e2b46fee3a5555d45a3034488663386a, type: 3}
@@ -4893,7 +4865,7 @@ GameObject:
   - component: {fileID: 2122562572}
   - component: {fileID: 2122562573}
   m_Layer: 5
-  m_Name: SemanticUIController
+  m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4930,19 +4902,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0dfd96e8da7aba449828cf1901337a5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SemanticUIAdapter
-  isSemanticMode: 1
   videoPanel: {fileID: 152365595}
   userCamera: {fileID: 1159610951}
   distanceObjective: {fileID: 152365600}
-  taskStepManager: {fileID: 0}
   normalDistance: 2.5
   closeDistance: 1.5
-  gatherNormalDistance: 1.5
-  gatherCloseDistance: 1
-  mixNormalDistance: 1.2
-  mixCloseDistance: 0.8
-  ovenNormalDistance: 1.5
-  ovenCloseDistance: 1
   triggerFatigueKey: 282
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

@@ -133,7 +133,6 @@ GameObject:
   - component: {fileID: 152365603}
   - component: {fileID: 152365602}
   - component: {fileID: 152365601}
-  - component: {fileID: 152365600}
   - component: {fileID: 152365599}
   - component: {fileID: 152365598}
   - component: {fileID: 152365604}
@@ -231,25 +230,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AUIT.PropertyTransitions.SmoothMovementTransition
   transitionSpeed: 1
---- !u!114 &152365600
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 152365594}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc1fab3e51264f07a5228bacf7f56af9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AUIT.AdaptationObjectives.DistanceIntervalObjective
-  contextSource: 1
-  transformOverride: {fileID: 0}
-  weight: 0.5
-  goalXYDistance: 0.3
-  yInterval: 0.25
-  distanceXZInterval: 0.1
-  maxDistance: 2
 --- !u!114 &152365601
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -312,10 +292,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 152365594}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: acdb22969542ff64abc8e118e6c2f0cc, type: 3}
+  m_Script: {fileID: 11500000, guid: bc1fab3e51264f07a5228bacf7f56af9, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::UIBillboard
-  userCamera: {fileID: 1159610951}
+  m_EditorClassIdentifier: Assembly-CSharp::AUIT.AdaptationObjectives.DistanceIntervalObjective
+  contextSource: 1
+  transformOverride: {fileID: 0}
+  weight: 0.5
+  goalXYDistance: 0.3
+  yInterval: 0.25
+  distanceXZInterval: 0.1
+  maxDistance: 2
 --- !u!1 &280071227
 GameObject:
   m_ObjectHideFlags: 0
@@ -410,8 +396,8 @@ RectTransform:
   m_LocalScale: {x: 0.001, y: 0.001, z: 0.001}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1765611833}
   - {fileID: 152365595}
-  - {fileID: 2122562572}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1462,6 +1448,37 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &591043194
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 591043195}
+  m_Layer: 0
+  m_Name: LocalObjective Target on Main Camera
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &591043195
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 591043194}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1, y: -1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1159610951}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &640227620 stripped
 GameObject:
@@ -3590,6 +3607,9 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1251289431}
+  - {fileID: 1873138258}
+  - {fileID: 2106614280}
+  - {fileID: 591043195}
   m_Father: {fileID: 1057771817}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1159610952
@@ -4254,6 +4274,56 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2733464756123727213, guid: e2b46fee3a5555d45a3034488663386a, type: 3}
   m_PrefabInstance: {fileID: 1067674532}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1765611832
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1765611833}
+  - component: {fileID: 1765611834}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1765611833
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1765611832}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 141.76001, y: -2000, z: 5492.92}
+  m_LocalScale: {x: 1000, y: 1000, z: 1000}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 280071231}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1765611834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1765611832}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dfd96e8da7aba449828cf1901337a5d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SemanticUIAdapter
+  videoPanel: {fileID: 152365595}
+  userCamera: {fileID: 1159610951}
+  distanceObjective: {fileID: 152365604}
+  normalDistance: 2.5
+  closeDistance: 1.5
+  triggerFatigueKey: 282
 --- !u!1 &1774163963
 GameObject:
   m_ObjectHideFlags: 0
@@ -4263,7 +4333,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1774163965}
-  - component: {fileID: 1774163966}
+  - component: {fileID: 1774163964}
   m_Layer: 0
   m_Name: SceneManager
   m_TagString: Untagged
@@ -4271,6 +4341,24 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &1774163964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1774163963}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dfd96e8da7aba449828cf1901337a5d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SemanticUIAdapter
+  videoPanel: {fileID: 655028250}
+  userCamera: {fileID: 1159610951}
+  distanceObjective: {fileID: 0}
+  normalDistance: 2.5
+  closeDistance: 1.5
+  triggerFatigueKey: 102
 --- !u!4 &1774163965
 Transform:
   m_ObjectHideFlags: 0
@@ -4286,19 +4374,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1774163966
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1774163963}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 34ab37cae937f6246a141f7ee052b6b6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::TaskStepManager
-  initialStep: 0
 --- !u!1 &1824153786 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 544518319627232864, guid: e2b46fee3a5555d45a3034488663386a, type: 3}
@@ -4644,6 +4719,37 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _providedSkeletonType: 0
+--- !u!1 &1873138257
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1873138258}
+  m_Layer: 0
+  m_Name: LocalObjective Target on Main Camera
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1873138258
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1873138257}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1, y: -1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1159610951}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1899677035 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5295704566955869951, guid: a57e86d551e88f74ba2545b6bcd6a8b5, type: 3}
@@ -4882,7 +4988,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -3159390280561842354, guid: e2b46fee3a5555d45a3034488663386a, type: 3}
   m_PrefabInstance: {fileID: 1067674532}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &2122562571
+--- !u!1 &2106614279
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4890,60 +4996,29 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 2122562572}
-  - component: {fileID: 2122562573}
-  m_Layer: 5
-  m_Name: SemanticUIController
+  - component: {fileID: 2106614280}
+  m_Layer: 0
+  m_Name: LocalObjective Target on Main Camera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!224 &2122562572
-RectTransform:
+--- !u!4 &2106614280
+Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2122562571}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_GameObject: {fileID: 2106614279}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1, y: -1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 280071231}
+  m_Father: {fileID: 1159610951}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &2122562573
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2122562571}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0dfd96e8da7aba449828cf1901337a5d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SemanticUIAdapter
-  isSemanticMode: 1
-  videoPanel: {fileID: 152365595}
-  userCamera: {fileID: 1159610951}
-  distanceObjective: {fileID: 152365600}
-  taskStepManager: {fileID: 0}
-  normalDistance: 2.5
-  closeDistance: 1.5
-  gatherNormalDistance: 1.5
-  gatherCloseDistance: 1
-  mixNormalDistance: 1.2
-  mixCloseDistance: 0.8
-  ovenNormalDistance: 1.5
-  ovenCloseDistance: 1
-  triggerFatigueKey: 282
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

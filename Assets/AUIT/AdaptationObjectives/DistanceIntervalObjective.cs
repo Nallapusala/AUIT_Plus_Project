@@ -11,6 +11,12 @@ namespace AUIT.AdaptationObjectives
         // Add validation in the future
         [SerializeField]
         private float goalXYDistance = 0.3f;
+        //New: Public property enabling external scripts to read and write the target distance
+        public float GoalXYDistance
+        {
+            get => goalXYDistance;
+            set => goalXYDistance = value;
+        }
         [SerializeField]
         private float yInterval = 0.25f;
         [SerializeField]
