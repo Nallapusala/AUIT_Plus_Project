@@ -5,7 +5,7 @@ using AUIT.AdaptationObjectives;
 /// Semantic UI Adapter compatible with the HCI Guide:
 /// - Exposes a Static vs Semantic condition toggle (isSemanticMode).
 /// - Uses AUIT DistanceIntervalObjective internally (no direct Transform warping).
-/// - Static mode: panel stays at its initial position (no semantic adaptation).
+/// - Static mode (B): panel is pinned (frozen) at the position when switching into Static.
 /// - Semantic mode: goal distance depends on TaskStep + fatigue state.
 /// </summary>
 public class SemanticUIAdapter : MonoBehaviour
@@ -63,13 +63,17 @@ public class SemanticUIAdapter : MonoBehaviour
     /// </summary>
     public bool IsFatigued { get; private set; } = false;
 
-    // Remember the initial panel transform for the Static condition.
+    // Remember the pinned panel transform for the Static condition.
+    // (B) This will be updated when switching into Static to freeze the current pose.
     private Vector3 initialPanelPosition;
     private Quaternion initialPanelRotation;
 
     // Cache last applied goal distance, so we only update AUIT when needed.
     private float lastAppliedGoalDistance = 0f;
     private bool hasLastGoalDistance = false;
+
+    // NEW: track runtime mode changes so we can apply them immediately.
+    private bool lastSemanticMode;
 
     private void Reset()
     {
@@ -108,7 +112,7 @@ public class SemanticUIAdapter : MonoBehaviour
             return;
         }
 
-        // Cache the initial transform of the panel (for Static condition).
+        // Cache initial transform (used as initial pinned pose, but will be overwritten in Static(B) when switching).
         initialPanelPosition = videoPanel.position;
         initialPanelRotation = videoPanel.rotation;
     }
@@ -152,21 +156,23 @@ public class SemanticUIAdapter : MonoBehaviour
     {
         if (!enabled) return;
 
-        if (isSemanticMode)
-        {
-            // Semantic condition: initialize according to current step + fatigue.
-            UpdateGoalDistance(true);
-        }
-        else
-        {
-            // Static condition: set a default distance once; no further updates.
-            SetGoalDistance(normalDistance);
-        }
+        // Apply initial mode immediately.
+        ApplyMode(isSemanticMode, forceRefresh: true);
+
+        // NEW: remember current mode so runtime switches can be detected.
+        lastSemanticMode = isSemanticMode;
     }
 
     private void Update()
     {
         if (!enabled) return;
+
+        // NEW: if the mode was changed at runtime (Inspector/other script), apply it immediately.
+        if (isSemanticMode != lastSemanticMode)
+        {
+            ApplyMode(isSemanticMode, forceRefresh: true);
+            lastSemanticMode = isSemanticMode;
+        }
 
         // Toggle fatigue state when the key is pressed.
         if (Input.GetKeyDown(triggerFatigueKey))
@@ -199,18 +205,57 @@ public class SemanticUIAdapter : MonoBehaviour
     {
         if (!enabled) return;
 
-        // In Static mode, we keep the panel pinned to its initial position.
-        // This mimics the Guide's 'static condition' where the panel
-        // does not adapt its position based on fatigue or semantics.
+        // Static(B): keep the panel pinned to the pose that was captured
+        // when switching into Static mode.
         if (!isSemanticMode && videoPanel != null)
         {
             videoPanel.position = initialPanelPosition;
-            // We intentionally do NOT force the rotation here, so that
-            // other scripts like UIBillboard can still control the panel's
-            // orientation (e.g., always facing the user).
+
+            // Intentionally NOT forcing rotation, so UIBillboard etc. can still control orientation.
+            // If you want to freeze rotation as well, uncomment the next line:
+            // videoPanel.rotation = initialPanelRotation;
         }
         // In Semantic mode we do nothing here:
         // AUIT (and optionally a billboard script) controls the transform.
+    }
+
+    /// <summary>
+    /// Public API: switch modes in code (preferred over directly setting isSemanticMode).
+    /// Static(B) = freeze current pose at the moment of switching to Static.
+    /// </summary>
+    public void SetSemanticMode(bool enableSemantic)
+    {
+        if (!enabled) return;
+
+        isSemanticMode = enableSemantic;
+        ApplyMode(isSemanticMode, forceRefresh: true);
+        lastSemanticMode = isSemanticMode;
+    }
+
+    /// <summary>
+    /// Apply mode behavior immediately.
+    /// </summary>
+    private void ApplyMode(bool enableSemantic, bool forceRefresh)
+    {
+        if (enableSemantic)
+        {
+            // Semantic condition: initialize/update according to current step + fatigue.
+            UpdateGoalDistance(forceRefresh);
+        }
+        else
+        {
+            // Static(B): freeze CURRENT pose as the pinned pose.
+            if (videoPanel != null)
+            {
+                initialPanelPosition = videoPanel.position;
+                initialPanelRotation = videoPanel.rotation;
+            }
+
+            // Static condition: set a default distance once; no further updates.
+            SetGoalDistance(normalDistance);
+        }
+
+        Debug.Log($"[SemanticUIAdapter] Mode applied: {(enableSemantic ? "Semantic" : "Static (freeze current pose)")}.", this);
     }
 
     /// <summary>
@@ -256,21 +301,13 @@ public class SemanticUIAdapter : MonoBehaviour
 
         TaskStepManager.TaskStep step = taskStepManager.CurrentStep;
 
-        switch (step)
+        return step switch
         {
-            case TaskStepManager.TaskStep.GatherIngredients:
-                return IsFatigued ? gatherCloseDistance : gatherNormalDistance;
-
-            case TaskStepManager.TaskStep.MixIngredients:
-                return IsFatigued ? mixCloseDistance : mixNormalDistance;
-
-            case TaskStepManager.TaskStep.PrepareOven:
-                return IsFatigued ? ovenCloseDistance : ovenNormalDistance;
-
-            default:
-                // Fallback ¨C should not really happen.
-                return IsFatigued ? closeDistance : normalDistance;
-        }
+            TaskStepManager.TaskStep.GatherIngredients => IsFatigued ? gatherCloseDistance : gatherNormalDistance,
+            TaskStepManager.TaskStep.MixIngredients => IsFatigued ? mixCloseDistance : mixNormalDistance,
+            TaskStepManager.TaskStep.PreheatOven => IsFatigued ? ovenCloseDistance : ovenNormalDistance,
+            _ => IsFatigued ? closeDistance : normalDistance,// Fallback ¨C should not really happen.
+        };
     }
 
     /// <summary>

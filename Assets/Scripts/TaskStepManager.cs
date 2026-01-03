@@ -1,75 +1,128 @@
+using System;
 using UnityEngine;
+using UnityEngine.Video;
 
-/// <summary>
-/// Very small manager that tracks the current task step in the cooking task.
-/// Other scripts (like SemanticUIAdapter) can query CurrentStep to adapt behavior.
-/// 
-/// For now we drive it by keyboard:
-/// - Key 1 ¡ú GatherIngredients (Step 1)
-/// - Key 2 ¡ú MixIngredients   (Step 2)
-/// - Key 3 ¡ú PrepareOven      (Step 3)
-/// </summary>
 public class TaskStepManager : MonoBehaviour
 {
-    /// <summary>
-    /// Logical steps in the task. Names are for code only.
-    /// </summary>
+    // All logical steps of the baking task
     public enum TaskStep
     {
-        GatherIngredients, // Step 1 ¨C walking around counters
-        MixIngredients,    // Step 2 ¨C at the mixing bowl
-        PrepareOven        // Step 3 ¨C at the oven
+        None = 0,
+        Intro,
+        GatherIngredients,
+        CrackEggs,
+        AddFlour,
+        MixIngredients,
+        PreheatOven,
+        PourMixture,
+        BakeCake,
+        Finished
     }
 
-    [Header("Initial Step")]
-    [Tooltip("Which step should be active when the scene starts.")]
-    [SerializeField]
-    private TaskStep initialStep = TaskStep.GatherIngredients;
+    // Configuration for each step (what to show + where UI prefers to be)
+    [Serializable]
+    public class StepConfig
+    {
+        public TaskStep step;
+
+        [Header("Instruction content")]
+        [TextArea]
+        public string instructionText;
+
+        [Header("Optional video snippet")]
+        public VideoClip optionalClip;
+        public float clipStartTime;
+        public float clipDuration = 5f;
+
+        [Header("Semantic anchors for this step")]
+        public Transform[] semanticAnchors;
+    }
+
+    [Header("Step configuration list")]
+    public StepConfig[] steps;
+
+    [Header("Initial step")]
+    public TaskStep initialStep = TaskStep.Intro;
+
+    /// <summary>Current logical step in the task.</summary>
+    public TaskStep CurrentStep { get; private set; } = TaskStep.None;
+
+    /// <summary>Full config for the current step.</summary>
+    public StepConfig CurrentStepConfig { get; private set; }
 
     /// <summary>
-    /// Public read-only property so other scripts can query the current step.
+    /// Raised whenever the current step changes.
+    /// Subscribers receive the new StepConfig.
     /// </summary>
-    public TaskStep CurrentStep { get; private set; }
+    public event Action<StepConfig> OnStepChanged;
 
-    private void Awake()
+    private void Start()
     {
-        // Initialize with the configured initial step.
-        SetStep(initialStep, true);
-    }
-
-    private void Update()
-    {
-        // Simple keyboard control for debugging / prototyping.
-        // Later you can replace this with trigger volumes around
-        // FlourZone, MixingBowl, Oven, etc.
-
-        if (Input.GetKeyDown(KeyCode.Alpha1))
-        {
-            SetStep(TaskStep.GatherIngredients);
-        }
-        else if (Input.GetKeyDown(KeyCode.Alpha2))
-        {
-            SetStep(TaskStep.MixIngredients);
-        }
-        else if (Input.GetKeyDown(KeyCode.Alpha3))
-        {
-            SetStep(TaskStep.PrepareOven);
-        }
+        // Initialize to the configured initial step
+        SetStep(initialStep, force: true);
     }
 
     /// <summary>
-    /// Internal helper to change the current step and print a debug message.
+    /// Change the current step of the task.
     /// </summary>
-    private void SetStep(TaskStep newStep, bool skipIfSame = false)
+    public void SetStep(TaskStep newStep, bool force = false)
     {
-        if (skipIfSame && newStep == CurrentStep)
-            return;
-
-        if (newStep == CurrentStep)
+        if (!force && newStep == CurrentStep)
             return;
 
         CurrentStep = newStep;
 
-        Debug.Log($"[TaskStepManager] Current step changed to: {CurrentStep}", this);
+        // Find matching config
+        CurrentStepConfig = FindConfigForStep(newStep);
+        if (CurrentStepConfig == null)
+        {
+            Debug.LogWarning(
+                $"TaskStepManager: No StepConfig found for step {newStep}. " +
+                "UI may not update correctly.");
+        }
+        else
+        {
+            Debug.Log($"[TaskStepManager] Step changed to: {newStep}");
+        }
+
+        // Notify listeners (SemanticUIAdapter, extra UIs, logger, etc.)
+        OnStepChanged?.Invoke(CurrentStepConfig);
     }
+
+    private StepConfig FindConfigForStep(TaskStep step)
+    {
+        if (steps == null) return null;
+
+        foreach (var cfg in steps)
+        {
+            if (cfg != null && cfg.step == step)
+                return cfg;
+        }
+
+        return null;
+    }
+
+    // Keyboard shortcuts for quick testing in the editor.
+    // You can remove this later once XR interactions are wired.
+#if UNITY_EDITOR
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Alpha1))
+            SetStep(TaskStep.GatherIngredients);
+        if (Input.GetKeyDown(KeyCode.Alpha2))
+            SetStep(TaskStep.CrackEggs);
+        if (Input.GetKeyDown(KeyCode.Alpha3))
+            SetStep(TaskStep.AddFlour);
+        if (Input.GetKeyDown(KeyCode.Alpha4))
+            SetStep(TaskStep.PourMixture);
+        if (Input.GetKeyDown(KeyCode.Alpha5))
+            SetStep(TaskStep.MixIngredients);
+        if (Input.GetKeyDown(KeyCode.Alpha6))
+            SetStep(TaskStep.PreheatOven);
+        if (Input.GetKeyDown(KeyCode.Alpha7))
+            SetStep(TaskStep.BakeCake);
+        if (Input.GetKeyDown(KeyCode.Alpha8))
+            SetStep(TaskStep.Finished);
+    }
+#endif
 }
