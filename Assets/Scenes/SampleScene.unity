@@ -119,6 +119,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &1697281 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3048630623395615165, guid: e2b46fee3a5555d45a3034488663386a, type: 3}
+  m_PrefabInstance: {fileID: 1067674532}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &105590155
 GameObject:
   m_ObjectHideFlags: 0
@@ -3555,6 +3560,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &882374002 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -871118413262723709, guid: e2b46fee3a5555d45a3034488663386a, type: 3}
+  m_PrefabInstance: {fileID: 1067674532}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &914144465
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4075,6 +4085,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1817693356469987532, guid: e2b46fee3a5555d45a3034488663386a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 643404873}
+    - targetCorrespondingSourceObject: {fileID: 3048630623395615165, guid: e2b46fee3a5555d45a3034488663386a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1067674539}
   m_SourcePrefab: {fileID: 100100000, guid: e2b46fee3a5555d45a3034488663386a, type: 3}
 --- !u!4 &1067674533 stripped
 Transform:
@@ -4086,6 +4099,23 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -4100615267210656632, guid: e2b46fee3a5555d45a3034488663386a, type: 3}
   m_PrefabInstance: {fileID: 1067674532}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1067674539
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1697281}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f07f1a49f6ac03142b5482b56953d959, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SugarCabinet
+  sugar: {fileID: 882374002}
+  cameraTransform: {fileID: 1159610951}
+  detectionRange: 2
+  animationSpeed: 2
+  doorOpenRotation: {x: 0, y: 0, z: 90}
 --- !u!1 &1145890779 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 50749aa4dabfa5d43a06db60f8a208bd, type: 3}
