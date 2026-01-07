@@ -2,137 +2,191 @@ using UnityEngine;
 using AUIT.AdaptationObjectives;
 
 /// <summary>
-/// Semantic UI Adapter compatible with the HCI Guide:
-/// - Exposes a Static vs Semantic condition toggle (isSemanticMode).
-/// - Uses AUIT DistanceIntervalObjective internally (no direct Transform warping).
-/// - Static mode (B): panel is pinned (frozen) at the position when switching into Static.
-/// - Semantic mode: goal distance depends on TaskStep + fatigue state.
+/// Condition controller for the instruction UI.
+/// - Supports Static vs. Semantic (AUIT) condition.
+/// - Supports Fatigue toggle (F1).
+/// - Integrates TaskStepManager (per-step distances).
+/// - Integrates AttentionMonitor (bring UI closer when attention is low).
 /// </summary>
 public class SemanticUIAdapter : MonoBehaviour
 {
+    // ----------------- Condition toggle -----------------
+
     [Header("Condition Toggle (Guide-compatible)")]
-    [Tooltip("If false: Static condition (no semantic adaptation).\nIf true: Semantic condition (distance adapts to fatigue + task step).")]
+    [Tooltip("If true => Semantic (AUIT). If false => Static UI (no AUIT).")]
     public bool isSemanticMode = true;
 
-    [Header("References")]
-    [Tooltip("UI panel to adapt (e.g., VideoPanel).")]
-    public Transform videoPanel;
+    // ----------------- References -----------------
 
-    [Tooltip("User camera, usually the Main Camera under the XR Origin.")]
+    [Header("References")]
+    [Tooltip("The UI panel that should be adapted (e.g. VideoPanel rect transform).")]
+    public RectTransform videoPanel;
+
+    [Tooltip("User camera, usually the XR Origin's Main Camera.")]
     public Transform userCamera;
 
-    [Tooltip("DistanceIntervalObjective component on the VideoPanel used by AUIT.")]
+    [Tooltip("AUIT DistanceIntervalObjective on the same UI (VideoPanel).")]
     public DistanceIntervalObjective distanceObjective;
 
-    [Tooltip("Manager that knows which task step is currently active.")]
+    [Tooltip("Logical baking steps (Intro, GatherIngredients, ...).")]
     public TaskStepManager taskStepManager;
 
-    [Header("Global Fallback Distances (used if no per-step config)")]
-    [Tooltip("Default target distance in a 'normal' state (meters).")]
-    public float normalDistance = 2.5f;
+    [Tooltip("Monitors whether the user is looking at the current semantic anchor.")]
+    public AttentionMonitor attentionMonitor;
 
-    [Tooltip("Default target distance in a 'fatigued' state (meters).")]
-    public float closeDistance = 1.5f;
+    // ----------------- Static mode distances -----------------
+
+    [Header("Distance Settings (Static mode)")]
+    [Tooltip("Base distance in static mode when not fatigued.")]
+    public float staticNormalDistance = 1.2f;
+
+    [Tooltip("Closer distance in static mode when fatigued.")]
+    public float staticCloseDistance = 0.8f;
+
+    // ----------------- Semantic mode distances -----------------
+
+    [Header("Global distances (Semantic mode fallback)")]
+    [Tooltip("Fallback distance when no step is configured.")]
+    public float globalNormalDistance = 1.0f;
+
+    [Tooltip("Fallback close distance for fatigue in semantic mode.")]
+    public float globalCloseDistance = 0.5f;
 
     [Header("Per-step distances (Semantic mode)")]
-    [Tooltip("Step 1 – GatherIngredients: normal distance.")]
-    public float gatherNormalDistance = 1.5f;
+    public float gatherNormalDistance = 1.0f;
+    public float gatherCloseDistance = 0.5f;
 
-    [Tooltip("Step 1 – GatherIngredients: fatigued distance.")]
-    public float gatherCloseDistance = 1.0f;
-
-    [Tooltip("Step 2 – MixIngredients: normal distance.")]
     public float mixNormalDistance = 1.2f;
+    public float mixCloseDistance = 0.6f;
 
-    [Tooltip("Step 2 – MixIngredients: fatigued distance.")]
-    public float mixCloseDistance = 0.8f;
-
-    [Tooltip("Step 3 – PrepareOven: normal distance.")]
     public float ovenNormalDistance = 1.5f;
+    public float ovenCloseDistance = 0.7f;
 
-    [Tooltip("Step 3 – PrepareOven: fatigued distance.")]
-    public float ovenCloseDistance = 1.0f;
+    public float pourNormalDistance = 1.2f;
+    public float pourCloseDistance = 0.6f;
+
+    public float bakeNormalDistance = 1.6f;
+    public float bakeCloseDistance = 0.8f;
+
+    // ----------------- Attention-based adaptation -----------------
+
+    [Header("Attention-based adaptation")]
+    [Tooltip("If true, attention state influences the desired distance.")]
+    public bool useAttention = true;
+
+    [Tooltip("Target distance when attention is low (LostFocus).")]
+    public float attentionCloseDistance = 0.5f;
+
+    // ----------------- Input settings -----------------
 
     [Header("Input Settings")]
-    [Tooltip("Key used to toggle fatigue (as in the Guide).")]
+    [Tooltip("Key to toggle fatigue state (for testing in editor).")]
     public KeyCode triggerFatigueKey = KeyCode.F1;
 
-    /// <summary>
-    /// Current fatigue state. When true in Semantic mode, the panel
-    /// should move closer (via AUIT distance objective).
-    /// </summary>
+    [Tooltip("Optional key to toggle between Static and Semantic mode.")]
+    public KeyCode toggleModeKey = KeyCode.F2;
+
+    // ----------------- Runtime state -----------------
+
+    /// <summary>Current fatigue flag (can be toggled by key or by other scripts).</summary>
     public bool IsFatigued { get; private set; } = false;
 
-    // Remember the pinned panel transform for the Static condition.
-    // (B) This will be updated when switching into Static to freeze the current pose.
-    private Vector3 initialPanelPosition;
-    private Quaternion initialPanelRotation;
+    private bool isAttentionLow = false;
 
-    // Cache last applied goal distance, so we only update AUIT when needed.
-    private float lastAppliedGoalDistance = 0f;
-    private bool hasLastGoalDistance = false;
+    // For optimization: remember last applied distance so we don't spam AUIT.
+    private float lastAppliedGoalDistance = -1f;
+    private bool hasLastAppliedGoalDistance = false;
 
-    // NEW: track runtime mode changes so we can apply them immediately.
-    private bool lastSemanticMode;
-
-    private void Reset()
+    private void Awake()
     {
-        // Try to auto-fill references when the component is first added.
+        ValidateReferences();
+    }
 
-        if (userCamera == null && Camera.main != null)
-        {
-            userCamera = Camera.main.transform;
-        }
-
-        if (videoPanel == null)
-        {
-            // If this adapter is accidentally placed on the panel itself,
-            // we can try to auto-assign a RectTransform child.
-            RectTransform rect = GetComponentInChildren<RectTransform>();
-            if (rect != null)
-                videoPanel = rect.transform;
-        }
-
-        if (distanceObjective == null && videoPanel != null)
-        {
-            distanceObjective = videoPanel.GetComponent<DistanceIntervalObjective>();
-        }
-
+    private void OnEnable()
+    {
+        // --- Auto-assign / subscribe TaskStepManager ---
         if (taskStepManager == null)
         {
             taskStepManager = FindObjectOfType<TaskStepManager>();
         }
-    }
 
-    private void Awake()
-    {
-        if (!ValidateReferences())
+        if (taskStepManager != null)
         {
-            enabled = false;
-            return;
+            taskStepManager.OnStepChanged += HandleStepChanged;
         }
 
-        // Cache initial transform (used as initial pinned pose, but will be overwritten in Static(B) when switching).
-        initialPanelPosition = videoPanel.position;
-        initialPanelRotation = videoPanel.rotation;
+        // --- Auto-assign / subscribe AttentionMonitor ---
+        if (attentionMonitor == null)
+        {
+            attentionMonitor = FindObjectOfType<AttentionMonitor>();
+        }
+
+        if (attentionMonitor != null)
+        {
+            attentionMonitor.OnAttentionStateChanged += HandleAttentionStateChanged;
+
+            // ★ 不再使用 IsAttentionLow 属性，直接看 CurrentState
+            isAttentionLow =
+                (attentionMonitor.CurrentState == AttentionMonitor.AttentionState.LostFocus);
+        }
     }
 
-    private bool ValidateReferences()
+    private void OnDisable()
+    {
+        if (attentionMonitor != null)
+        {
+            attentionMonitor.OnAttentionStateChanged -= HandleAttentionStateChanged;
+        }
+
+        if (taskStepManager != null)
+        {
+            taskStepManager.OnStepChanged -= HandleStepChanged;
+        }
+    }
+
+    private void Start()
+    {
+        // Initial goal distance
+        UpdateGoalDistance(forceUpdate: true);
+    }
+
+    private void Update()
+    {
+        // ------------- Keyboard testing -------------
+
+        if (Input.GetKeyDown(triggerFatigueKey))
+        {
+            IsFatigued = !IsFatigued;
+            Debug.Log($"[SemanticUIAdapter] Fatigue toggled = {IsFatigued}");
+            UpdateGoalDistance(forceUpdate: true);
+        }
+
+        if (Input.GetKeyDown(toggleModeKey))
+        {
+            isSemanticMode = !isSemanticMode;
+            Debug.Log($"[SemanticUIAdapter] Mode toggled. Now isSemanticMode = {isSemanticMode}");
+            UpdateGoalDistance(forceUpdate: true);
+        }
+
+        // In static mode, we directly place the panel relative to the user
+        if (!isSemanticMode)
+        {
+            UpdateStaticPlacement();
+        }
+        // In semantic mode, AUIT handles placement.
+    }
+
+    // =====================================================================
+    // Validation
+    // =====================================================================
+
+    private void ValidateReferences()
     {
         bool ok = true;
 
         if (videoPanel == null)
         {
-            Debug.LogError("[SemanticUIAdapter] VideoPanel reference is missing. Please assign it in the Inspector.", this);
-            ok = false;
-        }
-
-        if (distanceObjective == null)
-        {
-            Debug.LogError(
-                "[SemanticUIAdapter] DistanceIntervalObjective reference is missing. " +
-                "Please drag the DistanceIntervalObjective from the VideoPanel onto this field.",
-                this);
+            Debug.LogWarning("[SemanticUIAdapter] VideoPanel reference is missing.");
             ok = false;
         }
 
@@ -141,135 +195,109 @@ public class SemanticUIAdapter : MonoBehaviour
             userCamera = Camera.main.transform;
         }
 
+        if (distanceObjective == null && videoPanel != null)
+        {
+            distanceObjective = videoPanel.GetComponent<DistanceIntervalObjective>();
+            if (distanceObjective != null)
+            {
+                Debug.Log("[SemanticUIAdapter] Auto-assigned DistanceIntervalObjective from VideoPanel.");
+            }
+        }
+
+        // Optional: try to auto-assign managers
         if (taskStepManager == null)
         {
-            Debug.LogWarning(
-                "[SemanticUIAdapter] TaskStepManager reference is missing. " +
-                "Semantic adaptation will NOT be step-dependent (fallback to global distances).",
-                this);
+            taskStepManager = FindObjectOfType<TaskStepManager>();
         }
 
-        return ok;
+        if (attentionMonitor == null)
+        {
+            attentionMonitor = FindObjectOfType<AttentionMonitor>();
+        }
+
+        if (distanceObjective == null)
+        {
+            Debug.LogError("[SemanticUIAdapter] DistanceIntervalObjective reference is missing. Semantic mode cannot work.", this);
+            ok = false;
+        }
+
+        if (!ok)
+        {
+            // Component stays enabled; static mode will still work.
+        }
     }
 
-    private void Start()
+    // =====================================================================
+    // Attention & step integration
+    // =====================================================================
+
+    private void HandleAttentionStateChanged(AttentionMonitor.AttentionState newState)
     {
-        if (!enabled) return;
+        // ★ 这里也不用 IsAttentionLow，直接用 newState
+        isAttentionLow = (newState == AttentionMonitor.AttentionState.LostFocus);
 
-        // Apply initial mode immediately.
-        ApplyMode(isSemanticMode, forceRefresh: true);
-
-        // NEW: remember current mode so runtime switches can be detected.
-        lastSemanticMode = isSemanticMode;
+        // Only semantic mode uses attention right now.
+        if (isSemanticMode && useAttention)
+        {
+            UpdateGoalDistance(forceUpdate: true);
+        }
     }
 
-    private void Update()
+    private void HandleStepChanged(TaskStepManager.StepConfig cfg)
     {
-        if (!enabled) return;
-
-        // NEW: if the mode was changed at runtime (Inspector/other script), apply it immediately.
-        if (isSemanticMode != lastSemanticMode)
-        {
-            ApplyMode(isSemanticMode, forceRefresh: true);
-            lastSemanticMode = isSemanticMode;
-        }
-
-        // Toggle fatigue state when the key is pressed.
-        if (Input.GetKeyDown(triggerFatigueKey))
-        {
-            IsFatigued = !IsFatigued;
-
-            if (isSemanticMode)
-            {
-                Debug.Log($"[SemanticUIAdapter] (Semantic mode) Fatigue toggled = {IsFatigued}.", this);
-                UpdateGoalDistance(true);
-            }
-            else
-            {
-                Debug.Log(
-                    $"[SemanticUIAdapter] (Static mode) Fatigue toggled = {IsFatigued}, " +
-                    "but semantic adaptation is disabled.",
-                    this);
-            }
-        }
-
-        // In Semantic mode we continuously check whether the task step changed.
-        // If so, we may need to update the goal distance even if fatigue did not change.
+        // Whenever the logical task step changes, recompute distance.
         if (isSemanticMode)
         {
-            UpdateGoalDistance(false);
+            UpdateGoalDistance(forceUpdate: true);
         }
     }
 
-    private void LateUpdate()
+    // =====================================================================
+    // Static mode: directly move the panel
+    // =====================================================================
+
+    private void UpdateStaticPlacement()
     {
-        if (!enabled) return;
+        if (videoPanel == null || userCamera == null)
+            return;
 
-        // Static(B): keep the panel pinned to the pose that was captured
-        // when switching into Static mode.
-        if (!isSemanticMode && videoPanel != null)
+        float distance = IsFatigued ? staticCloseDistance : staticNormalDistance;
+
+        Vector3 forward = userCamera.forward;
+        forward.y = 0f;
+        if (forward.sqrMagnitude < 0.0001f)
+            forward = Vector3.forward;
+
+        forward.Normalize();
+
+        Vector3 targetPos = userCamera.position + forward * distance;
+        videoPanel.position = targetPos;
+
+        // Face the camera in yaw only
+        Vector3 toCamera = userCamera.position - videoPanel.position;
+        toCamera.y = 0f;
+        if (toCamera.sqrMagnitude > 0.0001f)
         {
-            videoPanel.position = initialPanelPosition;
-
-            // Intentionally NOT forcing rotation, so UIBillboard etc. can still control orientation.
-            // If you want to freeze rotation as well, uncomment the next line:
-            // videoPanel.rotation = initialPanelRotation;
+            videoPanel.rotation = Quaternion.LookRotation(toCamera.normalized, Vector3.up);
         }
-        // In Semantic mode we do nothing here:
-        // AUIT (and optionally a billboard script) controls the transform.
     }
 
-    /// <summary>
-    /// Public API: switch modes in code (preferred over directly setting isSemanticMode).
-    /// Static(B) = freeze current pose at the moment of switching to Static.
-    /// </summary>
-    public void SetSemanticMode(bool enableSemantic)
-    {
-        if (!enabled) return;
-
-        isSemanticMode = enableSemantic;
-        ApplyMode(isSemanticMode, forceRefresh: true);
-        lastSemanticMode = isSemanticMode;
-    }
-
-    /// <summary>
-    /// Apply mode behavior immediately.
-    /// </summary>
-    private void ApplyMode(bool enableSemantic, bool forceRefresh)
-    {
-        if (enableSemantic)
-        {
-            // Semantic condition: initialize/update according to current step + fatigue.
-            UpdateGoalDistance(forceRefresh);
-        }
-        else
-        {
-            // Static(B): freeze CURRENT pose as the pinned pose.
-            if (videoPanel != null)
-            {
-                initialPanelPosition = videoPanel.position;
-                initialPanelRotation = videoPanel.rotation;
-            }
-
-            // Static condition: set a default distance once; no further updates.
-            SetGoalDistance(normalDistance);
-        }
-
-        Debug.Log($"[SemanticUIAdapter] Mode applied: {(enableSemantic ? "Semantic" : "Static (freeze current pose)")}.", this);
-    }
+    // =====================================================================
+    // Semantic mode: drive AUIT DistanceIntervalObjective
+    // =====================================================================
 
     /// <summary>
     /// Compute and apply the desired goal distance.
     /// If forceUpdate = false, we only update AUIT when the target value changed.
     /// </summary>
-    private void UpdateGoalDistance(bool forceUpdate)
+    private void UpdateGoalDistance(bool forceUpdate = false)
     {
         if (distanceObjective == null)
             return;
 
         float targetDistance = ComputeDesiredGoalDistance();
 
-        if (!forceUpdate && hasLastGoalDistance &&
+        if (!forceUpdate && hasLastAppliedGoalDistance &&
             Mathf.Approximately(targetDistance, lastAppliedGoalDistance))
         {
             return; // nothing changed
@@ -277,43 +305,85 @@ public class SemanticUIAdapter : MonoBehaviour
 
         SetGoalDistance(targetDistance);
         lastAppliedGoalDistance = targetDistance;
-        hasLastGoalDistance = true;
+        hasLastAppliedGoalDistance = true;
 
         Debug.Log(
             $"[SemanticUIAdapter] Applied GoalXYDistance = {targetDistance} m. " +
             $"Mode={(isSemanticMode ? "Semantic" : "Static")}, " +
-            $"Step={GetCurrentStepName()}, Fatigued={IsFatigued}",
+            $"Step={GetCurrentStepName()}, Fatigued={IsFatigued}, AttentionLow={isAttentionLow}",
             this);
     }
 
     /// <summary>
     /// Decide what the target goal distance should be,
-    /// based on task step + fatigue. Falls back to global distances
-    /// if no TaskStepManager is assigned.
+    /// based on task step + fatigue + attention.
     /// </summary>
     private float ComputeDesiredGoalDistance()
     {
-        // If we don't have a taskStepManager, fall back to global distances.
-        if (taskStepManager == null)
+        // If we are in static mode, we do not really use AUIT, but we return a sane value.
+        if (!isSemanticMode || distanceObjective == null)
         {
-            return IsFatigued ? closeDistance : normalDistance;
+            float baseDist = IsFatigued ? globalCloseDistance : globalNormalDistance;
+            if (useAttention && isAttentionLow)
+                baseDist = Mathf.Min(baseDist, attentionCloseDistance);
+            return baseDist;
         }
 
-        TaskStepManager.TaskStep step = taskStepManager.CurrentStep;
+        // Semantic mode: per-step distances
+        float stepNormal = globalNormalDistance;
+        float stepClose = globalCloseDistance;
 
-        return step switch
+        if (taskStepManager != null)
         {
-            TaskStepManager.TaskStep.GatherIngredients => IsFatigued ? gatherCloseDistance : gatherNormalDistance,
-            TaskStepManager.TaskStep.MixIngredients => IsFatigued ? mixCloseDistance : mixNormalDistance,
-            TaskStepManager.TaskStep.PreheatOven => IsFatigued ? ovenCloseDistance : ovenNormalDistance,
-            _ => IsFatigued ? closeDistance : normalDistance,// Fallback – should not really happen.
-        };
+            switch (taskStepManager.CurrentStep)
+            {
+                case TaskStepManager.TaskStep.GatherIngredients:
+                    stepNormal = gatherNormalDistance;
+                    stepClose = gatherCloseDistance;
+                    break;
+
+                case TaskStepManager.TaskStep.MixIngredients:
+                    stepNormal = mixNormalDistance;
+                    stepClose = mixCloseDistance;
+                    break;
+
+                case TaskStepManager.TaskStep.PreheatOven:
+                    stepNormal = ovenNormalDistance;
+                    stepClose = ovenCloseDistance;
+                    break;
+
+                case TaskStepManager.TaskStep.PourMixture:
+                    stepNormal = pourNormalDistance;
+                    stepClose = pourCloseDistance;
+                    break;
+
+                case TaskStepManager.TaskStep.BakeCake:
+                    stepNormal = bakeNormalDistance;
+                    stepClose = bakeCloseDistance;
+                    break;
+
+                default:
+                    stepNormal = globalNormalDistance;
+                    stepClose = globalCloseDistance;
+                    break;
+            }
+        }
+
+        float result = IsFatigued ? stepClose : stepNormal;
+
+        // Attention override: if attention is low, we bring UI at least as close
+        if (useAttention && isAttentionLow)
+        {
+            result = Mathf.Min(result, attentionCloseDistance);
+        }
+
+        return result;
     }
 
     /// <summary>
     /// Writes the desired distance into the AUIT DistanceIntervalObjective.
     /// Requires that DistanceIntervalObjective exposes a public
-    /// 'GoalXYDistance' property mapped to its internal field.
+    /// "GoalXYDistance" property mapped to its internal field.
     /// </summary>
     private void SetGoalDistance(float distance)
     {
