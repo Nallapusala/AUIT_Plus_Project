@@ -125,7 +125,7 @@ public class SemanticUIAdapter : MonoBehaviour
         {
             attentionMonitor.OnAttentionStateChanged += HandleAttentionStateChanged;
 
-            // ★ 不再使用 IsAttentionLow 属性，直接看 CurrentState
+           
             isAttentionLow =
                 (attentionMonitor.CurrentState == AttentionMonitor.AttentionState.LostFocus);
         }
@@ -233,7 +233,7 @@ public class SemanticUIAdapter : MonoBehaviour
 
     private void HandleAttentionStateChanged(AttentionMonitor.AttentionState newState)
     {
-        // ★ 这里也不用 IsAttentionLow，直接用 newState
+        
         isAttentionLow = (newState == AttentionMonitor.AttentionState.LostFocus);
 
         // Only semantic mode uses attention right now.
