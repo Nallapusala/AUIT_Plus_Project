@@ -1,33 +1,32 @@
 using UnityEngine;
 
-/// <summary>
-/// Simple billboard: keeps this object facing the user camera on the horizontal plane.
-/// Position is fully controlled by AUIT; this script only adjusts rotation.
-/// </summary>
 public class UIBillboard : MonoBehaviour
 {
-    [Tooltip("User camera, usually the Main Camera under the XR Origin.")]
     public Transform userCamera;
+    [Tooltip("If your UI appears mirrored, enable this to flip 180 degrees.")]
+    public bool flip180 = true;
 
     private void LateUpdate()
     {
-        // Try to auto-assign the main camera if none is set.
         if (userCamera == null)
         {
-            if (Camera.main != null)
-                userCamera = Camera.main.transform;
-            else
-                return;
+            var cam = Camera.main;
+            if (cam == null) return;
+            userCamera = cam.transform;
         }
 
-        // Direction from this object to the camera (horizontal only).
-        Vector3 toCamera = userCamera.position - transform.position;
-        toCamera.y = 0f;
+        var camPos = userCamera.position;
+        var uiPos = transform.position;
 
-        if (toCamera.sqrMagnitude < 0.0001f)
-            return;
+        Vector3 dir = (uiPos - camPos);
+        dir.y = 0f;
+        if (dir.sqrMagnitude < 1e-6f) return;
 
-        // Face the user ¨C use the *opposite* direction so the front side is visible.
-        transform.rotation = Quaternion.LookRotation(-toCamera.normalized, Vector3.up);
+        // This makes the UI look at the camera (front facing camera)
+        var rot = Quaternion.LookRotation(dir.normalized, Vector3.up);
+
+        if (flip180) rot *= Quaternion.Euler(0f, 180f, 0f);
+
+        transform.rotation = rot;
     }
 }

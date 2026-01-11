@@ -28,7 +28,7 @@ public class AttentionMonitor : MonoBehaviour
     public float focusAngleThreshold = 35f;
 
     [Tooltip("Seconds of looking away from the task anchor before we treat it as 'LostFocus'.")]
-    public float lostFocusDelay = 3f;
+    public float lostFocusDelay = 5f;
 
     public AttentionState CurrentState { get; private set; } = AttentionState.FocusedOnTask;
 
