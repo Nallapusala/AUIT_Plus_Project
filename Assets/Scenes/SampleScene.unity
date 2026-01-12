@@ -232,7 +232,7 @@ Rigidbody:
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
   m_UseGravity: 0
-  m_IsKinematic: 0
+  m_IsKinematic: 1
   m_Interpolate: 1
   m_Constraints: 0
   m_CollisionDetection: 1
@@ -2238,6 +2238,10 @@ PrefabInstance:
     - target: {fileID: 4937641475973602109, guid: 4835b836f2075924d9a5e9e1a81eb538, type: 3}
       propertyPath: m_Layer
       value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4937641475973602109, guid: 4835b836f2075924d9a5e9e1a81eb538, type: 3}
+      propertyPath: m_TagString
+      value: Ingredient
       objectReference: {fileID: 0}
     - target: {fileID: 6550100185431733220, guid: 4835b836f2075924d9a5e9e1a81eb538, type: 3}
       propertyPath: m_Layer
@@ -5923,7 +5927,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5931,7 +5935,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -7378,12 +7382,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 2021502433}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ba4d12db9dc2710439ce01541709f240, type: 3}
+  m_Script: {fileID: 11500000, guid: acdb22969542ff64abc8e118e6c2f0cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FaceCamera
-  cameraTransform: {fileID: 789221007}
-  rotationSpeed: 10
-  maxPitch: 25
+  userCamera: {fileID: 789221007}
 --- !u!114 &2021502446
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7438,6 +7440,10 @@ PrefabInstance:
     - target: {fileID: 4937641475973602109, guid: 4835b836f2075924d9a5e9e1a81eb538, type: 3}
       propertyPath: m_Layer
       value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4937641475973602109, guid: 4835b836f2075924d9a5e9e1a81eb538, type: 3}
+      propertyPath: m_TagString
+      value: Ingredient
       objectReference: {fileID: 0}
     - target: {fileID: 6550100185431733220, guid: 4835b836f2075924d9a5e9e1a81eb538, type: 3}
       propertyPath: m_Layer
