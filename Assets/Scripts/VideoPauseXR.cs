@@ -1,30 +1,40 @@
 using UnityEngine;
 using UnityEngine.Video;
-using UnityEngine.InputSystem;
 
 public class VideoPauseXR : MonoBehaviour
 {
     public VideoPlayer videoPlayer;
-    public InputActionProperty pauseAction;
+    public AudioSource audioSource;
+    public OVRInput.Button pauseButton = OVRInput.Button.One;
 
-    void OnEnable()
+    void Awake()
     {
-        pauseAction.action.Enable();
-    }
+        if (audioSource == null)
+            audioSource = GetComponent<AudioSource>();
 
-    void OnDisable()
-    {
-        pauseAction.action.Disable();
+        videoPlayer.audioOutputMode = VideoAudioOutputMode.AudioSource;
+
+        videoPlayer.EnableAudioTrack(0, true);
+        videoPlayer.SetDirectAudioMute(0, true);
+        videoPlayer.SetDirectAudioVolume(0, 0f);
+
+        videoPlayer.SetTargetAudioSource(0, audioSource);
     }
 
     void Update()
     {
-        if (pauseAction.action.WasPressedThisFrame())
+        if (OVRInput.GetDown(pauseButton))
         {
             if (videoPlayer.isPlaying)
+            {
                 videoPlayer.Pause();
+                audioSource.Pause();
+            }
             else
+            {
                 videoPlayer.Play();
+                audioSource.Play();
+            }
         }
     }
 }

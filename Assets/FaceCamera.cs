@@ -4,29 +4,35 @@ public class FaceCamera : MonoBehaviour
 {
     public Transform cameraTransform;
     public float rotationSpeed = 10f;
-    public float maxPitch = 25f; // degrees
+    public float maxPitch = 25f;
 
     void Start()
     {
         if (cameraTransform == null)
-            cameraTransform = Camera.main.transform;
+        {
+            OVRCameraRig rig = FindObjectOfType<OVRCameraRig>();
+            if (rig != null)
+                cameraTransform = rig.centerEyeAnchor;
+        }
     }
 
     void LateUpdate()
     {
         if (cameraTransform == null) return;
 
-        Vector3 dir = transform.position - cameraTransform.position;
+        Vector3 dir = cameraTransform.position - transform.position;
 
-        Quaternion targetRot = Quaternion.LookRotation(dir);
+        // Remove roll influence completely
+        dir.Normalize();
 
-        Vector3 euler = targetRot.eulerAngles;
+        // Extract yaw only
+        float yaw = Mathf.Atan2(dir.x, dir.z) * Mathf.Rad2Deg;
 
-        // Convert 0–360 to -180–180
-        float pitch = euler.x > 180 ? euler.x - 360 : euler.x;
+        // Optional pitch (very small!)
+        float pitch = -Mathf.Asin(dir.y) * Mathf.Rad2Deg;
         pitch = Mathf.Clamp(pitch, -maxPitch, maxPitch);
 
-        targetRot = Quaternion.Euler(pitch, euler.y, 0);
+        Quaternion targetRot = Quaternion.Euler(pitch, yaw+180f, 0);
 
         transform.rotation = Quaternion.Slerp(
             transform.rotation,
