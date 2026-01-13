@@ -1,168 +1,158 @@
 using UnityEngine;
+using System.Collections.Generic;
 
-public class MultiUIOrchestrator : MonoBehaviour
+public class NoOverlapOrchestrator : MonoBehaviour
 {
+    public enum LayoutMode { SideBySide, Stacked }
+
+    [Header("Layout Settings")]
+    public LayoutMode layoutMode = LayoutMode.SideBySide;
+
+    [Tooltip("Distance from the headset")]
+    public float distance = 1.5f;
+
+    [Tooltip("Gap between the panels in meters")]
+    public float spacing = 0.1f; // Increased default gap
+
+    [Header("Manual Size Overrides (Set > 0 to force size)")]
+    [Tooltip("If auto-size fails, type the width of Panel 1 here (e.g., 0.8 for video)")]
+    public float panel1ManualSize = 0f;
+    [Tooltip("If auto-size fails, type the width of Panel 2 here")]
+    public float panel2ManualSize = 0f;
+
     [Header("References")]
-    [Tooltip("Use OVRCameraRig/TrackingSpace/CenterEyeAnchor")]
     public Transform head;
-
-    [Tooltip("Higher priority panel (e.g., Steps/Checklist)")]
-    public Transform primaryPanel;
-
-    [Tooltip("Lower priority panel (e.g., Video)")]
-    public Transform secondaryPanel;
-
-    [Header("Placement")]
-    [Tooltip("Distance of panels from the user (meters)")]
-    public float distance = 1.2f;
-
-    [Tooltip("Vertical offset relative to head position (meters). Negative means slightly below eye level.")]
-    public float heightOffset = -0.10f;
-
-    [Tooltip("Initial left/right yaw angle for slots (degrees).")]
-    public float slotYawDegrees = 18f;
-
-    [Tooltip("Max yaw if panels need more separation (degrees).")]
-    public float maxSlotYawDegrees = 35f;
-
-    [Tooltip("Extra gap added between panels (meters).")]
-    public float extraGapMeters = 0.10f;
-
-    [Header("Occlusion")]
-    [Tooltip("Raycast layers that can block UI visibility. EXCLUDE the WorldUI layer.")]
-    public LayerMask occlusionMask;
-
-    [Tooltip("If true, swap panels left/right if one side is occluded.")]
-    public bool swapIfOccluded = true;
+    public Transform panel1; // The Video
+    public Transform panel2; // The Instructions
 
     [Header("Smoothing")]
-    public float positionSmoothTime = 0.08f;
-    public float rotationLerpSpeed = 12f;
+    public float movementSmoothTime = 0.2f;
+    public float rotationSmoothTime = 0.1f;
 
-    [Header("Facing")]
-    [Tooltip("Yaw-only facing keeps panels upright and avoids tilting.")]
-    public bool faceUserYawOnly = true;
+    // Internal State
+    private Vector3 currentCenterPos;
+    private Quaternion currentRotation;
+    private Vector3 velocity;
 
-    Vector3 primaryVel, secondaryVel;
-    int assignment = 0; // 0: primary left, secondary right. 1: swapped.
+    void Start()
+    {
+        if (head == null) head = Camera.main.transform;
+
+        // Initialize position to avoid flying in from (0,0,0)
+        currentCenterPos = GetTargetPosition();
+        currentRotation = Quaternion.LookRotation(head.forward);
+    }
 
     void LateUpdate()
     {
-        if (!head || !primaryPanel || !secondaryPanel) return;
+        if (!head) return;
 
-        Vector3 headPos = head.position;
+        // 1. Calculate the ideal "Group Center" in front of the user
+        Vector3 targetPos = GetTargetPosition();
 
-        // Flatten forward to yaw-only so panels don't "bob" with head pitch.
-        Vector3 flatForward = head.forward;
-        flatForward.y = 0f;
-        if (flatForward.sqrMagnitude < 0.0001f) flatForward = Vector3.forward;
-        flatForward.Normalize();
+        // Smoothly move the center point
+        currentCenterPos = Vector3.SmoothDamp(currentCenterPos, targetPos, ref velocity, movementSmoothTime);
 
-        Quaternion baseYawRot = Quaternion.LookRotation(flatForward, Vector3.up);
+        // 2. Rotate to face user (Billboarding)
+        Vector3 dirToHead = (head.position - currentCenterPos).normalized;
+        Quaternion targetRot = Quaternion.LookRotation(dirToHead, Vector3.up);
+        // Correct for UI usually facing backwards, or just LookRotation(dirToHead) if using 3D plane
+        // If your UI is invisible, flip the sign below:
+        currentRotation = Quaternion.Slerp(currentRotation, Quaternion.LookRotation(-dirToHead, Vector3.up), Time.deltaTime / rotationSmoothTime);
 
-        // Determine required separation based on approximate panel sizes.
-        float rA = GetPanelRadius(primaryPanel);
-        float rB = GetPanelRadius(secondaryPanel);
-        float desiredSeparation = rA + rB + extraGapMeters;
+        // 3. Calculate Layout
+        bool p1Active = panel1 != null && panel1.gameObject.activeInHierarchy;
+        bool p2Active = panel2 != null && panel2.gameObject.activeInHierarchy;
 
-        // Increase yaw if panels are too close.
-        float yaw = Mathf.Clamp(slotYawDegrees, 0f, maxSlotYawDegrees);
-        Vector3 leftPos, rightPos;
+        if (!p1Active && !p2Active) return;
 
-        for (int i = 0; i < 8; i++)
+        if (p1Active && !p2Active)
         {
-            leftPos = SlotPosition(headPos, baseYawRot, -yaw);
-            rightPos = SlotPosition(headPos, baseYawRot, yaw);
-
-            float sep = Vector3.Distance(leftPos, rightPos);
-            if (sep >= desiredSeparation || yaw >= maxSlotYawDegrees) break;
-
-            yaw += 2f; // push out a bit more
+            // Only Panel 1
+            PositionPanel(panel1, currentCenterPos, currentRotation);
         }
-
-        leftPos = SlotPosition(headPos, baseYawRot, -yaw);
-        rightPos = SlotPosition(headPos, baseYawRot, yaw);
-
-        if (swapIfOccluded)
+        else if (!p1Active && p2Active)
         {
-            bool occLeft = IsOccluded(headPos, leftPos);
-            bool occRight = IsOccluded(headPos, rightPos);
-
-            // Prefer placing PRIMARY on the unoccluded side.
-            // If both same, keep current assignment (stability).
-            if (occLeft && !occRight) assignment = 1;      // primary goes right
-            else if (!occLeft && occRight) assignment = 0; // primary goes left
-        }
-
-        // Apply assignment
-        Vector3 primaryTarget = (assignment == 0) ? leftPos : rightPos;
-        Vector3 secondaryTarget = (assignment == 0) ? rightPos : leftPos;
-
-        MoveAndFace(primaryPanel, primaryTarget, headPos, ref primaryVel);
-        MoveAndFace(secondaryPanel, secondaryTarget, headPos, ref secondaryVel);
-    }
-
-    Vector3 SlotPosition(Vector3 headPos, Quaternion baseYawRot, float yawDeg)
-    {
-        Quaternion slotRot = baseYawRot * Quaternion.Euler(0f, yawDeg, 0f);
-        Vector3 forward = slotRot * Vector3.forward;
-        return headPos + forward * distance + Vector3.up * heightOffset;
-    }
-
-    void MoveAndFace(Transform panel, Vector3 targetPos, Vector3 headPos, ref Vector3 vel)
-    {
-        panel.position = Vector3.SmoothDamp(panel.position, targetPos, ref vel, positionSmoothTime);
-
-        Quaternion targetRot;
-        if (faceUserYawOnly)
-        {
-            Vector3 toHead = headPos - panel.position;
-            toHead.y = 0f;
-            if (toHead.sqrMagnitude < 0.0001f) toHead = panel.forward;
-            targetRot = Quaternion.LookRotation(toHead.normalized, Vector3.up);
+            // Only Panel 2
+            PositionPanel(panel2, currentCenterPos, currentRotation);
         }
         else
         {
-            Vector3 toHead = (headPos - panel.position).normalized;
-            targetRot = Quaternion.LookRotation(toHead, Vector3.up);
+            // Both Active - SEPARATE THEM
+            ApplySeparation(panel1, panel2);
         }
-
-        float t = 1f - Mathf.Exp(-rotationLerpSpeed * Time.deltaTime);
-        panel.rotation = Quaternion.Slerp(panel.rotation, targetRot, t);
     }
 
-    bool IsOccluded(Vector3 headPos, Vector3 panelPos)
+    void ApplySeparation(Transform p1, Transform p2)
     {
-        Vector3 dir = panelPos - headPos;
-        float dist = dir.magnitude;
-        if (dist < 0.01f) return false;
+        // Get sizes (Use manual override if provided!)
+        float size1 = (panel1ManualSize > 0) ? panel1ManualSize : GetAutoWorldSize(p1);
+        float size2 = (panel2ManualSize > 0) ? panel2ManualSize : GetAutoWorldSize(p2);
 
-        dir /= dist;
-        // If something is between head and panel slot, treat as occluded.
-        return Physics.Raycast(headPos, dir, dist, occlusionMask, QueryTriggerInteraction.Ignore);
-    }
+        float totalSpan = size1 + size2 + spacing;
 
-    float GetPanelRadius(Transform panel)
-    {
-        // 1) If it has a Renderer (e.g., Quad), use its bounds.
-        var rend = panel.GetComponentInChildren<Renderer>();
-        if (rend != null)
+        // Calculate the "Right" vector based on the group rotation
+        Vector3 right = currentRotation * Vector3.right;
+        Vector3 up = currentRotation * Vector3.up;
+
+        if (layoutMode == LayoutMode.SideBySide)
         {
-            Vector3 ext = rend.bounds.extents;
-            return Mathf.Max(ext.x, ext.y, ext.z);
-        }
+            // Move Left relative to center
+            Vector3 p1Pos = currentCenterPos - (right * (totalSpan / 2f)) + (right * (size1 / 2f));
+            // Move Right relative to center
+            Vector3 p2Pos = currentCenterPos + (right * (totalSpan / 2f)) - (right * (size2 / 2f));
 
-        // 2) If it is a Canvas/RectTransform, approximate from rect size + lossy scale.
-        var rt = panel.GetComponentInChildren<RectTransform>();
+            PositionPanel(p1, p1Pos, currentRotation);
+            PositionPanel(p2, p2Pos, currentRotation);
+        }
+        else // Stacked
+        {
+            // Move Up
+            Vector3 p1Pos = currentCenterPos + (up * (totalSpan / 2f)) - (up * (size1 / 2f));
+            // Move Down
+            Vector3 p2Pos = currentCenterPos - (up * (totalSpan / 2f)) + (up * (size2 / 2f));
+
+            PositionPanel(p1, p1Pos, currentRotation);
+            PositionPanel(p2, p2Pos, currentRotation);
+        }
+    }
+
+    void PositionPanel(Transform t, Vector3 pos, Quaternion rot)
+    {
+        t.position = pos;
+        t.rotation = rot;
+    }
+
+    // Helper to try and guess size if manual size isn't set
+    float GetAutoWorldSize(Transform t)
+    {
+        // 1. Try RectTransform (UI)
+        var rt = t.GetComponent<RectTransform>();
         if (rt != null)
         {
-            Vector3 s = rt.lossyScale;
-            float w = Mathf.Abs(rt.rect.width * s.x);
-            float h = Mathf.Abs(rt.rect.height * s.y);
-            return 0.5f * Mathf.Max(w, h);
+            if (layoutMode == LayoutMode.SideBySide)
+                return rt.rect.width * t.lossyScale.x;
+            else
+                return rt.rect.height * t.lossyScale.y;
         }
 
-        // Fallback
-        return 0.25f;
+        // 2. Try Mesh Renderer (3D Objects / Quads)
+        var rend = t.GetComponent<Renderer>();
+        if (rend != null)
+        {
+            if (layoutMode == LayoutMode.SideBySide)
+                return rend.bounds.size.x;
+            else
+                return rend.bounds.size.y;
+        }
+
+        return 0.5f; // Fallback
+    }
+
+    Vector3 GetTargetPosition()
+    {
+        Vector3 flatForward = head.forward;
+        flatForward.y = 0;
+        return head.position + flatForward.normalized * distance;
     }
 }
