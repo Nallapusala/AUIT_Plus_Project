@@ -1,158 +1,289 @@
 using UnityEngine;
-using System.Collections.Generic;
 
-public class NoOverlapOrchestrator : MonoBehaviour
+public class TwoPanelViewSlotterAvoidEnv : MonoBehaviour
 {
-    public enum LayoutMode { SideBySide, Stacked }
-
-    [Header("Layout Settings")]
-    public LayoutMode layoutMode = LayoutMode.SideBySide;
-
-    [Tooltip("Distance from the headset")]
-    public float distance = 1.5f;
-
-    [Tooltip("Gap between the panels in meters")]
-    public float spacing = 0.1f; // Increased default gap
-
-    [Header("Manual Size Overrides (Set > 0 to force size)")]
-    [Tooltip("If auto-size fails, type the width of Panel 1 here (e.g., 0.8 for video)")]
-    public float panel1ManualSize = 0f;
-    [Tooltip("If auto-size fails, type the width of Panel 2 here")]
-    public float panel2ManualSize = 0f;
-
     [Header("References")]
+    [Tooltip("XR Main Camera / CenterEyeAnchor")]
     public Transform head;
-    public Transform panel1; // The Video
-    public Transform panel2; // The Instructions
+
+    public Transform primaryPanel;
+    public Transform secondaryPanel;
+
+    [Header("Optional: read AUIT 'desired' poses (recommended)")]
+    public Transform primaryDesiredPose;
+    public Transform secondaryDesiredPose;
+
+    [Header("View Slotting")]
+    public float baseDistance = 1.2f;
+    public float minDistance = 0.8f;
+    public float maxDistance = 2.0f;
+    public float heightOffset = -0.10f;
+
+    public float minSlotYawDegrees = 18f;
+    public float maxSlotYawDegrees = 40f;
+
+    public float extraGapMeters = 0.10f;
+    public float radiusMultiplier = 1.10f;
+
+    [Header("Environment Avoidance")]
+    [Tooltip("Layers for furniture/walls/etc. EXCLUDE any UI layers.")]
+    public LayerMask environmentMask;
+
+    [Tooltip("Extra space kept between UI and obstacles (meters).")]
+    public float obstacleClearance = 0.08f;
+
+    [Tooltip("Adds a little padding to the sphere cast radius.")]
+    public float castRadiusPadding = 0.02f;
+
+    [Tooltip("How many distance steps (pull closer) to try when blocked.")]
+    public int distanceTries = 8;
+
+    [Tooltip("How many height offsets to try when blocked (pattern: 0,+,-,+2,-2...).")]
+    public int heightTries = 5;
+
+    [Tooltip("Height step size (meters) for retries.")]
+    public float heightStep = 0.12f;
+
+    [Header("Assignment Stability")]
+    public float swapHysteresisDegrees = 6f;
 
     [Header("Smoothing")]
-    public float movementSmoothTime = 0.2f;
-    public float rotationSmoothTime = 0.1f;
+    public float positionSmoothTime = 0.08f;
+    public float rotationLerpSpeed = 12f;
 
-    // Internal State
-    private Vector3 currentCenterPos;
-    private Quaternion currentRotation;
-    private Vector3 velocity;
+    [Header("Facing")]
+    public bool faceUserYawOnly = true;
 
-    void Start()
-    {
-        if (head == null) head = Camera.main.transform;
-
-        // Initialize position to avoid flying in from (0,0,0)
-        currentCenterPos = GetTargetPosition();
-        currentRotation = Quaternion.LookRotation(head.forward);
-    }
+    private int assignment = 0; // 0: primary left, 1: primary right
+    private Vector3 primaryVel, secondaryVel;
 
     void LateUpdate()
     {
-        if (!head) return;
+        if (!head || !primaryPanel || !secondaryPanel) return;
 
-        // 1. Calculate the ideal "Group Center" in front of the user
-        Vector3 targetPos = GetTargetPosition();
+        Vector3 headPos = head.position;
 
-        // Smoothly move the center point
-        currentCenterPos = Vector3.SmoothDamp(currentCenterPos, targetPos, ref velocity, movementSmoothTime);
+        // Yaw-only forward
+        Vector3 flatForward = head.forward;
+        flatForward.y = 0f;
+        if (flatForward.sqrMagnitude < 1e-6f) flatForward = Vector3.forward;
+        flatForward.Normalize();
 
-        // 2. Rotate to face user (Billboarding)
-        Vector3 dirToHead = (head.position - currentCenterPos).normalized;
-        Quaternion targetRot = Quaternion.LookRotation(dirToHead, Vector3.up);
-        // Correct for UI usually facing backwards, or just LookRotation(dirToHead) if using 3D plane
-        // If your UI is invisible, flip the sign below:
-        currentRotation = Quaternion.Slerp(currentRotation, Quaternion.LookRotation(-dirToHead, Vector3.up), Time.deltaTime / rotationSmoothTime);
+        Quaternion baseYawRot = Quaternion.LookRotation(flatForward, Vector3.up);
 
-        // 3. Calculate Layout
-        bool p1Active = panel1 != null && panel1.gameObject.activeInHierarchy;
-        bool p2Active = panel2 != null && panel2.gameObject.activeInHierarchy;
+        // Desired poses (AUIT-driven if provided)
+        Vector3 pDesiredPos = (primaryDesiredPose ? primaryDesiredPose.position : primaryPanel.position);
+        Vector3 sDesiredPos = (secondaryDesiredPose ? secondaryDesiredPose.position : secondaryPanel.position);
 
-        if (!p1Active && !p2Active) return;
+        float pDesiredYaw = SignedYawDeg(headPos, baseYawRot, pDesiredPos);
+        float sDesiredYaw = SignedYawDeg(headPos, baseYawRot, sDesiredPos);
 
-        if (p1Active && !p2Active)
+        assignment = ChooseBestAssignment(pDesiredYaw, sDesiredYaw, assignment);
+
+        float leftDesiredYaw = (assignment == 0) ? pDesiredYaw : sDesiredYaw;
+        float rightDesiredYaw = (assignment == 0) ? sDesiredYaw : pDesiredYaw;
+
+        float leftYaw = ClampLeft(leftDesiredYaw);
+        float rightYaw = ClampRight(rightDesiredYaw);
+
+        float usedDistance = Mathf.Clamp(baseDistance, minDistance, maxDistance);
+
+        // Radii for separation check
+        float rPrimary = GetPanelRadius(primaryPanel) * radiusMultiplier;
+        float rSecondary = GetPanelRadius(secondaryPanel) * radiusMultiplier;
+        float desiredSeparation = rPrimary + rSecondary + extraGapMeters;
+
+        // Try a few iterations: (solve env) then (ensure separation) by widening yaw if needed.
+        float yawAbs = Mathf.Clamp(Mathf.Max(Mathf.Abs(leftYaw), Mathf.Abs(rightYaw)), minSlotYawDegrees, maxSlotYawDegrees);
+
+        Vector3 leftPos = Vector3.zero, rightPos = Vector3.zero;
+
+        for (int iter = 0; iter < 6; iter++)
         {
-            // Only Panel 1
-            PositionPanel(panel1, currentCenterPos, currentRotation);
+            leftYaw = -yawAbs;
+            rightYaw = yawAbs;
+
+            // Which panel is on left/right for env solving?
+            Transform leftPanel = (assignment == 0) ? primaryPanel : secondaryPanel;
+            Transform rightPanel = (assignment == 0) ? secondaryPanel : primaryPanel;
+
+            float leftRadius = GetPanelRadius(leftPanel) * radiusMultiplier;
+            float rightRadius = GetPanelRadius(rightPanel) * radiusMultiplier;
+
+            leftPos = SolveSlot(headPos, baseYawRot, leftYaw, usedDistance, heightOffset, leftRadius);
+            rightPos = SolveSlot(headPos, baseYawRot, rightYaw, usedDistance, heightOffset, rightRadius);
+
+            float sep = Vector3.Distance(leftPos, rightPos);
+            if (sep >= desiredSeparation || yawAbs >= maxSlotYawDegrees) break;
+
+            yawAbs = Mathf.Min(yawAbs + 2f, maxSlotYawDegrees);
         }
-        else if (!p1Active && p2Active)
+
+        Vector3 primaryTarget = (assignment == 0) ? leftPos : rightPos;
+        Vector3 secondaryTarget = (assignment == 0) ? rightPos : leftPos;
+
+        MoveAndFace(primaryPanel, primaryTarget, headPos, ref primaryVel);
+        MoveAndFace(secondaryPanel, secondaryTarget, headPos, ref secondaryVel);
+    }
+
+    Vector3 SolveSlot(Vector3 headPos, Quaternion baseYawRot, float yawDeg, float desiredDist, float baseHeight, float radius)
+    {
+        Vector3 forward = (baseYawRot * Quaternion.Euler(0f, yawDeg, 0f)) * Vector3.forward;
+        float castRadius = Mathf.Max(0.01f, radius + castRadiusPadding);
+
+        // Height offsets to try: 0, +1, -1, +2, -2, ...
+        for (int h = 0; h < Mathf.Max(1, heightTries); h++)
         {
-            // Only Panel 2
-            PositionPanel(panel2, currentCenterPos, currentRotation);
+            float hMul = (h == 0) ? 0f : Mathf.Ceil(h * 0.5f) * ((h % 2 == 1) ? 1f : -1f);
+            float heightTry = baseHeight + hMul * heightStep;
+
+            // Pull closer if blocked
+            for (int d = 0; d < Mathf.Max(1, distanceTries); d++)
+            {
+                float t = (distanceTries <= 1) ? 0f : (d / (float)(distanceTries - 1));
+                float distTry = Mathf.Lerp(desiredDist, minDistance, t);
+                distTry = Mathf.Clamp(distTry, minDistance, maxDistance);
+
+                Vector3 candidate = headPos + forward * distTry + Vector3.up * heightTry;
+
+                if (IsClear(headPos, candidate, castRadius))
+                    return candidate;
+
+                // If blocked, try clipping to just before the hit (still keeping the same direction)
+                if (TryClipBeforeObstacle(headPos, candidate, castRadius, out Vector3 clipped))
+                {
+                    // Keep height close to intended (optional). Comment out the next line if you prefer the clipped height.
+                    clipped.y = headPos.y + heightTry;
+
+                    // If that reintroduced collision, skip; otherwise accept.
+                    if (IsClear(headPos, clipped, castRadius))
+                        return clipped;
+                }
+            }
+        }
+
+        // Worst-case fallback: just return the desired position.
+        return headPos + forward * Mathf.Clamp(desiredDist, minDistance, maxDistance) + Vector3.up * baseHeight;
+    }
+
+    bool IsClear(Vector3 headPos, Vector3 targetPos, float radius)
+    {
+        Vector3 dir = targetPos - headPos;
+        float dist = dir.magnitude;
+        if (dist < 0.01f) return true;
+        dir /= dist;
+
+        // 1) line-of-sight sphere cast
+        if (Physics.SphereCast(headPos, radius, dir, out _, dist, environmentMask, QueryTriggerInteraction.Ignore))
+            return false;
+
+        // 2) ensure we are not intersecting environment at the target
+        if (Physics.CheckSphere(targetPos, radius, environmentMask, QueryTriggerInteraction.Ignore))
+            return false;
+
+        return true;
+    }
+
+    bool TryClipBeforeObstacle(Vector3 headPos, Vector3 targetPos, float radius, out Vector3 clippedPos)
+    {
+        clippedPos = targetPos;
+
+        Vector3 dir = targetPos - headPos;
+        float dist = dir.magnitude;
+        if (dist < 0.01f) return false;
+        dir /= dist;
+
+        if (Physics.SphereCast(headPos, radius, dir, out RaycastHit hit, dist, environmentMask, QueryTriggerInteraction.Ignore))
+        {
+            float safe = Mathf.Max(0.05f, hit.distance - obstacleClearance);
+            clippedPos = headPos + dir * safe;
+            return true;
+        }
+
+        return false;
+    }
+
+    int ChooseBestAssignment(float pYaw, float sYaw, int current)
+    {
+        float cost0 = Mathf.Abs(ClampLeft(pYaw) - pYaw) + Mathf.Abs(ClampRight(sYaw) - sYaw);
+        float cost1 = Mathf.Abs(ClampLeft(sYaw) - sYaw) + Mathf.Abs(ClampRight(pYaw) - pYaw);
+
+        int best = (cost1 + swapHysteresisDegrees < cost0) ? 1 : 0;
+
+        if (best != current)
+        {
+            float currentCost = (current == 0) ? cost0 : cost1;
+            float bestCost = (best == 0) ? cost0 : cost1;
+            if (bestCost > currentCost - swapHysteresisDegrees) best = current;
+        }
+
+        return best;
+    }
+
+    float ClampLeft(float yawDeg)
+    {
+        float y = yawDeg;
+        if (y > 0f) y = -y;
+        return Mathf.Clamp(y, -maxSlotYawDegrees, -minSlotYawDegrees);
+    }
+
+    float ClampRight(float yawDeg)
+    {
+        float y = yawDeg;
+        if (y < 0f) y = -y;
+        return Mathf.Clamp(y, minSlotYawDegrees, maxSlotYawDegrees);
+    }
+
+    float SignedYawDeg(Vector3 headPos, Quaternion baseYawRot, Vector3 worldPos)
+    {
+        Vector3 to = worldPos - headPos;
+        to.y = 0f;
+        if (to.sqrMagnitude < 1e-6f) return 0f;
+        to.Normalize();
+        Vector3 fwd = baseYawRot * Vector3.forward;
+        return Vector3.SignedAngle(fwd, to, Vector3.up);
+    }
+
+    void MoveAndFace(Transform panel, Vector3 targetPos, Vector3 headPos, ref Vector3 vel)
+    {
+        panel.position = Vector3.SmoothDamp(panel.position, targetPos, ref vel, positionSmoothTime);
+
+        Quaternion targetRot;
+        if (faceUserYawOnly)
+        {
+            Vector3 toHead = headPos - panel.position;
+            toHead.y = 0f;
+            if (toHead.sqrMagnitude < 1e-6f) toHead = panel.forward;
+            targetRot = Quaternion.LookRotation(toHead.normalized, Vector3.up);
         }
         else
         {
-            // Both Active - SEPARATE THEM
-            ApplySeparation(panel1, panel2);
+            Vector3 toHead = (headPos - panel.position).normalized;
+            targetRot = Quaternion.LookRotation(toHead, Vector3.up);
         }
+
+        float t = 1f - Mathf.Exp(-rotationLerpSpeed * Time.deltaTime);
+        panel.rotation = Quaternion.Slerp(panel.rotation, targetRot, t);
     }
 
-    void ApplySeparation(Transform p1, Transform p2)
+    float GetPanelRadius(Transform panel)
     {
-        // Get sizes (Use manual override if provided!)
-        float size1 = (panel1ManualSize > 0) ? panel1ManualSize : GetAutoWorldSize(p1);
-        float size2 = (panel2ManualSize > 0) ? panel2ManualSize : GetAutoWorldSize(p2);
-
-        float totalSpan = size1 + size2 + spacing;
-
-        // Calculate the "Right" vector based on the group rotation
-        Vector3 right = currentRotation * Vector3.right;
-        Vector3 up = currentRotation * Vector3.up;
-
-        if (layoutMode == LayoutMode.SideBySide)
-        {
-            // Move Left relative to center
-            Vector3 p1Pos = currentCenterPos - (right * (totalSpan / 2f)) + (right * (size1 / 2f));
-            // Move Right relative to center
-            Vector3 p2Pos = currentCenterPos + (right * (totalSpan / 2f)) - (right * (size2 / 2f));
-
-            PositionPanel(p1, p1Pos, currentRotation);
-            PositionPanel(p2, p2Pos, currentRotation);
-        }
-        else // Stacked
-        {
-            // Move Up
-            Vector3 p1Pos = currentCenterPos + (up * (totalSpan / 2f)) - (up * (size1 / 2f));
-            // Move Down
-            Vector3 p2Pos = currentCenterPos - (up * (totalSpan / 2f)) + (up * (size2 / 2f));
-
-            PositionPanel(p1, p1Pos, currentRotation);
-            PositionPanel(p2, p2Pos, currentRotation);
-        }
-    }
-
-    void PositionPanel(Transform t, Vector3 pos, Quaternion rot)
-    {
-        t.position = pos;
-        t.rotation = rot;
-    }
-
-    // Helper to try and guess size if manual size isn't set
-    float GetAutoWorldSize(Transform t)
-    {
-        // 1. Try RectTransform (UI)
-        var rt = t.GetComponent<RectTransform>();
-        if (rt != null)
-        {
-            if (layoutMode == LayoutMode.SideBySide)
-                return rt.rect.width * t.lossyScale.x;
-            else
-                return rt.rect.height * t.lossyScale.y;
-        }
-
-        // 2. Try Mesh Renderer (3D Objects / Quads)
-        var rend = t.GetComponent<Renderer>();
+        var rend = panel.GetComponentInChildren<Renderer>();
         if (rend != null)
         {
-            if (layoutMode == LayoutMode.SideBySide)
-                return rend.bounds.size.x;
-            else
-                return rend.bounds.size.y;
+            Vector3 ext = rend.bounds.extents;
+            return Mathf.Max(ext.x, ext.y, ext.z);
         }
 
-        return 0.5f; // Fallback
-    }
+        var rt = panel.GetComponentInChildren<RectTransform>();
+        if (rt != null)
+        {
+            Vector3 s = rt.lossyScale;
+            float w = Mathf.Abs(rt.rect.width * s.x);
+            float h = Mathf.Abs(rt.rect.height * s.y);
+            return 0.5f * Mathf.Max(w, h);
+        }
 
-    Vector3 GetTargetPosition()
-    {
-        Vector3 flatForward = head.forward;
-        flatForward.y = 0;
-        return head.position + flatForward.normalized * distance;
+        return 0.25f;
     }
 }
