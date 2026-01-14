@@ -633,7 +633,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &103741135
 Transform:
   m_ObjectHideFlags: 0
@@ -2998,20 +2998,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ResearchLogManager
   participantID: dummy
-  sequenceOrder: ABC
-  activeScenario: 0
+  sequenceOrder: BAC
+  activeScenario: 2
   head: {fileID: 789221007}
   videoPanel: {fileID: 2021502434}
   instructionPanel: {fileID: 134079333}
   environmentLayer:
     serializedVersion: 2
-    m_Bits: 0
-  isRecording: 0
+    m_Bits: 64
+  sampleHz: 10
+  comfortConeDeg: 25
+  minDistanceMeters: 0.8
+  maxDistanceMeters: 1.6
   gazeUiLayer:
     serializedVersion: 2
     m_Bits: 0
   gazeMaxDistance: 20
   gazeSphereRadius: 0.02
+  isRecording: 0
 --- !u!4 &446813723
 Transform:
   m_ObjectHideFlags: 0
@@ -5695,7 +5699,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &938490078
 Transform:
   m_ObjectHideFlags: 0
