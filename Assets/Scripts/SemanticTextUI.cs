@@ -75,11 +75,11 @@ public class SemanticTextUI : MonoBehaviour
         switch (step)
         {
             case TaskStepManager.TaskStep.Welcome: return "Welcome";
-            case TaskStepManager.TaskStep.Milk: return "Add milk";
-            case TaskStepManager.TaskStep.Flour: return "Add flour";
-            case TaskStepManager.TaskStep.Sugar: return "Add sugar";
-            case TaskStepManager.TaskStep.Eggs: return "Add eggs";
-            case TaskStepManager.TaskStep.MixingBowl: return "Place bowl in oven";
+            case TaskStepManager.TaskStep.Milk: return "Add Milk";
+            case TaskStepManager.TaskStep.Flour: return "Add Flour";
+            case TaskStepManager.TaskStep.Sugar: return "Add Sugar";
+            case TaskStepManager.TaskStep.Eggs: return "Add Eggs";
+            case TaskStepManager.TaskStep.MixingBowl: return "Move Bowl";
             case TaskStepManager.TaskStep.End: return "Done";
             default: return step.ToString();
         }
