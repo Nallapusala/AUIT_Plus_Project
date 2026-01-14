@@ -29,6 +29,8 @@ TagManager:
   - SamplesInfoPanel
   - QDSUIToggleCheckboxRadio
   - Ingredient
+  - VideoPanel
+  - InstructionPanel
   layers:
   - Default
   - TransparentFX
@@ -37,7 +39,7 @@ TagManager:
   - Water
   - UI
   - Occlusion
-  - 
+  - GazeUI
   - 
   - 
   - 
