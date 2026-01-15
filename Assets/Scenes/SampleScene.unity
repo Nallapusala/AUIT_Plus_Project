@@ -721,7 +721,7 @@ MonoBehaviour:
   contextSource: 1
   transformOverride: {fileID: 0}
   weight: 0.5
-  goalXYDistance: 0.3
+  goalXYDistance: 0.5
   yInterval: 0.25
   distanceXZInterval: 0.1
   maxDistance: 2
@@ -737,7 +737,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ebc884c91544631a15d11944dec6e3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AUIT.PropertyTransitions.SmoothMovementTransition
-  transitionSpeed: 1
+  transitionSpeed: 4
 --- !u!114 &134079329
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2636,7 +2636,7 @@ MonoBehaviour:
   contextSource: 1
   transformOverride: {fileID: 0}
   weight: 0.5
-  goalXYDistance: 0.3
+  goalXYDistance: 0.5
   yInterval: 0.25
   distanceXZInterval: 0.1
   maxDistance: 2
@@ -2984,7 +2984,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &446813722
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2997,9 +2997,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02a52267cb32d7c4aa0f914165a92dae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ResearchLogManager
-  participantID: dummy
-  sequenceOrder: BAC
-  activeScenario: 2
+  participantID: Xiangli Yu
+  sequenceOrder: CBA
+  activeScenario: 0
   head: {fileID: 789221007}
   videoPanel: {fileID: 2021502434}
   instructionPanel: {fileID: 134079333}
@@ -8681,7 +8681,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -9118,10 +9118,8 @@ MonoBehaviour:
     clipStartTime: 0
     clipDuration: 0
     semanticAnchors: []
-  - step: 2
-    instructionText: 'Add Milk from refrigerator to the bowl
-
-'
+  - step: 5
+    instructionText: Grab eggs from counter
     optionalClip: {fileID: 0}
     clipStartTime: 0
     clipDuration: 0
@@ -9132,14 +9130,16 @@ MonoBehaviour:
     clipStartTime: 0
     clipDuration: 0
     semanticAnchors: []
-  - step: 3
-    instructionText: Add Flour from right cupboard.
+  - step: 2
+    instructionText: 'Add Milk from refrigerator to the bowl
+
+'
     optionalClip: {fileID: 0}
     clipStartTime: 0
     clipDuration: 0
     semanticAnchors: []
-  - step: 5
-    instructionText: Grab eggs from counter
+  - step: 3
+    instructionText: Add Flour from right cupboard.
     optionalClip: {fileID: 0}
     clipStartTime: 0
     clipDuration: 0

@@ -59,18 +59,18 @@ public class StepAdvanceOnButton : MonoBehaviour
         switch (current)
         {
             case TaskStepManager.TaskStep.Welcome:
+                return TaskStepManager.TaskStep.Eggs;
+
+            case TaskStepManager.TaskStep.Eggs:
+                return TaskStepManager.TaskStep.Sugar;
+
+            case TaskStepManager.TaskStep.Sugar:
                 return TaskStepManager.TaskStep.Milk;
 
             case TaskStepManager.TaskStep.Milk:
                 return TaskStepManager.TaskStep.Flour;
 
             case TaskStepManager.TaskStep.Flour:
-                return TaskStepManager.TaskStep.Sugar;
-
-            case TaskStepManager.TaskStep.Sugar:
-                return TaskStepManager.TaskStep.Eggs;
-
-            case TaskStepManager.TaskStep.Eggs:
                 return TaskStepManager.TaskStep.MixingBowl;
 
             case TaskStepManager.TaskStep.MixingBowl:

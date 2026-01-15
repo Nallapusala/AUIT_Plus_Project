@@ -21,6 +21,6 @@ public class StepAutoStart : MonoBehaviour
         if (stepManager == null) return;
 
         if (stepManager.CurrentStep == TaskStepManager.TaskStep.Welcome)
-            stepManager.SetStep(TaskStepManager.TaskStep.Milk);
+            stepManager.SetStep(TaskStepManager.TaskStep.Eggs);
     }
 }

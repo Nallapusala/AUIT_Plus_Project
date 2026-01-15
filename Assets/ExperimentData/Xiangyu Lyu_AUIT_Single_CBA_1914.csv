@@ -1,0 +1,810 @@
+Time,ParticipantID,Scenario,Sequence,HeadX,HeadY,HeadZ,HeadYaw,HeadPitch,VideoX,VideoY,VideoZ,InstX,InstY,InstZ,GazeTarget,HitObjectName,AngleToVideo,AngleToInst,VideoDist,InstDist,VideoOcc,InstOcc,VideoOccHitName,InstOccHitName,VideoInCone,InstInCone,VideoVisible,InstVisible,VideoSpeed,InstSpeed,PanelSeparation,ScreenOverlapPct,BothVisible
+0.00,Xiangli Yu,AUIT_Single,CBA,1.000,0.000,0.890,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,15.1,NaN,13.383,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.35,Xiangli Yu,AUIT_Single,CBA,1.000,0.000,0.890,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,15.1,NaN,13.383,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.39,Xiangli Yu,AUIT_Single,CBA,1.000,0.000,0.890,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,15.1,NaN,13.383,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.40,Xiangli Yu,AUIT_Single,CBA,1.000,0.000,0.890,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,15.1,NaN,13.383,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.42,Xiangli Yu,AUIT_Single,CBA,1.000,0.000,0.890,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,15.1,NaN,13.383,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.51,Xiangli Yu,AUIT_Single,CBA,1.000,0.000,0.890,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,15.1,NaN,13.383,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.61,Xiangli Yu,AUIT_Single,CBA,1.000,0.000,0.890,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,15.1,NaN,13.383,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.71,Xiangli Yu,AUIT_Single,CBA,1.000,0.000,0.890,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,15.1,NaN,13.383,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+1.11,Xiangli Yu,AUIT_Single,CBA,1.000,0.000,0.890,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,15.1,NaN,13.383,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+1.13,Xiangli Yu,AUIT_Single,CBA,0.833,1.725,1.383,23.8,35.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,48.5,NaN,12.798,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.17,Xiangli Yu,AUIT_Single,CBA,0.832,1.725,1.383,23.8,35.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,48.5,NaN,12.797,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.19,Xiangli Yu,AUIT_Single,CBA,0.828,1.724,1.384,23.8,35.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,48.4,NaN,12.796,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.21,Xiangli Yu,AUIT_Single,CBA,0.826,1.724,1.384,23.9,34.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,48.3,NaN,12.795,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.30,Xiangli Yu,AUIT_Single,CBA,0.821,1.726,1.384,24.1,34.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,47.9,NaN,12.794,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.41,Xiangli Yu,AUIT_Single,CBA,0.817,1.728,1.384,24.2,33.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,47.6,NaN,12.793,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.51,Xiangli Yu,AUIT_Single,CBA,0.815,1.730,1.382,24.2,32.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,47.1,NaN,12.794,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.61,Xiangli Yu,AUIT_Single,CBA,0.813,1.732,1.381,23.9,31.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,46.4,NaN,12.795,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.89,Xiangli Yu,AUIT_Single,CBA,0.813,1.734,1.380,23.8,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,45.9,NaN,12.796,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.90,Xiangli Yu,AUIT_Single,CBA,0.812,1.736,1.378,23.6,29.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,45.2,NaN,12.798,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.91,Xiangli Yu,AUIT_Single,CBA,0.813,1.735,1.378,22.8,30.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,44.8,NaN,12.798,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.01,Xiangli Yu,AUIT_Single,CBA,0.805,1.736,1.379,16.8,29.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,39.9,NaN,12.796,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.11,Xiangli Yu,AUIT_Single,CBA,0.800,1.734,1.378,11.7,28.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,36.3,NaN,12.796,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.21,Xiangli Yu,AUIT_Single,CBA,0.801,1.727,1.371,9.8,31.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,36.9,NaN,12.803,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.30,Xiangli Yu,AUIT_Single,CBA,0.809,1.724,1.360,9.1,32.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,37.7,NaN,12.814,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.66,Xiangli Yu,AUIT_Single,CBA,0.847,1.713,1.328,8.4,38.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.9,NaN,12.854,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.68,Xiangli Yu,AUIT_Single,CBA,0.888,1.708,1.299,7.7,41.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,44.7,NaN,12.892,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.69,Xiangli Yu,AUIT_Single,CBA,0.891,1.708,1.296,7.6,42.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,44.9,NaN,12.895,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.71,Xiangli Yu,AUIT_Single,CBA,0.895,1.708,1.294,7.6,42.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,45.2,NaN,12.899,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.80,Xiangli Yu,AUIT_Single,CBA,0.915,1.701,1.272,4.9,42.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,44.4,NaN,12.924,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.91,Xiangli Yu,AUIT_Single,CBA,0.934,1.707,1.252,1.9,40.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.6,NaN,12.949,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+3.01,Xiangli Yu,AUIT_Single,CBA,0.945,1.713,1.238,358.7,37.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,37.5,NaN,12.965,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+3.11,Xiangli Yu,AUIT_Single,CBA,0.949,1.723,1.230,355.4,32.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.8,NaN,12.974,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+3.42,Xiangli Yu,AUIT_Single,CBA,0.941,1.742,1.219,351.6,23.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,22.8,NaN,12.983,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.44,Xiangli Yu,AUIT_Single,CBA,0.924,1.752,1.215,351.2,21.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,20.3,NaN,12.984,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.45,Xiangli Yu,AUIT_Single,CBA,0.922,1.753,1.215,351.3,21.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,20.3,NaN,12.983,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.51,Xiangli Yu,AUIT_Single,CBA,0.914,1.756,1.212,351.5,21.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,20.2,NaN,12.984,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.60,Xiangli Yu,AUIT_Single,CBA,0.900,1.759,1.209,352.3,19.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,19.2,NaN,12.984,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.70,Xiangli Yu,AUIT_Single,CBA,0.886,1.761,1.207,353.3,19.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,19.4,NaN,12.983,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.81,Xiangli Yu,AUIT_Single,CBA,0.871,1.763,1.202,353.2,19.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,19.4,NaN,12.984,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.91,Xiangli Yu,AUIT_Single,CBA,0.860,1.762,1.197,353.9,20.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,20.4,NaN,12.986,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+4.20,Xiangli Yu,AUIT_Single,CBA,0.853,1.757,1.191,355.8,23.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,24.0,NaN,12.990,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+4.22,Xiangli Yu,AUIT_Single,CBA,0.845,1.745,1.185,358.0,29.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.5,NaN,12.994,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.23,Xiangli Yu,AUIT_Single,CBA,0.846,1.744,1.185,357.8,29.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,30.2,NaN,12.994,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.31,Xiangli Yu,AUIT_Single,CBA,0.847,1.737,1.184,358.2,32.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,33.0,NaN,12.995,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.41,Xiangli Yu,AUIT_Single,CBA,0.849,1.731,1.184,359.1,34.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.3,NaN,12.995,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.51,Xiangli Yu,AUIT_Single,CBA,0.854,1.728,1.186,0.4,36.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,36.9,NaN,12.994,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.60,Xiangli Yu,AUIT_Single,CBA,0.859,1.724,1.189,1.7,37.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,38.6,NaN,12.993,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.96,Xiangli Yu,AUIT_Single,CBA,0.876,1.716,1.197,4.2,40.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.9,NaN,12.989,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.98,Xiangli Yu,AUIT_Single,CBA,0.879,1.715,1.198,4.4,40.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.2,NaN,12.988,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.99,Xiangli Yu,AUIT_Single,CBA,0.880,1.715,1.198,4.5,40.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.3,NaN,12.988,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.01,Xiangli Yu,AUIT_Single,CBA,0.881,1.715,1.199,4.5,40.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.4,NaN,12.988,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.10,Xiangli Yu,AUIT_Single,CBA,0.886,1.714,1.201,5.1,40.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.9,NaN,12.987,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.20,Xiangli Yu,AUIT_Single,CBA,0.890,1.713,1.202,5.9,41.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.6,NaN,12.987,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.31,Xiangli Yu,AUIT_Single,CBA,0.894,1.713,1.203,6.5,41.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.8,NaN,12.987,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.41,Xiangli Yu,AUIT_Single,CBA,0.896,1.713,1.203,6.5,41.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.9,NaN,12.987,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.73,Xiangli Yu,AUIT_Single,CBA,0.898,1.715,1.204,6.9,40.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.5,NaN,12.987,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.74,Xiangli Yu,AUIT_Single,CBA,0.899,1.715,1.204,7.2,40.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.5,NaN,12.987,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.76,Xiangli Yu,AUIT_Single,CBA,0.899,1.715,1.204,7.3,40.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.6,NaN,12.987,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.81,Xiangli Yu,AUIT_Single,CBA,0.899,1.715,1.204,7.4,40.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.7,NaN,12.988,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.91,Xiangli Yu,AUIT_Single,CBA,0.899,1.714,1.204,7.3,40.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.8,NaN,12.988,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.01,Xiangli Yu,AUIT_Single,CBA,0.898,1.714,1.204,6.6,40.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.4,NaN,12.987,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.10,Xiangli Yu,AUIT_Single,CBA,0.896,1.715,1.204,5.7,40.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.9,NaN,12.986,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.20,Xiangli Yu,AUIT_Single,CBA,0.895,1.715,1.205,5.0,40.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.6,NaN,12.985,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.49,Xiangli Yu,AUIT_Single,CBA,0.892,1.715,1.206,3.6,40.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.1,NaN,12.983,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.51,Xiangli Yu,AUIT_Single,CBA,0.887,1.716,1.207,1.9,40.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.2,NaN,12.981,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.52,Xiangli Yu,AUIT_Single,CBA,0.886,1.716,1.207,1.7,40.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.1,NaN,12.981,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.60,Xiangli Yu,AUIT_Single,CBA,0.884,1.716,1.208,0.8,40.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,40.7,NaN,12.979,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.70,Xiangli Yu,AUIT_Single,CBA,0.880,1.716,1.210,359.4,40.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,40.4,NaN,12.977,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.81,Xiangli Yu,AUIT_Single,CBA,0.877,1.716,1.211,358.4,40.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,40.1,NaN,12.975,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.91,Xiangli Yu,AUIT_Single,CBA,0.876,1.716,1.212,358.7,40.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,40.4,NaN,12.974,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.27,Xiangli Yu,AUIT_Single,CBA,0.873,1.714,1.213,359.5,40.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.0,NaN,12.972,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.29,Xiangli Yu,AUIT_Single,CBA,0.873,1.714,1.214,359.9,40.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.3,NaN,12.971,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.30,Xiangli Yu,AUIT_Single,CBA,0.873,1.714,1.214,360.0,41.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.4,NaN,12.971,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.31,Xiangli Yu,AUIT_Single,CBA,0.873,1.713,1.214,0.0,41.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.4,NaN,12.971,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.41,Xiangli Yu,AUIT_Single,CBA,0.873,1.713,1.216,0.5,41.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.7,NaN,12.969,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.51,Xiangli Yu,AUIT_Single,CBA,0.873,1.712,1.217,0.6,41.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.9,NaN,12.968,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.60,Xiangli Yu,AUIT_Single,CBA,0.873,1.711,1.218,0.6,41.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.2,NaN,12.967,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.70,Xiangli Yu,AUIT_Single,CBA,0.873,1.711,1.220,0.6,41.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.2,NaN,12.966,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.05,Xiangli Yu,AUIT_Single,CBA,0.874,1.711,1.220,0.8,41.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.4,NaN,12.965,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.06,Xiangli Yu,AUIT_Single,CBA,0.875,1.711,1.221,1.3,42.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.7,NaN,12.965,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.08,Xiangli Yu,AUIT_Single,CBA,0.875,1.711,1.220,1.3,41.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.6,NaN,12.965,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.10,Xiangli Yu,AUIT_Single,CBA,0.875,1.711,1.220,1.4,41.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.6,NaN,12.965,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.20,Xiangli Yu,AUIT_Single,CBA,0.875,1.711,1.219,1.5,41.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.6,NaN,12.966,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.31,Xiangli Yu,AUIT_Single,CBA,0.874,1.711,1.219,1.6,41.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.6,NaN,12.967,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.41,Xiangli Yu,AUIT_Single,CBA,0.873,1.711,1.218,1.5,41.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.6,NaN,12.967,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.51,Xiangli Yu,AUIT_Single,CBA,0.873,1.711,1.217,1.5,41.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.6,NaN,12.968,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.80,Xiangli Yu,AUIT_Single,CBA,0.873,1.711,1.215,2.1,41.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.6,NaN,12.970,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.82,Xiangli Yu,AUIT_Single,CBA,0.874,1.711,1.214,2.8,41.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.7,NaN,12.971,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.83,Xiangli Yu,AUIT_Single,CBA,0.874,1.711,1.214,3.0,41.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.8,NaN,12.971,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.91,Xiangli Yu,AUIT_Single,CBA,0.875,1.711,1.213,3.8,41.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.9,NaN,12.972,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.01,Xiangli Yu,AUIT_Single,CBA,0.876,1.712,1.211,5.0,41.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.2,NaN,12.974,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.10,Xiangli Yu,AUIT_Single,CBA,0.877,1.712,1.210,6.1,41.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.5,NaN,12.976,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.21,Xiangli Yu,AUIT_Single,CBA,0.878,1.712,1.208,7.6,40.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.7,NaN,12.978,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.58,Xiangli Yu,AUIT_Single,CBA,0.883,1.714,1.199,11.3,39.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,44.6,NaN,12.988,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.59,Xiangli Yu,AUIT_Single,CBA,0.884,1.714,1.197,11.7,39.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,44.6,NaN,12.990,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.60,Xiangli Yu,AUIT_Single,CBA,0.884,1.714,1.197,11.8,39.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,44.6,NaN,12.991,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.62,Xiangli Yu,AUIT_Single,CBA,0.885,1.714,1.197,11.8,39.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,44.6,NaN,12.991,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.70,Xiangli Yu,AUIT_Single,CBA,0.886,1.715,1.195,12.0,39.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,44.5,NaN,12.993,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.81,Xiangli Yu,AUIT_Single,CBA,0.888,1.715,1.192,12.5,39.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,44.6,NaN,12.996,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.91,Xiangli Yu,AUIT_Single,CBA,0.890,1.716,1.190,12.8,38.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,44.5,NaN,12.998,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.01,Xiangli Yu,AUIT_Single,CBA,0.891,1.716,1.189,12.8,38.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,44.3,NaN,13.000,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.33,Xiangli Yu,AUIT_Single,CBA,0.892,1.715,1.191,12.7,38.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,44.2,NaN,12.998,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.34,Xiangli Yu,AUIT_Single,CBA,0.892,1.713,1.194,11.6,39.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,44.3,NaN,12.995,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.35,Xiangli Yu,AUIT_Single,CBA,0.891,1.713,1.195,11.2,39.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.9,NaN,12.994,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.41,Xiangli Yu,AUIT_Single,CBA,0.890,1.712,1.196,10.8,39.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,44.0,NaN,12.993,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.51,Xiangli Yu,AUIT_Single,CBA,0.889,1.713,1.197,10.2,39.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.6,NaN,12.991,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.60,Xiangli Yu,AUIT_Single,CBA,0.889,1.713,1.199,9.9,38.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.3,NaN,12.990,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.70,Xiangli Yu,AUIT_Single,CBA,0.888,1.715,1.200,9.8,38.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,42.8,NaN,12.989,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.81,Xiangli Yu,AUIT_Single,CBA,0.886,1.718,1.201,9.3,37.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.4,NaN,12.987,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.91,Xiangli Yu,AUIT_Single,CBA,0.885,1.721,1.201,8.7,36.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,40.4,NaN,12.987,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.01,Xiangli Yu,AUIT_Single,CBA,0.881,1.725,1.202,7.6,34.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,38.6,NaN,12.986,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.10,Xiangli Yu,AUIT_Single,CBA,0.877,1.731,1.202,6.0,32.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,35.9,NaN,12.984,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.20,Xiangli Yu,AUIT_Single,CBA,0.874,1.735,1.203,5.3,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,34.3,NaN,12.983,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.31,Xiangli Yu,AUIT_Single,CBA,0.876,1.736,1.203,6.5,30.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,34.6,NaN,12.983,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.41,Xiangli Yu,AUIT_Single,CBA,0.881,1.736,1.202,8.2,30.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,35.4,NaN,12.985,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.51,Xiangli Yu,AUIT_Single,CBA,0.891,1.736,1.199,10.3,30.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,36.5,NaN,12.990,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.60,Xiangli Yu,AUIT_Single,CBA,0.903,1.737,1.195,12.2,29.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.3,NaN,12.998,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.70,Xiangli Yu,AUIT_Single,CBA,0.919,1.738,1.188,14.3,28.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,38.2,NaN,13.008,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.81,Xiangli Yu,AUIT_Single,CBA,0.939,1.738,1.180,17.2,28.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,40.1,NaN,13.021,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.91,Xiangli Yu,AUIT_Single,CBA,0.958,1.738,1.171,19.5,28.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,41.6,NaN,13.034,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.01,Xiangli Yu,AUIT_Single,CBA,0.978,1.737,1.161,21.3,27.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,42.8,NaN,13.049,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.11,Xiangli Yu,AUIT_Single,CBA,0.998,1.736,1.150,22.5,27.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,43.7,NaN,13.064,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.20,Xiangli Yu,AUIT_Single,CBA,1.018,1.734,1.139,23.4,27.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,44.5,NaN,13.080,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.31,Xiangli Yu,AUIT_Single,CBA,1.041,1.732,1.127,24.1,27.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,45.0,NaN,13.096,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.55,Xiangli Yu,AUIT_Single,CBA,1.061,1.730,1.117,24.5,27.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,45.5,NaN,13.111,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.56,Xiangli Yu,AUIT_Single,CBA,1.082,1.726,1.105,24.6,28.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,45.9,NaN,13.128,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.61,Xiangli Yu,AUIT_Single,CBA,1.086,1.725,1.102,24.6,28.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,46.0,NaN,13.132,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.70,Xiangli Yu,AUIT_Single,CBA,1.094,1.724,1.095,24.5,28.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,46.0,NaN,13.141,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.81,Xiangli Yu,AUIT_Single,CBA,1.099,1.723,1.089,24.1,28.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,45.6,NaN,13.148,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.91,Xiangli Yu,AUIT_Single,CBA,1.100,1.721,1.085,23.4,28.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,45.3,NaN,13.152,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.01,Xiangli Yu,AUIT_Single,CBA,1.100,1.720,1.081,22.7,29.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,45.0,NaN,13.156,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.11,Xiangli Yu,AUIT_Single,CBA,1.099,1.719,1.079,21.9,29.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,44.4,NaN,13.158,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.20,Xiangli Yu,AUIT_Single,CBA,1.096,1.718,1.078,20.6,29.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,43.6,NaN,13.158,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.31,Xiangli Yu,AUIT_Single,CBA,1.089,1.717,1.078,18.7,29.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,42.3,NaN,13.156,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.41,Xiangli Yu,AUIT_Single,CBA,1.081,1.718,1.079,16.3,29.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,40.6,NaN,13.153,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.51,Xiangli Yu,AUIT_Single,CBA,1.070,1.717,1.082,13.6,29.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,38.7,NaN,13.147,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.61,Xiangli Yu,AUIT_Single,CBA,1.057,1.716,1.084,11.3,29.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,37.4,NaN,13.142,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.70,Xiangli Yu,AUIT_Single,CBA,1.043,1.715,1.086,9.9,29.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,36.6,NaN,13.136,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.80,Xiangli Yu,AUIT_Single,CBA,1.026,1.716,1.088,9.3,30.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,36.2,NaN,13.130,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.91,Xiangli Yu,AUIT_Single,CBA,1.003,1.717,1.092,9.4,29.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,36.1,NaN,13.120,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.01,Xiangli Yu,AUIT_Single,CBA,0.979,1.719,1.101,9.8,30.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.5,NaN,13.106,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.31,Xiangli Yu,AUIT_Single,CBA,0.907,1.724,1.130,9.2,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,36.4,NaN,13.061,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.33,Xiangli Yu,AUIT_Single,CBA,0.885,1.725,1.138,9.4,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,36.5,NaN,13.048,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.34,Xiangli Yu,AUIT_Single,CBA,0.881,1.725,1.139,9.4,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,36.5,NaN,13.046,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.41,Xiangli Yu,AUIT_Single,CBA,0.861,1.726,1.145,9.5,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,36.5,NaN,13.036,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.51,Xiangli Yu,AUIT_Single,CBA,0.836,1.728,1.152,9.5,30.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,36.3,NaN,13.023,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.61,Xiangli Yu,AUIT_Single,CBA,0.815,1.727,1.159,9.9,30.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,36.4,NaN,13.012,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.70,Xiangli Yu,AUIT_Single,CBA,0.800,1.724,1.163,10.8,31.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,37.3,NaN,13.004,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.80,Xiangli Yu,AUIT_Single,CBA,0.790,1.723,1.165,11.9,31.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,38.2,NaN,13.000,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.06,Xiangli Yu,AUIT_Single,CBA,0.786,1.723,1.166,12.4,31.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,38.3,NaN,12.997,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.08,Xiangli Yu,AUIT_Single,CBA,0.781,1.722,1.172,13.4,31.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,39.0,NaN,12.991,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.11,Xiangli Yu,AUIT_Single,CBA,0.783,1.721,1.172,13.6,31.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,39.4,NaN,12.992,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.20,Xiangli Yu,AUIT_Single,CBA,0.785,1.721,1.173,14.2,31.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,39.7,NaN,12.990,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.30,Xiangli Yu,AUIT_Single,CBA,0.788,1.722,1.176,14.3,31.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,39.6,NaN,12.989,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.41,Xiangli Yu,AUIT_Single,CBA,0.791,1.722,1.180,14.1,31.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,39.6,NaN,12.986,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.51,Xiangli Yu,AUIT_Single,CBA,0.795,1.721,1.183,13.9,31.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,39.7,NaN,12.983,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.61,Xiangli Yu,AUIT_Single,CBA,0.799,1.721,1.189,13.8,32.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,39.8,NaN,12.978,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.70,Xiangli Yu,AUIT_Single,CBA,0.802,1.724,1.196,13.8,33.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,40.5,NaN,12.972,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.80,Xiangli Yu,AUIT_Single,CBA,0.803,1.730,1.204,15.0,33.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,41.3,NaN,12.965,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.91,Xiangli Yu,AUIT_Single,CBA,0.802,1.733,1.210,16.7,33.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,42.5,NaN,12.959,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.01,Xiangli Yu,AUIT_Single,CBA,0.803,1.730,1.194,16.8,32.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,42.1,NaN,12.975,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.11,Xiangli Yu,AUIT_Single,CBA,0.811,1.727,1.153,15.7,33.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.7,NaN,13.017,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.20,Xiangli Yu,AUIT_Single,CBA,0.828,1.731,1.092,14.2,31.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,39.5,NaN,13.079,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.30,Xiangli Yu,AUIT_Single,CBA,0.852,1.726,1.023,11.8,28.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.4,NaN,13.152,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.41,Xiangli Yu,AUIT_Single,CBA,0.889,1.717,0.944,9.7,28.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.6,NaN,13.238,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.51,Xiangli Yu,AUIT_Single,CBA,0.917,1.721,0.879,9.4,28.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.0,NaN,13.307,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.61,Xiangli Yu,AUIT_Single,CBA,0.937,1.739,0.828,9.9,26.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,33.8,NaN,13.362,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.70,Xiangli Yu,AUIT_Single,CBA,0.951,1.746,0.781,10.6,24.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.9,NaN,13.411,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.80,Xiangli Yu,AUIT_Single,CBA,0.955,1.745,0.734,11.7,25.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,34.1,NaN,13.458,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.91,Xiangli Yu,AUIT_Single,CBA,0.950,1.749,0.685,13.0,23.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,33.7,NaN,13.504,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.01,Xiangli Yu,AUIT_Single,CBA,0.937,1.749,0.646,14.2,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,34.1,NaN,13.539,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.11,Xiangli Yu,AUIT_Single,CBA,0.917,1.747,0.610,15.3,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.9,NaN,13.570,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.20,Xiangli Yu,AUIT_Single,CBA,0.892,1.748,0.576,16.0,22.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.2,NaN,13.597,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.30,Xiangli Yu,AUIT_Single,CBA,0.866,1.749,0.547,15.9,22.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.0,NaN,13.620,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.41,Xiangli Yu,AUIT_Single,CBA,0.841,1.751,0.515,14.9,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.2,NaN,13.645,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.51,Xiangli Yu,AUIT_Single,CBA,0.825,1.753,0.490,13.6,22.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,33.2,NaN,13.666,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.61,Xiangli Yu,AUIT_Single,CBA,0.816,1.756,0.469,12.5,22.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.0,NaN,13.684,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.70,Xiangli Yu,AUIT_Single,CBA,0.813,1.756,0.453,11.0,22.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.0,NaN,13.699,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.80,Xiangli Yu,AUIT_Single,CBA,0.815,1.756,0.441,9.6,22.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.0,NaN,13.712,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.91,Xiangli Yu,AUIT_Single,CBA,0.825,1.760,0.433,8.0,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.3,NaN,13.722,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.01,Xiangli Yu,AUIT_Single,CBA,0.833,1.761,0.430,6.1,22.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.4,NaN,13.726,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.11,Xiangli Yu,AUIT_Single,CBA,0.829,1.757,0.430,357.5,22.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.3,NaN,13.725,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+18.20,Xiangli Yu,AUIT_Single,CBA,0.824,1.759,0.429,348.9,22.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.0,NaN,13.725,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+18.30,Xiangli Yu,AUIT_Single,CBA,0.824,1.759,0.432,344.7,22.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.6,NaN,13.722,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+18.41,Xiangli Yu,AUIT_Single,CBA,0.828,1.758,0.435,342.9,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.8,NaN,13.720,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+18.51,Xiangli Yu,AUIT_Single,CBA,0.833,1.758,0.439,342.8,22.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.6,NaN,13.717,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+18.61,Xiangli Yu,AUIT_Single,CBA,0.839,1.758,0.444,344.5,22.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.4,NaN,13.714,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+18.79,Xiangli Yu,AUIT_Single,CBA,0.849,1.758,0.449,349.1,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.4,NaN,13.711,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+18.80,Xiangli Yu,AUIT_Single,CBA,0.862,1.758,0.454,355.6,22.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.7,NaN,13.709,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+18.91,Xiangli Yu,AUIT_Single,CBA,0.877,1.760,0.457,2.7,22.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.6,NaN,13.710,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.01,Xiangli Yu,AUIT_Single,CBA,0.888,1.760,0.457,6.1,22.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.6,NaN,13.712,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.11,Xiangli Yu,AUIT_Single,CBA,0.896,1.760,0.456,9.0,22.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.7,NaN,13.715,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.20,Xiangli Yu,AUIT_Single,CBA,0.902,1.759,0.455,10.9,22.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.1,NaN,13.718,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.30,Xiangli Yu,AUIT_Single,CBA,0.906,1.759,0.453,12.1,22.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.0,NaN,13.721,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.41,Xiangli Yu,AUIT_Single,CBA,0.909,1.759,0.450,13.0,22.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.6,NaN,13.724,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.51,Xiangli Yu,AUIT_Single,CBA,0.911,1.759,0.448,13.8,22.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,33.1,NaN,13.726,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.61,Xiangli Yu,AUIT_Single,CBA,0.911,1.759,0.446,14.3,21.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,33.5,NaN,13.728,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.70,Xiangli Yu,AUIT_Single,CBA,0.912,1.760,0.445,14.4,21.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,33.3,NaN,13.729,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.92,Xiangli Yu,AUIT_Single,CBA,0.910,1.760,0.443,13.6,21.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.6,NaN,13.731,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.94,Xiangli Yu,AUIT_Single,CBA,0.908,1.761,0.442,13.0,20.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.8,NaN,13.731,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.01,Xiangli Yu,AUIT_Single,CBA,0.907,1.761,0.442,12.1,20.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.0,NaN,13.731,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.10,Xiangli Yu,AUIT_Single,CBA,0.903,1.763,0.441,10.5,19.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.3,NaN,13.732,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.20,Xiangli Yu,AUIT_Single,CBA,0.899,1.765,0.440,8.4,18.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,27.1,NaN,13.732,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.31,Xiangli Yu,AUIT_Single,CBA,0.894,1.767,0.438,6.1,17.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.6,NaN,13.732,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+20.41,Xiangli Yu,AUIT_Single,CBA,0.889,1.770,0.437,4.6,16.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.8,NaN,13.732,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+20.51,Xiangli Yu,AUIT_Single,CBA,0.886,1.771,0.436,3.7,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.6,NaN,13.733,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+20.60,Xiangli Yu,AUIT_Single,CBA,0.882,1.773,0.435,2.5,14.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.2,NaN,13.732,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+20.70,Xiangli Yu,AUIT_Single,CBA,0.874,1.776,0.435,358.9,13.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,16.8,NaN,13.731,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+20.81,Xiangli Yu,AUIT_Single,CBA,0.866,1.778,0.434,355.4,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,13.6,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+20.91,Xiangli Yu,AUIT_Single,CBA,0.861,1.778,0.433,353.4,12.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,12.3,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.01,Xiangli Yu,AUIT_Single,CBA,0.858,1.778,0.432,352.8,12.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,12.0,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.10,Xiangli Yu,AUIT_Single,CBA,0.857,1.778,0.432,353.0,12.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,12.1,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.20,Xiangli Yu,AUIT_Single,CBA,0.857,1.778,0.432,353.5,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,12.5,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.31,Xiangli Yu,AUIT_Single,CBA,0.860,1.779,0.433,355.5,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,13.4,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.41,Xiangli Yu,AUIT_Single,CBA,0.862,1.779,0.434,357.1,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,14.4,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.51,Xiangli Yu,AUIT_Single,CBA,0.865,1.778,0.435,358.7,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,15.8,NaN,13.729,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.60,Xiangli Yu,AUIT_Single,CBA,0.869,1.777,0.436,0.6,13.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,17.5,NaN,13.729,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.70,Xiangli Yu,AUIT_Single,CBA,0.874,1.775,0.437,3.0,14.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,20.0,NaN,13.729,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.81,Xiangli Yu,AUIT_Single,CBA,0.880,1.772,0.437,5.9,15.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.3,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.91,Xiangli Yu,AUIT_Single,CBA,0.885,1.769,0.438,7.8,17.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.9,NaN,13.731,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+22.01,Xiangli Yu,AUIT_Single,CBA,0.887,1.766,0.437,8.8,19.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,27.6,NaN,13.731,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+22.10,Xiangli Yu,AUIT_Single,CBA,0.889,1.764,0.437,9.3,20.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.6,NaN,13.732,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+22.20,Xiangli Yu,AUIT_Single,CBA,0.889,1.764,0.437,9.2,19.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.3,NaN,13.732,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+22.31,Xiangli Yu,AUIT_Single,CBA,0.886,1.766,0.436,8.1,18.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.8,NaN,13.733,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+22.41,Xiangli Yu,AUIT_Single,CBA,0.884,1.768,0.435,6.8,17.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.4,NaN,13.733,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+22.51,Xiangli Yu,AUIT_Single,CBA,0.882,1.769,0.434,6.0,17.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.4,NaN,13.734,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.61,Xiangli Yu,AUIT_Single,CBA,0.881,1.769,0.432,5.7,17.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.1,NaN,13.735,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.70,Xiangli Yu,AUIT_Single,CBA,0.882,1.769,0.432,5.8,17.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.2,NaN,13.736,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.81,Xiangli Yu,AUIT_Single,CBA,0.882,1.769,0.430,5.8,17.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.1,NaN,13.737,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.91,Xiangli Yu,AUIT_Single,CBA,0.882,1.769,0.429,5.7,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.0,NaN,13.738,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+23.01,Xiangli Yu,AUIT_Single,CBA,0.883,1.769,0.428,5.9,17.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.2,NaN,13.739,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+23.10,Xiangli Yu,AUIT_Single,CBA,0.884,1.769,0.427,6.5,17.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.8,NaN,13.741,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+23.20,Xiangli Yu,AUIT_Single,CBA,0.887,1.769,0.427,7.2,17.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.3,NaN,13.742,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.31,Xiangli Yu,AUIT_Single,CBA,0.889,1.768,0.425,7.8,17.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.0,NaN,13.743,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.41,Xiangli Yu,AUIT_Single,CBA,0.892,1.767,0.425,8.3,18.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.7,NaN,13.745,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.51,Xiangli Yu,AUIT_Single,CBA,0.895,1.767,0.423,8.9,18.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,27.2,NaN,13.747,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.60,Xiangli Yu,AUIT_Single,CBA,0.898,1.766,0.423,9.5,18.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,27.9,NaN,13.748,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.70,Xiangli Yu,AUIT_Single,CBA,0.902,1.765,0.422,10.3,19.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.8,NaN,13.749,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.81,Xiangli Yu,AUIT_Single,CBA,0.905,1.763,0.422,11.3,20.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.1,NaN,13.750,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.91,Xiangli Yu,AUIT_Single,CBA,0.909,1.761,0.423,11.9,20.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.0,NaN,13.750,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.01,Xiangli Yu,AUIT_Single,CBA,0.911,1.760,0.423,12.0,21.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.3,NaN,13.750,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.11,Xiangli Yu,AUIT_Single,CBA,0.913,1.759,0.424,11.8,21.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.3,NaN,13.750,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.20,Xiangli Yu,AUIT_Single,CBA,0.915,1.759,0.424,11.7,21.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.3,NaN,13.750,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.31,Xiangli Yu,AUIT_Single,CBA,0.916,1.758,0.425,11.5,21.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.3,NaN,13.749,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.41,Xiangli Yu,AUIT_Single,CBA,0.917,1.758,0.426,11.5,21.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.4,NaN,13.749,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.51,Xiangli Yu,AUIT_Single,CBA,0.917,1.758,0.427,11.4,21.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.2,NaN,13.748,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.61,Xiangli Yu,AUIT_Single,CBA,0.918,1.758,0.427,11.3,21.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.2,NaN,13.748,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.70,Xiangli Yu,AUIT_Single,CBA,0.915,1.760,0.428,9.7,20.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.4,NaN,13.747,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.81,Xiangli Yu,AUIT_Single,CBA,0.910,1.762,0.429,6.3,19.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.1,NaN,13.745,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.91,Xiangli Yu,AUIT_Single,CBA,0.903,1.764,0.429,3.2,18.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.2,NaN,13.743,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.01,Xiangli Yu,AUIT_Single,CBA,0.895,1.766,0.430,359.3,17.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,19.9,NaN,13.740,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.10,Xiangli Yu,AUIT_Single,CBA,0.887,1.768,0.430,355.8,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,17.2,NaN,13.739,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.20,Xiangli Yu,AUIT_Single,CBA,0.878,1.770,0.429,353.1,15.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,15.2,NaN,13.738,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.31,Xiangli Yu,AUIT_Single,CBA,0.870,1.770,0.428,350.9,15.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,14.2,NaN,13.737,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.41,Xiangli Yu,AUIT_Single,CBA,0.865,1.770,0.427,350.2,15.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,14.1,NaN,13.736,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.51,Xiangli Yu,AUIT_Single,CBA,0.863,1.769,0.428,351.0,16.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,14.9,NaN,13.736,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.61,Xiangli Yu,AUIT_Single,CBA,0.867,1.767,0.429,355.0,17.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,17.4,NaN,13.735,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.70,Xiangli Yu,AUIT_Single,CBA,0.874,1.765,0.430,360.0,18.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.8,NaN,13.736,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.81,Xiangli Yu,AUIT_Single,CBA,0.882,1.763,0.431,4.9,18.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.6,NaN,13.737,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.91,Xiangli Yu,AUIT_Single,CBA,0.890,1.761,0.431,8.7,19.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.0,NaN,13.738,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.01,Xiangli Yu,AUIT_Single,CBA,0.896,1.760,0.431,11.4,20.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.4,NaN,13.739,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.10,Xiangli Yu,AUIT_Single,CBA,0.901,1.760,0.431,12.8,20.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.7,NaN,13.740,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.22,Xiangli Yu,AUIT_Single,CBA,0.902,1.760,0.431,12.9,20.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.8,NaN,13.740,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.31,Xiangli Yu,AUIT_Single,CBA,0.908,1.759,0.432,14.5,21.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,33.5,NaN,13.741,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.41,Xiangli Yu,AUIT_Single,CBA,0.910,1.758,0.433,15.0,21.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.0,NaN,13.740,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.51,Xiangli Yu,AUIT_Single,CBA,0.911,1.758,0.434,15.4,21.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.3,NaN,13.740,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.61,Xiangli Yu,AUIT_Single,CBA,0.912,1.757,0.435,15.7,22.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.6,NaN,13.739,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.70,Xiangli Yu,AUIT_Single,CBA,0.911,1.757,0.435,15.6,22.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.7,NaN,13.738,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.81,Xiangli Yu,AUIT_Single,CBA,0.911,1.757,0.436,15.5,22.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.5,NaN,13.738,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.91,Xiangli Yu,AUIT_Single,CBA,0.910,1.757,0.437,15.4,22.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.5,NaN,13.737,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.01,Xiangli Yu,AUIT_Single,CBA,0.910,1.756,0.437,15.3,22.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.5,NaN,13.737,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.10,Xiangli Yu,AUIT_Single,CBA,0.910,1.757,0.437,15.3,22.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.4,NaN,13.737,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.20,Xiangli Yu,AUIT_Single,CBA,0.910,1.756,0.436,15.3,22.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.5,NaN,13.737,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.31,Xiangli Yu,AUIT_Single,CBA,0.910,1.756,0.436,15.4,22.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.6,NaN,13.737,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.41,Xiangli Yu,AUIT_Single,CBA,0.910,1.756,0.436,15.4,22.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.7,NaN,13.738,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.51,Xiangli Yu,AUIT_Single,CBA,0.910,1.756,0.435,15.5,22.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.8,NaN,13.738,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.61,Xiangli Yu,AUIT_Single,CBA,0.910,1.756,0.435,15.5,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.8,NaN,13.739,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.70,Xiangli Yu,AUIT_Single,CBA,0.910,1.756,0.434,15.3,22.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.6,NaN,13.739,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.81,Xiangli Yu,AUIT_Single,CBA,0.910,1.756,0.434,15.1,22.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.5,NaN,13.739,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.91,Xiangli Yu,AUIT_Single,CBA,0.910,1.756,0.434,15.1,22.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.4,NaN,13.740,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.01,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.433,15.0,22.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.3,NaN,13.740,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.10,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.433,15.0,22.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.3,NaN,13.740,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.20,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.432,15.1,22.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.4,NaN,13.741,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.41,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.432,15.1,22.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.4,NaN,13.742,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.42,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.431,15.1,22.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.5,NaN,13.742,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.51,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.430,15.2,22.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.4,NaN,13.743,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.60,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.430,15.2,22.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.5,NaN,13.743,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.70,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.429,15.2,22.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.4,NaN,13.744,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.81,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.428,15.2,22.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.5,NaN,13.745,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.93,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.428,15.4,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.7,NaN,13.745,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.05,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.428,15.4,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.7,NaN,13.745,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.10,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.428,15.4,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.7,NaN,13.745,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.20,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.429,15.4,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.7,NaN,13.744,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.31,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.429,15.4,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.8,NaN,13.744,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.41,Xiangli Yu,AUIT_Single,CBA,0.909,1.755,0.430,15.3,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.7,NaN,13.743,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.51,Xiangli Yu,AUIT_Single,CBA,0.908,1.756,0.430,15.3,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.6,NaN,13.743,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.60,Xiangli Yu,AUIT_Single,CBA,0.909,1.755,0.431,15.2,22.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.6,NaN,13.743,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.70,Xiangli Yu,AUIT_Single,CBA,0.908,1.755,0.431,15.2,22.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.7,NaN,13.742,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.81,Xiangli Yu,AUIT_Single,CBA,0.909,1.755,0.432,15.2,22.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.7,NaN,13.742,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.91,Xiangli Yu,AUIT_Single,CBA,0.909,1.755,0.432,15.2,22.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.6,NaN,13.741,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.01,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.432,15.3,22.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.7,NaN,13.741,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.16,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.432,15.2,22.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.7,NaN,13.741,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.20,Xiangli Yu,AUIT_Single,CBA,0.909,1.756,0.432,15.3,22.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.7,NaN,13.741,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.31,Xiangli Yu,AUIT_Single,CBA,0.909,1.755,0.433,15.3,22.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.7,NaN,13.741,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.41,Xiangli Yu,AUIT_Single,CBA,0.909,1.755,0.433,15.3,22.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.8,NaN,13.740,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.51,Xiangli Yu,AUIT_Single,CBA,0.909,1.755,0.433,15.3,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.8,NaN,13.740,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.60,Xiangli Yu,AUIT_Single,CBA,0.909,1.755,0.433,15.2,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.8,NaN,13.740,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.73,Xiangli Yu,AUIT_Single,CBA,0.909,1.755,0.434,15.3,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.8,NaN,13.740,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.81,Xiangli Yu,AUIT_Single,CBA,0.909,1.755,0.434,15.2,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.7,NaN,13.739,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.91,Xiangli Yu,AUIT_Single,CBA,0.908,1.755,0.434,15.3,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.8,NaN,13.739,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.01,Xiangli Yu,AUIT_Single,CBA,0.908,1.755,0.434,15.3,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.9,NaN,13.739,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.10,Xiangli Yu,AUIT_Single,CBA,0.908,1.755,0.434,15.3,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.8,NaN,13.739,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.20,Xiangli Yu,AUIT_Single,CBA,0.908,1.755,0.434,15.3,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.8,NaN,13.739,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.34,Xiangli Yu,AUIT_Single,CBA,0.908,1.755,0.435,15.3,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.8,NaN,13.738,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.41,Xiangli Yu,AUIT_Single,CBA,0.907,1.755,0.436,15.3,23.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.9,NaN,13.737,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.51,Xiangli Yu,AUIT_Single,CBA,0.907,1.755,0.436,15.3,23.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.8,NaN,13.737,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.61,Xiangli Yu,AUIT_Single,CBA,0.906,1.755,0.437,15.3,23.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.9,NaN,13.736,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.70,Xiangli Yu,AUIT_Single,CBA,0.906,1.755,0.438,15.3,23.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.9,NaN,13.735,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.81,Xiangli Yu,AUIT_Single,CBA,0.906,1.755,0.439,15.4,23.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.0,NaN,13.734,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.95,Xiangli Yu,AUIT_Single,CBA,0.905,1.755,0.439,15.5,23.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.1,NaN,13.733,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+32.01,Xiangli Yu,AUIT_Single,CBA,0.904,1.755,0.439,15.6,23.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.1,NaN,13.733,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+32.11,Xiangli Yu,AUIT_Single,CBA,0.904,1.755,0.439,15.6,23.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.2,NaN,13.733,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+32.20,Xiangli Yu,AUIT_Single,CBA,0.902,1.755,0.439,15.7,23.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.2,NaN,13.733,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+32.30,Xiangli Yu,AUIT_Single,CBA,0.902,1.755,0.439,15.7,23.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.2,NaN,13.732,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+32.41,Xiangli Yu,AUIT_Single,CBA,0.901,1.755,0.440,15.7,23.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.3,NaN,13.732,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+32.56,Xiangli Yu,AUIT_Single,CBA,0.899,1.754,0.440,15.7,23.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.3,NaN,13.731,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+32.61,Xiangli Yu,AUIT_Single,CBA,0.898,1.754,0.441,15.6,23.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.3,NaN,13.730,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+32.70,Xiangli Yu,AUIT_Single,CBA,0.898,1.754,0.441,15.7,23.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.4,NaN,13.730,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+32.81,Xiangli Yu,AUIT_Single,CBA,0.897,1.754,0.442,15.7,23.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,35.4,NaN,13.729,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+32.91,Xiangli Yu,AUIT_Single,CBA,0.896,1.754,0.442,15.7,23.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.4,NaN,13.729,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.01,Xiangli Yu,AUIT_Single,CBA,0.895,1.754,0.442,15.6,23.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.3,NaN,13.728,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.18,Xiangli Yu,AUIT_Single,CBA,0.895,1.754,0.443,15.6,23.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.4,NaN,13.727,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.20,Xiangli Yu,AUIT_Single,CBA,0.895,1.754,0.443,15.6,23.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.4,NaN,13.727,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.30,Xiangli Yu,AUIT_Single,CBA,0.894,1.754,0.443,15.6,23.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.3,NaN,13.727,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.41,Xiangli Yu,AUIT_Single,CBA,0.893,1.753,0.444,15.4,23.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,35.3,NaN,13.726,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.51,Xiangli Yu,AUIT_Single,CBA,0.892,1.753,0.444,14.9,23.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,34.9,NaN,13.726,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.61,Xiangli Yu,AUIT_Single,CBA,0.888,1.753,0.444,13.7,23.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,34.1,NaN,13.724,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.77,Xiangli Yu,AUIT_Single,CBA,0.883,1.753,0.445,11.0,23.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,32.2,NaN,13.722,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.80,Xiangli Yu,AUIT_Single,CBA,0.865,1.754,0.447,1.7,23.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,26.1,NaN,13.717,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.91,Xiangli Yu,AUIT_Single,CBA,0.841,1.755,0.445,349.9,22.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.4,NaN,13.713,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+34.01,Xiangli Yu,AUIT_Single,CBA,0.824,1.756,0.443,343.7,22.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.1,NaN,13.712,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+34.11,Xiangli Yu,AUIT_Single,CBA,0.810,1.756,0.439,338.8,22.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.2,NaN,13.712,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+34.20,Xiangli Yu,AUIT_Single,CBA,0.796,1.756,0.436,334.5,21.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.9,NaN,13.712,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+34.36,Xiangli Yu,AUIT_Single,CBA,0.788,1.756,0.433,331.6,21.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.4,NaN,13.713,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.41,Xiangli Yu,AUIT_Single,CBA,0.778,1.756,0.430,328.3,21.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.4,NaN,13.714,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.51,Xiangli Yu,AUIT_Single,CBA,0.773,1.755,0.429,326.7,21.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,EggBowl,28.6,NaN,13.714,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.61,Xiangli Yu,AUIT_Single,CBA,0.771,1.754,0.429,327.7,22.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,EggBowl,28.3,NaN,13.713,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.70,Xiangli Yu,AUIT_Single,CBA,0.775,1.756,0.432,330.4,22.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.4,NaN,13.711,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.81,Xiangli Yu,AUIT_Single,CBA,0.780,1.760,0.436,334.9,19.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.0,NaN,13.709,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+34.91,Xiangli Yu,AUIT_Single,CBA,0.785,1.766,0.438,337.4,16.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.2,NaN,13.708,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+35.01,Xiangli Yu,AUIT_Single,CBA,0.791,1.772,0.440,339.6,13.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,14.4,NaN,13.708,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+35.10,Xiangli Yu,AUIT_Single,CBA,0.795,1.775,0.441,341.2,12.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.4,NaN,13.708,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+35.20,Xiangli Yu,AUIT_Single,CBA,0.798,1.775,0.442,342.2,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.6,NaN,13.708,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+35.31,Xiangli Yu,AUIT_Single,CBA,0.800,1.776,0.443,342.3,11.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.2,NaN,13.707,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+35.41,Xiangli Yu,AUIT_Single,CBA,0.802,1.776,0.443,342.4,11.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.3,NaN,13.707,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+35.51,Xiangli Yu,AUIT_Single,CBA,0.804,1.776,0.444,342.6,11.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.2,NaN,13.707,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+35.60,Xiangli Yu,AUIT_Single,CBA,0.807,1.777,0.444,343.1,11.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.8,NaN,13.707,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+35.70,Xiangli Yu,AUIT_Single,CBA,0.811,1.779,0.444,344.4,11.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.9,NaN,13.709,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+35.81,Xiangli Yu,AUIT_Single,CBA,0.816,1.778,0.443,345.9,11.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.1,NaN,13.710,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+35.91,Xiangli Yu,AUIT_Single,CBA,0.819,1.777,0.443,346.9,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.5,NaN,13.711,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+36.01,Xiangli Yu,AUIT_Single,CBA,0.823,1.777,0.442,348.1,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.8,NaN,13.713,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+36.10,Xiangli Yu,AUIT_Single,CBA,0.828,1.777,0.441,349.8,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.1,NaN,13.714,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+36.20,Xiangli Yu,AUIT_Single,CBA,0.834,1.776,0.441,352.5,13.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,12.5,NaN,13.716,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+36.31,Xiangli Yu,AUIT_Single,CBA,0.843,1.776,0.441,355.5,13.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,14.3,NaN,13.719,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+36.41,Xiangli Yu,AUIT_Single,CBA,0.852,1.773,0.439,358.6,14.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,17.2,NaN,13.722,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+36.51,Xiangli Yu,AUIT_Single,CBA,0.860,1.772,0.438,1.9,15.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.0,NaN,13.725,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+36.60,Xiangli Yu,AUIT_Single,CBA,0.864,1.771,0.437,2.8,15.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.9,NaN,13.727,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+36.71,Xiangli Yu,AUIT_Single,CBA,0.859,1.771,0.437,358.5,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,17.9,NaN,13.726,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+36.81,Xiangli Yu,AUIT_Single,CBA,0.849,1.773,0.436,352.1,14.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,14.1,NaN,13.724,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+36.91,Xiangli Yu,AUIT_Single,CBA,0.840,1.774,0.435,347.3,14.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.4,NaN,13.724,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+37.01,Xiangli Yu,AUIT_Single,CBA,0.833,1.775,0.433,344.4,13.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.2,NaN,13.724,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+37.10,Xiangli Yu,AUIT_Single,CBA,0.827,1.776,0.431,342.7,12.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.1,NaN,13.724,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+37.21,Xiangli Yu,AUIT_Single,CBA,0.823,1.776,0.429,341.6,12.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.5,NaN,13.725,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+37.31,Xiangli Yu,AUIT_Single,CBA,0.821,1.777,0.428,341.3,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.5,NaN,13.726,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+37.41,Xiangli Yu,AUIT_Single,CBA,0.820,1.777,0.427,341.1,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.6,NaN,13.727,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+37.51,Xiangli Yu,AUIT_Single,CBA,0.818,1.777,0.427,340.9,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.6,NaN,13.727,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+37.60,Xiangli Yu,AUIT_Single,CBA,0.817,1.777,0.426,340.6,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.7,NaN,13.727,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+37.71,Xiangli Yu,AUIT_Single,CBA,0.816,1.777,0.425,340.3,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.9,NaN,13.728,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+37.81,Xiangli Yu,AUIT_Single,CBA,0.816,1.777,0.424,340.3,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.9,NaN,13.729,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+37.91,Xiangli Yu,AUIT_Single,CBA,0.816,1.777,0.424,340.4,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.8,NaN,13.729,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+38.01,Xiangli Yu,AUIT_Single,CBA,0.816,1.777,0.424,340.4,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.8,NaN,13.729,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+38.10,Xiangli Yu,AUIT_Single,CBA,0.817,1.777,0.424,340.4,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.9,NaN,13.729,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+38.21,Xiangli Yu,AUIT_Single,CBA,0.818,1.776,0.424,340.6,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.8,NaN,13.729,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+38.31,Xiangli Yu,AUIT_Single,CBA,0.818,1.776,0.424,340.7,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.8,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+38.41,Xiangli Yu,AUIT_Single,CBA,0.818,1.776,0.423,340.8,12.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.9,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+38.51,Xiangli Yu,AUIT_Single,CBA,0.818,1.776,0.422,340.7,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.8,NaN,13.731,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+38.60,Xiangli Yu,AUIT_Single,CBA,0.817,1.776,0.422,340.6,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.8,NaN,13.731,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+38.70,Xiangli Yu,AUIT_Single,CBA,0.817,1.776,0.422,340.7,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.8,NaN,13.731,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+38.81,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.422,340.7,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.8,NaN,13.731,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+38.91,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.423,340.9,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.8,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+39.01,Xiangli Yu,AUIT_Single,CBA,0.817,1.776,0.422,340.9,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.7,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+39.10,Xiangli Yu,AUIT_Single,CBA,0.817,1.776,0.423,340.9,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.7,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+39.20,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.423,340.9,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.7,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+39.31,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.424,341.0,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.7,NaN,13.729,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+39.41,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.424,341.0,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.7,NaN,13.729,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+39.51,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.424,340.9,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.7,NaN,13.729,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+39.60,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.425,341.0,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.6,NaN,13.728,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+39.70,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.425,341.0,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.6,NaN,13.728,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+39.81,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.425,340.9,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.7,NaN,13.728,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+39.91,Xiangli Yu,AUIT_Single,CBA,0.817,1.777,0.425,341.0,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.5,NaN,13.728,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+40.01,Xiangli Yu,AUIT_Single,CBA,0.817,1.776,0.424,340.9,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.6,NaN,13.729,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+40.10,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.424,340.9,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.6,NaN,13.729,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+40.20,Xiangli Yu,AUIT_Single,CBA,0.817,1.776,0.423,340.9,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.6,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+40.31,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.423,340.8,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.6,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+40.41,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.423,340.8,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.7,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+40.51,Xiangli Yu,AUIT_Single,CBA,0.817,1.776,0.422,340.8,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.7,NaN,13.731,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+40.60,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.422,340.8,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.7,NaN,13.731,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+40.70,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.421,340.7,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.8,NaN,13.731,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+40.81,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.422,340.8,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.8,NaN,13.731,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+40.91,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.422,340.8,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.8,NaN,13.731,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+41.01,Xiangli Yu,AUIT_Single,CBA,0.816,1.775,0.422,340.8,12.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.9,NaN,13.731,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+41.10,Xiangli Yu,AUIT_Single,CBA,0.815,1.776,0.422,340.8,12.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.9,NaN,13.731,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+41.20,Xiangli Yu,AUIT_Single,CBA,0.816,1.776,0.420,340.7,12.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.9,NaN,13.732,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+41.31,Xiangli Yu,AUIT_Single,CBA,0.815,1.776,0.420,340.7,12.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.9,NaN,13.733,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+41.41,Xiangli Yu,AUIT_Single,CBA,0.815,1.775,0.420,341.0,12.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.8,NaN,13.732,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+41.51,Xiangli Yu,AUIT_Single,CBA,0.814,1.774,0.423,341.4,13.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,13.1,NaN,13.729,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+41.61,Xiangli Yu,AUIT_Single,CBA,0.810,1.772,0.425,341.7,14.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,13.9,NaN,13.726,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+41.70,Xiangli Yu,AUIT_Single,CBA,0.806,1.770,0.426,341.7,15.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,14.9,NaN,13.725,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+41.81,Xiangli Yu,AUIT_Single,CBA,0.802,1.767,0.425,341.6,16.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,16.1,NaN,13.725,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+41.91,Xiangli Yu,AUIT_Single,CBA,0.803,1.767,0.425,341.7,16.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,16.2,NaN,13.725,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.01,Xiangli Yu,AUIT_Single,CBA,0.805,1.766,0.425,342.2,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,16.2,NaN,13.725,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.10,Xiangli Yu,AUIT_Single,CBA,0.808,1.770,0.425,343.4,15.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,14.5,NaN,13.726,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.20,Xiangli Yu,AUIT_Single,CBA,0.809,1.770,0.422,344.0,14.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,13.7,NaN,13.729,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.31,Xiangli Yu,AUIT_Single,CBA,0.808,1.767,0.421,343.0,17.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,16.1,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.41,Xiangli Yu,AUIT_Single,CBA,0.807,1.763,0.419,341.9,18.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,18.0,NaN,13.731,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.51,Xiangli Yu,AUIT_Single,CBA,0.806,1.759,0.417,341.0,21.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.5,NaN,13.733,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.60,Xiangli Yu,AUIT_Single,CBA,0.805,1.757,0.416,340.8,22.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.8,NaN,13.734,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.72,Xiangli Yu,AUIT_Single,CBA,0.806,1.757,0.415,340.9,22.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.5,NaN,13.735,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.81,Xiangli Yu,AUIT_Single,CBA,0.807,1.758,0.414,341.3,22.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.3,NaN,13.736,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.91,Xiangli Yu,AUIT_Single,CBA,0.808,1.759,0.414,341.7,21.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.9,NaN,13.737,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.01,Xiangli Yu,AUIT_Single,CBA,0.810,1.759,0.414,342.2,21.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.8,NaN,13.737,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.10,Xiangli Yu,AUIT_Single,CBA,0.813,1.758,0.414,343.0,21.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.6,NaN,13.738,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.20,Xiangli Yu,AUIT_Single,CBA,0.815,1.758,0.414,343.4,22.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.7,NaN,13.738,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.31,Xiangli Yu,AUIT_Single,CBA,0.816,1.758,0.413,343.4,21.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.7,NaN,13.739,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.41,Xiangli Yu,AUIT_Single,CBA,0.817,1.758,0.414,343.6,21.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.7,NaN,13.739,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.51,Xiangli Yu,AUIT_Single,CBA,0.818,1.758,0.414,343.6,21.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.7,NaN,13.739,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.61,Xiangli Yu,AUIT_Single,CBA,0.818,1.758,0.415,343.7,21.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.4,NaN,13.737,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.70,Xiangli Yu,AUIT_Single,CBA,0.818,1.758,0.418,343.7,21.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.5,NaN,13.735,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.81,Xiangli Yu,AUIT_Single,CBA,0.819,1.758,0.421,343.6,21.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.7,NaN,13.731,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.91,Xiangli Yu,AUIT_Single,CBA,0.818,1.758,0.424,343.3,21.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.7,NaN,13.728,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.00,Xiangli Yu,AUIT_Single,CBA,0.817,1.758,0.427,343.0,22.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.9,NaN,13.726,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.10,Xiangli Yu,AUIT_Single,CBA,0.816,1.758,0.430,342.7,22.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.2,NaN,13.722,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.21,Xiangli Yu,AUIT_Single,CBA,0.815,1.757,0.433,342.3,22.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.5,NaN,13.720,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.31,Xiangli Yu,AUIT_Single,CBA,0.815,1.757,0.435,342.2,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.5,NaN,13.718,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.41,Xiangli Yu,AUIT_Single,CBA,0.815,1.757,0.437,342.3,22.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.7,NaN,13.716,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.51,Xiangli Yu,AUIT_Single,CBA,0.815,1.756,0.439,342.3,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.8,NaN,13.714,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.60,Xiangli Yu,AUIT_Single,CBA,0.815,1.756,0.441,342.8,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.7,NaN,13.712,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.71,Xiangli Yu,AUIT_Single,CBA,0.817,1.755,0.443,344.5,23.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.8,NaN,13.710,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.81,Xiangli Yu,AUIT_Single,CBA,0.817,1.755,0.444,344.9,23.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.9,NaN,13.709,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.91,Xiangli Yu,AUIT_Single,CBA,0.816,1.755,0.443,344.2,23.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.1,NaN,13.710,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.00,Xiangli Yu,AUIT_Single,CBA,0.816,1.754,0.443,344.9,24.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.9,NaN,13.710,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.10,Xiangli Yu,AUIT_Single,CBA,0.816,1.754,0.442,344.9,24.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.0,NaN,13.711,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.21,Xiangli Yu,AUIT_Single,CBA,0.815,1.754,0.439,344.8,24.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.3,NaN,13.713,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.31,Xiangli Yu,AUIT_Single,CBA,0.813,1.753,0.438,344.6,24.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.2,NaN,13.714,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.41,Xiangli Yu,AUIT_Single,CBA,0.813,1.753,0.436,344.5,24.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.3,NaN,13.716,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.50,Xiangli Yu,AUIT_Single,CBA,0.813,1.753,0.435,344.5,24.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.3,NaN,13.717,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.60,Xiangli Yu,AUIT_Single,CBA,0.812,1.753,0.434,344.4,24.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.5,NaN,13.717,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.71,Xiangli Yu,AUIT_Single,CBA,0.812,1.753,0.434,344.3,25.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.6,NaN,13.718,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.81,Xiangli Yu,AUIT_Single,CBA,0.812,1.754,0.433,344.1,24.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.5,NaN,13.719,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.91,Xiangli Yu,AUIT_Single,CBA,0.812,1.754,0.432,344.0,24.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.5,NaN,13.720,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.00,Xiangli Yu,AUIT_Single,CBA,0.812,1.754,0.431,343.9,24.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.4,NaN,13.721,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.10,Xiangli Yu,AUIT_Single,CBA,0.812,1.754,0.431,343.6,24.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.3,NaN,13.721,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.21,Xiangli Yu,AUIT_Single,CBA,0.813,1.754,0.430,343.6,24.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.3,NaN,13.722,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.31,Xiangli Yu,AUIT_Single,CBA,0.814,1.755,0.430,343.7,24.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.2,NaN,13.722,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.41,Xiangli Yu,AUIT_Single,CBA,0.816,1.755,0.429,344.0,24.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.9,NaN,13.724,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.50,Xiangli Yu,AUIT_Single,CBA,0.818,1.756,0.428,344.1,24.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.9,NaN,13.725,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.60,Xiangli Yu,AUIT_Single,CBA,0.819,1.759,0.427,343.9,22.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.1,NaN,13.726,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.71,Xiangli Yu,AUIT_Single,CBA,0.821,1.764,0.427,343.8,20.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,18.8,NaN,13.727,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.81,Xiangli Yu,AUIT_Single,CBA,0.822,1.770,0.426,344.0,17.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,15.9,NaN,13.728,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.91,Xiangli Yu,AUIT_Single,CBA,0.823,1.776,0.424,343.7,14.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,13.0,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.00,Xiangli Yu,AUIT_Single,CBA,0.825,1.780,0.422,343.6,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.0,NaN,13.733,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.10,Xiangli Yu,AUIT_Single,CBA,0.827,1.783,0.420,343.8,10.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.6,NaN,13.735,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.21,Xiangli Yu,AUIT_Single,CBA,0.829,1.783,0.419,343.7,10.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.2,NaN,13.736,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.31,Xiangli Yu,AUIT_Single,CBA,0.830,1.783,0.419,343.7,10.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.3,NaN,13.737,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.41,Xiangli Yu,AUIT_Single,CBA,0.831,1.784,0.419,344.0,10.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.1,NaN,13.737,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.50,Xiangli Yu,AUIT_Single,CBA,0.830,1.783,0.419,344.3,10.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.3,NaN,13.737,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.60,Xiangli Yu,AUIT_Single,CBA,0.827,1.783,0.420,344.0,10.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.3,NaN,13.735,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.71,Xiangli Yu,AUIT_Single,CBA,0.826,1.782,0.421,343.7,10.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.9,NaN,13.734,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.81,Xiangli Yu,AUIT_Single,CBA,0.824,1.781,0.419,343.3,11.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.3,NaN,13.735,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.91,Xiangli Yu,AUIT_Single,CBA,0.822,1.781,0.417,342.9,11.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.6,NaN,13.737,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+48.00,Xiangli Yu,AUIT_Single,CBA,0.820,1.782,0.416,342.3,11.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.7,NaN,13.738,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+48.10,Xiangli Yu,AUIT_Single,CBA,0.821,1.782,0.415,342.4,11.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.6,NaN,13.738,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+48.21,Xiangli Yu,AUIT_Single,CBA,0.824,1.782,0.417,343.3,11.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.3,NaN,13.738,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+48.31,Xiangli Yu,AUIT_Single,CBA,0.826,1.781,0.418,344.3,11.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.0,NaN,13.737,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+48.41,Xiangli Yu,AUIT_Single,CBA,0.827,1.781,0.419,345.0,11.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.2,NaN,13.737,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+48.51,Xiangli Yu,AUIT_Single,CBA,0.829,1.780,0.419,345.3,11.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.3,NaN,13.736,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+48.60,Xiangli Yu,AUIT_Single,CBA,0.829,1.780,0.420,345.4,11.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.4,NaN,13.735,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+48.71,Xiangli Yu,AUIT_Single,CBA,0.829,1.780,0.422,345.2,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.5,NaN,13.734,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+48.81,Xiangli Yu,AUIT_Single,CBA,0.829,1.780,0.423,345.1,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.7,NaN,13.733,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+48.91,Xiangli Yu,AUIT_Single,CBA,0.829,1.779,0.424,344.9,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.8,NaN,13.732,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+49.00,Xiangli Yu,AUIT_Single,CBA,0.828,1.779,0.425,344.7,12.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.1,NaN,13.731,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+49.10,Xiangli Yu,AUIT_Single,CBA,0.827,1.779,0.425,344.5,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.1,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+49.20,Xiangli Yu,AUIT_Single,CBA,0.826,1.779,0.536,344.3,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.2,NaN,13.622,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+49.31,Xiangli Yu,AUIT_Single,CBA,0.825,1.779,0.536,344.1,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.2,NaN,13.622,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+49.41,Xiangli Yu,AUIT_Single,CBA,0.824,1.779,0.536,344.0,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.3,NaN,13.621,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+49.50,Xiangli Yu,AUIT_Single,CBA,0.823,1.779,0.536,343.9,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.5,NaN,13.621,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+49.60,Xiangli Yu,AUIT_Single,CBA,0.822,1.778,0.537,343.7,12.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.6,NaN,13.621,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+49.71,Xiangli Yu,AUIT_Single,CBA,0.822,1.778,0.537,343.7,13.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.8,NaN,13.620,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+49.81,Xiangli Yu,AUIT_Single,CBA,0.821,1.777,0.537,343.5,13.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.0,NaN,13.619,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+49.91,Xiangli Yu,AUIT_Single,CBA,0.821,1.777,0.538,343.0,13.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.3,NaN,13.619,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.00,Xiangli Yu,AUIT_Single,CBA,0.816,1.777,0.536,340.5,13.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,13.4,NaN,13.619,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.10,Xiangli Yu,AUIT_Single,CBA,0.811,1.776,0.535,337.4,13.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,15.3,NaN,13.620,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.21,Xiangli Yu,AUIT_Single,CBA,0.806,1.776,0.533,334.9,13.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.1,NaN,13.621,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.31,Xiangli Yu,AUIT_Single,CBA,0.804,1.775,0.532,334.2,14.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.8,NaN,13.621,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.41,Xiangli Yu,AUIT_Single,CBA,0.803,1.773,0.532,334.0,14.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.4,NaN,13.621,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.50,Xiangli Yu,AUIT_Single,CBA,0.802,1.773,0.531,333.9,15.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.8,NaN,13.621,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.60,Xiangli Yu,AUIT_Single,CBA,0.802,1.772,0.531,333.7,15.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.2,NaN,13.621,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.71,Xiangli Yu,AUIT_Single,CBA,0.802,1.771,0.531,333.9,15.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.3,NaN,13.621,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.81,Xiangli Yu,AUIT_Single,CBA,0.804,1.771,0.531,334.7,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.8,NaN,13.621,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.91,Xiangli Yu,AUIT_Single,CBA,0.806,1.771,0.532,335.8,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.1,NaN,13.621,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.00,Xiangli Yu,AUIT_Single,CBA,0.808,1.771,0.532,336.5,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.7,NaN,13.622,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.10,Xiangli Yu,AUIT_Single,CBA,0.809,1.771,0.531,336.7,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.6,NaN,13.622,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.21,Xiangli Yu,AUIT_Single,CBA,0.810,1.771,0.531,336.8,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.5,NaN,13.623,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.31,Xiangli Yu,AUIT_Single,CBA,0.810,1.771,0.530,336.8,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.5,NaN,13.624,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.41,Xiangli Yu,AUIT_Single,CBA,0.810,1.771,0.530,336.7,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.6,NaN,13.624,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.50,Xiangli Yu,AUIT_Single,CBA,0.810,1.771,0.529,336.7,15.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.6,NaN,13.625,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.60,Xiangli Yu,AUIT_Single,CBA,0.810,1.771,0.529,336.8,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.5,NaN,13.625,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.71,Xiangli Yu,AUIT_Single,CBA,0.810,1.771,0.528,337.0,15.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.5,NaN,13.626,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.81,Xiangli Yu,AUIT_Single,CBA,0.811,1.771,0.528,337.0,15.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.4,NaN,13.626,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.91,Xiangli Yu,AUIT_Single,CBA,0.811,1.771,0.528,337.0,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.4,NaN,13.626,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.00,Xiangli Yu,AUIT_Single,CBA,0.811,1.771,0.528,337.0,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.4,NaN,13.626,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.10,Xiangli Yu,AUIT_Single,CBA,0.812,1.771,0.528,337.1,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.3,NaN,13.626,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.21,Xiangli Yu,AUIT_Single,CBA,0.813,1.771,0.529,337.1,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.3,NaN,13.626,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.31,Xiangli Yu,AUIT_Single,CBA,0.814,1.771,0.530,337.2,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.2,NaN,13.625,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.41,Xiangli Yu,AUIT_Single,CBA,0.815,1.771,0.530,337.3,15.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.1,NaN,13.625,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.50,Xiangli Yu,AUIT_Single,CBA,0.816,1.772,0.530,337.4,15.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.0,NaN,13.625,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.60,Xiangli Yu,AUIT_Single,CBA,0.816,1.772,0.530,337.4,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,16.9,NaN,13.625,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.71,Xiangli Yu,AUIT_Single,CBA,0.816,1.772,0.531,337.4,15.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,16.8,NaN,13.624,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.81,Xiangli Yu,AUIT_Single,CBA,0.816,1.772,0.532,337.4,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,16.8,NaN,13.623,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.91,Xiangli Yu,AUIT_Single,CBA,0.816,1.773,0.533,337.4,15.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,16.8,NaN,13.622,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+53.00,Xiangli Yu,AUIT_Single,CBA,0.816,1.772,0.534,337.4,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,16.9,NaN,13.622,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+53.10,Xiangli Yu,AUIT_Single,CBA,0.816,1.772,0.534,337.3,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,16.9,NaN,13.621,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+53.21,Xiangli Yu,AUIT_Single,CBA,0.815,1.772,0.535,337.3,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.0,NaN,13.620,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+53.31,Xiangli Yu,AUIT_Single,CBA,0.815,1.772,0.536,337.2,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.0,NaN,13.620,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+53.41,Xiangli Yu,AUIT_Single,CBA,0.816,1.772,0.536,337.2,15.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.1,NaN,13.619,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+53.51,Xiangli Yu,AUIT_Single,CBA,0.816,1.772,0.536,337.2,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.0,NaN,13.619,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+53.60,Xiangli Yu,AUIT_Single,CBA,0.818,1.773,0.537,337.2,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.0,NaN,13.619,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+53.71,Xiangli Yu,AUIT_Single,CBA,0.821,1.772,0.536,336.5,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.3,NaN,13.621,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+53.81,Xiangli Yu,AUIT_Single,CBA,0.825,1.772,0.535,336.0,15.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.7,NaN,13.623,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+53.91,Xiangli Yu,AUIT_Single,CBA,0.830,1.773,0.532,335.0,15.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.1,NaN,13.627,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+54.01,Xiangli Yu,AUIT_Single,CBA,0.836,1.773,0.528,334.1,15.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.5,NaN,13.632,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+54.10,Xiangli Yu,AUIT_Single,CBA,0.844,1.773,0.525,332.9,14.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.2,NaN,13.637,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+54.21,Xiangli Yu,AUIT_Single,CBA,0.854,1.773,0.521,332.2,14.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.6,NaN,13.643,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+54.31,Xiangli Yu,AUIT_Single,CBA,0.864,1.772,0.515,331.1,14.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,20.4,NaN,13.650,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+54.41,Xiangli Yu,AUIT_Single,CBA,0.875,1.772,0.509,329.7,14.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,21.5,NaN,13.659,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+54.51,Xiangli Yu,AUIT_Single,CBA,0.888,1.771,0.501,328.1,14.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,22.6,NaN,13.670,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+54.60,Xiangli Yu,AUIT_Single,CBA,0.902,1.769,0.494,326.8,14.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.4,NaN,13.680,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+54.71,Xiangli Yu,AUIT_Single,CBA,0.916,1.766,0.488,325.3,14.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.7,NaN,13.689,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+54.81,Xiangli Yu,AUIT_Single,CBA,0.926,1.768,0.485,324.5,13.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.1,NaN,13.694,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.91,Xiangli Yu,AUIT_Single,CBA,0.932,1.765,0.482,325.0,13.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.6,NaN,13.698,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+55.01,Xiangli Yu,AUIT_Single,CBA,0.934,1.760,0.479,325.4,12.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.9,NaN,13.701,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+55.10,Xiangli Yu,AUIT_Single,CBA,0.933,1.759,0.477,325.2,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.0,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+55.20,Xiangli Yu,AUIT_Single,CBA,0.930,1.762,0.476,325.5,11.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.5,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+55.31,Xiangli Yu,AUIT_Single,CBA,0.928,1.764,0.477,326.6,11.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,22.2,NaN,13.702,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+55.41,Xiangli Yu,AUIT_Single,CBA,0.927,1.766,0.478,327.3,10.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,21.2,NaN,13.701,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+55.51,Xiangli Yu,AUIT_Single,CBA,0.927,1.767,0.481,328.4,9.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.8,NaN,13.698,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+55.60,Xiangli Yu,AUIT_Single,CBA,0.926,1.768,0.483,329.4,9.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.9,NaN,13.695,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+55.70,Xiangli Yu,AUIT_Single,CBA,0.924,1.767,0.484,329.7,9.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.7,NaN,13.694,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+55.81,Xiangli Yu,AUIT_Single,CBA,0.921,1.767,0.483,329.4,9.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.0,NaN,13.694,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+55.91,Xiangli Yu,AUIT_Single,CBA,0.918,1.766,0.482,329.0,9.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.4,NaN,13.695,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+56.01,Xiangli Yu,AUIT_Single,CBA,0.916,1.765,0.480,328.7,9.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.7,NaN,13.697,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+56.10,Xiangli Yu,AUIT_Single,CBA,0.914,1.765,0.477,328.7,9.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.7,NaN,13.699,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+56.20,Xiangli Yu,AUIT_Single,CBA,0.912,1.764,0.474,328.8,9.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.8,NaN,13.701,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+56.31,Xiangli Yu,AUIT_Single,CBA,0.912,1.763,0.470,329.1,9.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.5,NaN,13.705,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+56.41,Xiangli Yu,AUIT_Single,CBA,0.912,1.763,0.468,329.7,9.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.0,NaN,13.707,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+56.51,Xiangli Yu,AUIT_Single,CBA,0.914,1.763,0.466,330.4,9.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.3,NaN,13.709,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+56.60,Xiangli Yu,AUIT_Single,CBA,0.915,1.763,0.465,331.0,9.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.7,NaN,13.711,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+56.70,Xiangli Yu,AUIT_Single,CBA,0.915,1.763,0.465,331.5,9.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.4,NaN,13.710,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+56.81,Xiangli Yu,AUIT_Single,CBA,0.916,1.762,0.466,331.8,10.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.2,NaN,13.710,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+56.91,Xiangli Yu,AUIT_Single,CBA,0.916,1.762,0.467,332.0,10.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.1,NaN,13.708,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+57.01,Xiangli Yu,AUIT_Single,CBA,0.916,1.762,0.469,331.9,10.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.2,NaN,13.706,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+57.10,Xiangli Yu,AUIT_Single,CBA,0.916,1.761,0.471,331.7,10.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.6,NaN,13.705,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+57.20,Xiangli Yu,AUIT_Single,CBA,0.915,1.761,0.473,331.4,11.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.0,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+57.31,Xiangli Yu,AUIT_Single,CBA,0.914,1.760,0.474,330.9,11.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.6,NaN,13.701,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+57.41,Xiangli Yu,AUIT_Single,CBA,0.915,1.759,0.476,330.6,11.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.0,NaN,13.700,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+57.51,Xiangli Yu,AUIT_Single,CBA,0.917,1.759,0.477,330.5,11.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.1,NaN,13.700,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+57.60,Xiangli Yu,AUIT_Single,CBA,0.919,1.759,0.477,330.5,11.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.1,NaN,13.699,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+57.71,Xiangli Yu,AUIT_Single,CBA,0.922,1.759,0.478,330.7,11.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.0,NaN,13.699,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+57.81,Xiangli Yu,AUIT_Single,CBA,0.924,1.759,0.479,330.8,11.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.8,NaN,13.699,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+57.91,Xiangli Yu,AUIT_Single,CBA,0.927,1.758,0.480,330.9,11.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.8,NaN,13.698,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+58.00,Xiangli Yu,AUIT_Single,CBA,0.930,1.758,0.482,331.2,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.6,NaN,13.698,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+58.10,Xiangli Yu,AUIT_Single,CBA,0.932,1.758,0.482,331.5,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.4,NaN,13.697,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+58.21,Xiangli Yu,AUIT_Single,CBA,0.934,1.758,0.484,331.5,11.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.3,NaN,13.697,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+58.30,Xiangli Yu,AUIT_Single,CBA,0.935,1.758,0.484,331.5,11.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.4,NaN,13.697,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+58.41,Xiangli Yu,AUIT_Single,CBA,0.936,1.758,0.485,331.6,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.3,NaN,13.696,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+58.50,Xiangli Yu,AUIT_Single,CBA,0.936,1.758,0.486,331.7,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.2,NaN,13.695,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+58.60,Xiangli Yu,AUIT_Single,CBA,0.936,1.759,0.486,331.8,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.2,NaN,13.694,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+58.71,Xiangli Yu,AUIT_Single,CBA,0.936,1.758,0.486,331.9,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.1,NaN,13.694,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+58.81,Xiangli Yu,AUIT_Single,CBA,0.936,1.758,0.486,331.8,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.1,NaN,13.695,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+58.91,Xiangli Yu,AUIT_Single,CBA,0.936,1.758,0.485,331.9,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.0,NaN,13.696,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.00,Xiangli Yu,AUIT_Single,CBA,0.935,1.759,0.483,331.8,11.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.0,NaN,13.697,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.10,Xiangli Yu,AUIT_Single,CBA,0.934,1.759,0.482,331.8,11.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.1,NaN,13.698,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.21,Xiangli Yu,AUIT_Single,CBA,0.933,1.758,0.481,331.8,11.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.1,NaN,13.699,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.31,Xiangli Yu,AUIT_Single,CBA,0.933,1.758,0.479,331.8,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.1,NaN,13.701,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.41,Xiangli Yu,AUIT_Single,CBA,0.933,1.758,0.478,331.8,11.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.1,NaN,13.702,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.50,Xiangli Yu,AUIT_Single,CBA,0.933,1.758,0.477,331.7,11.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.1,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.60,Xiangli Yu,AUIT_Single,CBA,0.933,1.758,0.477,331.9,11.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.0,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.71,Xiangli Yu,AUIT_Single,CBA,0.934,1.758,0.478,332.1,11.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.9,NaN,13.702,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.81,Xiangli Yu,AUIT_Single,CBA,0.934,1.757,0.479,332.2,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.8,NaN,13.701,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.91,Xiangli Yu,AUIT_Single,CBA,0.934,1.757,0.479,332.2,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.9,NaN,13.701,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+60.00,Xiangli Yu,AUIT_Single,CBA,0.934,1.758,0.479,332.3,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.9,NaN,13.701,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+60.10,Xiangli Yu,AUIT_Single,CBA,0.934,1.758,0.479,332.2,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.9,NaN,13.701,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+60.21,Xiangli Yu,AUIT_Single,CBA,0.933,1.758,0.478,332.2,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.9,NaN,13.702,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+60.31,Xiangli Yu,AUIT_Single,CBA,0.933,1.758,0.477,332.1,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.9,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+60.41,Xiangli Yu,AUIT_Single,CBA,0.933,1.758,0.477,332.1,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.0,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+60.50,Xiangli Yu,AUIT_Single,CBA,0.933,1.757,0.477,332.2,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.9,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+60.60,Xiangli Yu,AUIT_Single,CBA,0.933,1.757,0.477,332.2,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.9,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+60.71,Xiangli Yu,AUIT_Single,CBA,0.933,1.757,0.477,332.2,12.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.0,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+60.81,Xiangli Yu,AUIT_Single,CBA,0.934,1.757,0.477,332.1,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.0,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+60.91,Xiangli Yu,AUIT_Single,CBA,0.935,1.757,0.478,332.3,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.9,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+61.00,Xiangli Yu,AUIT_Single,CBA,0.937,1.757,0.478,332.3,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.8,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+61.10,Xiangli Yu,AUIT_Single,CBA,0.937,1.757,0.477,332.3,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.7,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+61.21,Xiangli Yu,AUIT_Single,CBA,0.937,1.757,0.478,332.2,11.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.8,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+61.31,Xiangli Yu,AUIT_Single,CBA,0.937,1.757,0.478,332.5,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.7,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+61.41,Xiangli Yu,AUIT_Single,CBA,0.937,1.756,0.478,332.4,12.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.8,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+61.50,Xiangli Yu,AUIT_Single,CBA,0.937,1.756,0.478,332.3,12.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.9,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+61.60,Xiangli Yu,AUIT_Single,CBA,0.937,1.756,0.478,332.4,12.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.8,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+61.71,Xiangli Yu,AUIT_Single,CBA,0.937,1.756,0.477,332.5,12.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.8,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+61.81,Xiangli Yu,AUIT_Single,CBA,0.937,1.756,0.477,332.5,12.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.8,NaN,13.704,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+61.91,Xiangli Yu,AUIT_Single,CBA,0.936,1.757,0.477,332.5,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.7,NaN,13.704,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+62.00,Xiangli Yu,AUIT_Single,CBA,0.936,1.756,0.477,332.6,12.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.7,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+62.10,Xiangli Yu,AUIT_Single,CBA,0.936,1.757,0.477,332.5,12.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.8,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+62.21,Xiangli Yu,AUIT_Single,CBA,0.936,1.757,0.477,332.6,12.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.7,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+62.31,Xiangli Yu,AUIT_Single,CBA,0.937,1.757,0.477,332.6,12.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.6,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+62.41,Xiangli Yu,AUIT_Single,CBA,0.937,1.757,0.477,332.7,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.5,NaN,13.704,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+62.50,Xiangli Yu,AUIT_Single,CBA,0.938,1.757,0.477,332.8,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.5,NaN,13.704,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+62.60,Xiangli Yu,AUIT_Single,CBA,0.938,1.757,0.476,332.9,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.4,NaN,13.705,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+62.71,Xiangli Yu,AUIT_Single,CBA,0.938,1.757,0.475,332.9,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.4,NaN,13.705,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+62.81,Xiangli Yu,AUIT_Single,CBA,0.938,1.757,0.475,332.9,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.3,NaN,13.706,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+62.91,Xiangli Yu,AUIT_Single,CBA,0.938,1.757,0.474,332.9,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.2,NaN,13.706,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+63.00,Xiangli Yu,AUIT_Single,CBA,0.937,1.757,0.474,332.8,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.3,NaN,13.707,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+63.11,Xiangli Yu,AUIT_Single,CBA,0.938,1.757,0.474,332.7,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.4,NaN,13.707,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+63.21,Xiangli Yu,AUIT_Single,CBA,0.938,1.757,0.475,332.7,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.5,NaN,13.706,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+63.31,Xiangli Yu,AUIT_Single,CBA,0.938,1.757,0.475,332.7,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.5,NaN,13.706,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+63.41,Xiangli Yu,AUIT_Single,CBA,0.939,1.757,0.475,332.6,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.5,NaN,13.706,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+63.50,Xiangli Yu,AUIT_Single,CBA,0.939,1.757,0.475,332.7,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.4,NaN,13.706,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+63.60,Xiangli Yu,AUIT_Single,CBA,0.940,1.757,0.475,332.7,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.5,NaN,13.706,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+63.71,Xiangli Yu,AUIT_Single,CBA,0.940,1.757,0.475,332.6,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.5,NaN,13.706,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+63.81,Xiangli Yu,AUIT_Single,CBA,0.941,1.757,0.476,332.7,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.4,NaN,13.706,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+63.91,Xiangli Yu,AUIT_Single,CBA,0.942,1.756,0.476,332.9,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.3,NaN,13.706,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+64.00,Xiangli Yu,AUIT_Single,CBA,0.942,1.756,0.476,333.0,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.3,NaN,13.706,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+64.10,Xiangli Yu,AUIT_Single,CBA,0.942,1.756,0.475,333.0,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.3,NaN,13.707,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+64.21,Xiangli Yu,AUIT_Single,CBA,0.942,1.756,0.475,333.0,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.2,NaN,13.707,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+64.31,Xiangli Yu,AUIT_Single,CBA,0.942,1.757,0.474,333.0,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.2,NaN,13.708,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+64.41,Xiangli Yu,AUIT_Single,CBA,0.943,1.757,0.474,333.0,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.2,NaN,13.708,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+64.50,Xiangli Yu,AUIT_Single,CBA,0.943,1.757,0.474,333.0,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.2,NaN,13.708,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+64.60,Xiangli Yu,AUIT_Single,CBA,0.943,1.757,0.474,333.1,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.1,NaN,13.708,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+64.71,Xiangli Yu,AUIT_Single,CBA,0.944,1.756,0.474,333.1,12.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.1,NaN,13.708,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+64.81,Xiangli Yu,AUIT_Single,CBA,0.944,1.756,0.474,333.2,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.1,NaN,13.708,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+64.91,Xiangli Yu,AUIT_Single,CBA,0.944,1.756,0.475,333.1,12.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.2,NaN,13.707,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.00,Xiangli Yu,AUIT_Single,CBA,0.945,1.756,0.476,333.3,12.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.1,NaN,13.707,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.10,Xiangli Yu,AUIT_Single,CBA,0.945,1.756,0.477,333.4,12.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.1,NaN,13.706,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.21,Xiangli Yu,AUIT_Single,CBA,0.946,1.755,0.478,333.7,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.0,NaN,13.705,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.31,Xiangli Yu,AUIT_Single,CBA,0.950,1.754,0.481,335.6,13.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,16.1,NaN,13.703,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.41,Xiangli Yu,AUIT_Single,CBA,0.968,1.750,0.488,346.2,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,13.9,NaN,13.700,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.50,Xiangli Yu,AUIT_Single,CBA,0.991,1.746,0.493,359.6,17.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.3,NaN,13.700,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.67,Xiangli Yu,AUIT_Single,CBA,1.013,1.743,0.495,11.3,18.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.7,NaN,13.704,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+65.71,Xiangli Yu,AUIT_Single,CBA,1.038,1.739,0.493,22.3,20.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,39.9,NaN,13.711,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+65.81,Xiangli Yu,AUIT_Single,CBA,1.053,1.737,0.491,28.1,20.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,45.2,NaN,13.717,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+65.91,Xiangli Yu,AUIT_Single,CBA,1.064,1.736,0.489,31.5,20.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,48.2,NaN,13.721,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+66.00,Xiangli Yu,AUIT_Single,CBA,1.069,1.739,0.490,31.8,19.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,48.2,NaN,13.722,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+66.10,Xiangli Yu,AUIT_Single,CBA,1.073,1.740,0.490,31.4,18.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,47.6,NaN,13.723,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+66.21,Xiangli Yu,AUIT_Single,CBA,1.075,1.741,0.490,31.3,18.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,47.3,NaN,13.723,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+66.31,Xiangli Yu,AUIT_Single,CBA,1.074,1.742,0.491,30.3,18.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,46.4,NaN,13.722,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+66.41,Xiangli Yu,AUIT_Single,CBA,1.069,1.742,0.493,27.0,18.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,43.3,NaN,13.718,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+66.50,Xiangli Yu,AUIT_Single,CBA,1.059,1.744,0.497,20.7,17.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,37.3,NaN,13.712,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+66.60,Xiangli Yu,AUIT_Single,CBA,1.044,1.747,0.501,12.6,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.4,NaN,13.706,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+66.71,Xiangli Yu,AUIT_Single,CBA,1.031,1.753,0.501,7.1,12.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.2,NaN,13.702,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+66.81,Xiangli Yu,AUIT_Single,CBA,1.027,1.757,0.499,7.6,10.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,22.9,NaN,13.703,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+66.90,Xiangli Yu,AUIT_Single,CBA,1.026,1.760,0.496,9.1,9.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.9,NaN,13.706,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+67.00,Xiangli Yu,AUIT_Single,CBA,1.025,1.761,0.494,10.0,9.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.6,NaN,13.708,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+67.11,Xiangli Yu,AUIT_Single,CBA,1.024,1.761,0.492,10.9,8.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.4,NaN,13.710,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+67.21,Xiangli Yu,AUIT_Single,CBA,1.025,1.762,0.489,11.5,8.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.9,NaN,13.712,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+67.31,Xiangli Yu,AUIT_Single,CBA,1.026,1.763,0.488,12.1,8.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.5,NaN,13.714,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+67.40,Xiangli Yu,AUIT_Single,CBA,1.028,1.763,0.488,12.9,8.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,27.2,NaN,13.715,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+67.50,Xiangli Yu,AUIT_Single,CBA,1.031,1.763,0.488,13.7,8.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.0,NaN,13.715,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+67.61,Xiangli Yu,AUIT_Single,CBA,1.034,1.763,0.489,14.4,8.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.6,NaN,13.715,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+67.71,Xiangli Yu,AUIT_Single,CBA,1.036,1.763,0.490,14.7,8.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.0,NaN,13.714,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+67.81,Xiangli Yu,AUIT_Single,CBA,1.038,1.763,0.491,14.8,8.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.1,NaN,13.714,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+67.90,Xiangli Yu,AUIT_Single,CBA,1.040,1.763,0.493,14.9,8.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.2,NaN,13.712,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+68.00,Xiangli Yu,AUIT_Single,CBA,1.042,1.762,0.495,15.1,8.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.5,NaN,13.711,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+68.11,Xiangli Yu,AUIT_Single,CBA,1.044,1.761,0.498,15.3,8.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.7,NaN,13.709,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+68.21,Xiangli Yu,AUIT_Single,CBA,1.046,1.760,0.499,15.7,9.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.2,NaN,13.708,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+68.31,Xiangli Yu,AUIT_Single,CBA,1.048,1.760,0.501,16.2,9.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.7,NaN,13.707,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+68.40,Xiangli Yu,AUIT_Single,CBA,1.050,1.759,0.501,16.5,9.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.1,NaN,13.706,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+68.50,Xiangli Yu,AUIT_Single,CBA,1.051,1.759,0.502,16.8,9.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.4,NaN,13.706,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+68.61,Xiangli Yu,AUIT_Single,CBA,1.053,1.759,0.503,17.0,9.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.6,NaN,13.706,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+68.71,Xiangli Yu,AUIT_Single,CBA,1.054,1.758,0.503,17.1,9.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.7,NaN,13.706,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+68.81,Xiangli Yu,AUIT_Single,CBA,1.056,1.759,0.503,17.2,9.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.8,NaN,13.707,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+68.90,Xiangli Yu,AUIT_Single,CBA,1.057,1.758,0.502,17.4,9.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.0,NaN,13.708,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+69.00,Xiangli Yu,AUIT_Single,CBA,1.058,1.758,0.501,17.6,9.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.3,NaN,13.708,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+69.11,Xiangli Yu,AUIT_Single,CBA,1.058,1.758,0.500,18.0,9.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.6,NaN,13.710,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+69.21,Xiangli Yu,AUIT_Single,CBA,1.058,1.758,0.498,18.1,10.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.7,NaN,13.711,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+69.31,Xiangli Yu,AUIT_Single,CBA,1.056,1.758,0.496,18.2,10.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.8,NaN,13.713,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+69.40,Xiangli Yu,AUIT_Single,CBA,1.054,1.758,0.494,18.0,10.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.7,NaN,13.714,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+69.50,Xiangli Yu,AUIT_Single,CBA,1.053,1.758,0.492,17.7,10.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.4,NaN,13.717,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+69.61,Xiangli Yu,AUIT_Single,CBA,1.051,1.759,0.489,17.5,10.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.1,NaN,13.719,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+69.71,Xiangli Yu,AUIT_Single,CBA,1.050,1.759,0.488,17.0,10.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.7,NaN,13.720,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+69.81,Xiangli Yu,AUIT_Single,CBA,1.050,1.759,0.486,17.0,10.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.7,NaN,13.721,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+69.90,Xiangli Yu,AUIT_Single,CBA,1.051,1.758,0.485,17.2,10.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.9,NaN,13.723,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+70.00,Xiangli Yu,AUIT_Single,CBA,1.052,1.758,0.484,17.5,10.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.2,NaN,13.724,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+70.11,Xiangli Yu,AUIT_Single,CBA,1.052,1.758,0.483,17.4,10.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.1,NaN,13.725,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+70.21,Xiangli Yu,AUIT_Single,CBA,1.052,1.758,0.482,17.5,10.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.2,NaN,13.726,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+70.31,Xiangli Yu,AUIT_Single,CBA,1.053,1.758,0.481,17.8,10.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.5,NaN,13.727,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+70.40,Xiangli Yu,AUIT_Single,CBA,1.052,1.758,0.482,17.6,10.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.3,NaN,13.726,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+70.50,Xiangli Yu,AUIT_Single,CBA,1.052,1.757,0.483,17.6,10.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.4,NaN,13.725,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+70.61,Xiangli Yu,AUIT_Single,CBA,1.051,1.756,0.485,17.4,10.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.2,NaN,13.723,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+70.71,Xiangli Yu,AUIT_Single,CBA,1.051,1.756,0.486,17.2,11.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.2,NaN,13.721,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+70.81,Xiangli Yu,AUIT_Single,CBA,1.051,1.756,0.488,17.2,11.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.1,NaN,13.720,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+70.90,Xiangli Yu,AUIT_Single,CBA,1.051,1.756,0.488,17.3,11.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.3,NaN,13.720,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+71.00,Xiangli Yu,AUIT_Single,CBA,1.053,1.758,0.484,18.5,11.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,33.4,NaN,13.724,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+71.11,Xiangli Yu,AUIT_Single,CBA,1.056,1.760,0.481,20.8,10.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.4,NaN,13.728,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+71.21,Xiangli Yu,AUIT_Single,CBA,1.058,1.760,0.480,21.5,9.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.0,NaN,13.730,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+71.31,Xiangli Yu,AUIT_Single,CBA,1.060,1.760,0.480,21.7,10.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.3,NaN,13.730,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+71.40,Xiangli Yu,AUIT_Single,CBA,1.061,1.759,0.480,21.7,10.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.2,NaN,13.730,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+71.50,Xiangli Yu,AUIT_Single,CBA,1.061,1.758,0.481,21.5,10.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.1,NaN,13.729,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+71.61,Xiangli Yu,AUIT_Single,CBA,1.061,1.757,0.482,21.1,10.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.8,NaN,13.728,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+71.71,Xiangli Yu,AUIT_Single,CBA,1.062,1.757,0.482,20.9,10.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.6,NaN,13.728,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+71.81,Xiangli Yu,AUIT_Single,CBA,1.063,1.757,0.483,20.8,10.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.5,NaN,13.728,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+71.90,Xiangli Yu,AUIT_Single,CBA,1.064,1.757,0.483,21.1,10.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.8,NaN,13.728,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.00,Xiangli Yu,AUIT_Single,CBA,1.064,1.757,0.483,21.3,11.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.0,NaN,13.728,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.11,Xiangli Yu,AUIT_Single,CBA,1.064,1.757,0.482,21.5,11.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.3,NaN,13.728,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.21,Xiangli Yu,AUIT_Single,CBA,1.063,1.756,0.482,21.5,11.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.4,NaN,13.729,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.31,Xiangli Yu,AUIT_Single,CBA,1.060,1.753,0.481,20.7,12.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.9,NaN,13.728,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.40,Xiangli Yu,AUIT_Single,CBA,1.059,1.753,0.480,20.6,13.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.0,NaN,13.729,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.50,Xiangli Yu,AUIT_Single,CBA,1.057,1.753,0.480,20.5,13.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.7,NaN,13.729,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.61,Xiangli Yu,AUIT_Single,CBA,1.057,1.753,0.478,20.5,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.7,NaN,13.730,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.71,Xiangli Yu,AUIT_Single,CBA,1.058,1.753,0.478,20.4,12.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.6,NaN,13.731,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.81,Xiangli Yu,AUIT_Single,CBA,1.058,1.753,0.477,20.3,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.5,NaN,13.732,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.90,Xiangli Yu,AUIT_Single,CBA,1.059,1.753,0.477,20.4,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.6,NaN,13.732,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.00,Xiangli Yu,AUIT_Single,CBA,1.060,1.753,0.478,20.4,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.6,NaN,13.731,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.11,Xiangli Yu,AUIT_Single,CBA,1.061,1.753,0.479,20.1,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.3,NaN,13.730,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.21,Xiangli Yu,AUIT_Single,CBA,1.061,1.753,0.481,19.9,12.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.1,NaN,13.729,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.31,Xiangli Yu,AUIT_Single,CBA,1.062,1.752,0.483,19.9,12.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.2,NaN,13.727,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.40,Xiangli Yu,AUIT_Single,CBA,1.062,1.752,0.486,19.8,13.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.2,NaN,13.724,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.50,Xiangli Yu,AUIT_Single,CBA,1.063,1.751,0.488,19.7,13.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.1,NaN,13.722,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.61,Xiangli Yu,AUIT_Single,CBA,1.064,1.752,0.490,19.9,13.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.2,NaN,13.721,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.71,Xiangli Yu,AUIT_Single,CBA,1.065,1.752,0.492,20.0,13.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.3,NaN,13.719,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.81,Xiangli Yu,AUIT_Single,CBA,1.066,1.752,0.493,20.1,13.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.5,NaN,13.718,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.90,Xiangli Yu,AUIT_Single,CBA,1.066,1.752,0.494,20.3,13.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.7,NaN,13.718,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.00,Xiangli Yu,AUIT_Single,CBA,1.067,1.752,0.494,20.3,13.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.7,NaN,13.718,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.11,Xiangli Yu,AUIT_Single,CBA,1.067,1.752,0.493,20.5,13.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.9,NaN,13.718,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.21,Xiangli Yu,AUIT_Single,CBA,1.066,1.752,0.492,20.6,13.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.0,NaN,13.719,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.31,Xiangli Yu,AUIT_Single,CBA,1.066,1.752,0.491,20.7,13.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.0,NaN,13.720,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.40,Xiangli Yu,AUIT_Single,CBA,1.065,1.752,0.490,21.0,12.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.2,NaN,13.721,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.50,Xiangli Yu,AUIT_Single,CBA,1.066,1.753,0.489,22.0,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.1,NaN,13.722,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.61,Xiangli Yu,AUIT_Single,CBA,1.067,1.753,0.488,22.7,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.8,NaN,13.724,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.71,Xiangli Yu,AUIT_Single,CBA,1.067,1.753,0.487,22.6,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.6,NaN,13.724,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.81,Xiangli Yu,AUIT_Single,CBA,1.067,1.753,0.487,22.4,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.5,NaN,13.724,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.90,Xiangli Yu,AUIT_Single,CBA,1.068,1.753,0.488,22.4,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.4,NaN,13.724,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.00,Xiangli Yu,AUIT_Single,CBA,1.069,1.753,0.489,22.4,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.5,NaN,13.723,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.11,Xiangli Yu,AUIT_Single,CBA,1.069,1.753,0.490,22.4,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.5,NaN,13.722,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.21,Xiangli Yu,AUIT_Single,CBA,1.070,1.753,0.491,22.3,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.4,NaN,13.721,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.31,Xiangli Yu,AUIT_Single,CBA,1.071,1.752,0.492,22.3,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.4,NaN,13.720,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.40,Xiangli Yu,AUIT_Single,CBA,1.072,1.752,0.493,22.4,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.5,NaN,13.719,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.50,Xiangli Yu,AUIT_Single,CBA,1.073,1.752,0.495,22.3,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.5,NaN,13.718,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.61,Xiangli Yu,AUIT_Single,CBA,1.074,1.752,0.496,22.4,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.5,NaN,13.717,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.71,Xiangli Yu,AUIT_Single,CBA,1.074,1.752,0.496,22.5,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.6,NaN,13.717,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.81,Xiangli Yu,AUIT_Single,CBA,1.074,1.752,0.497,22.5,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.6,NaN,13.717,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.90,Xiangli Yu,AUIT_Single,CBA,1.073,1.752,0.497,22.3,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.4,NaN,13.716,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.00,Xiangli Yu,AUIT_Single,CBA,1.072,1.752,0.497,22.3,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.4,NaN,13.716,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.11,Xiangli Yu,AUIT_Single,CBA,1.071,1.752,0.496,22.1,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.3,NaN,13.717,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.21,Xiangli Yu,AUIT_Single,CBA,1.070,1.751,0.495,22.0,13.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.3,NaN,13.717,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.31,Xiangli Yu,AUIT_Single,CBA,1.070,1.750,0.494,21.7,13.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.1,NaN,13.718,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.40,Xiangli Yu,AUIT_Single,CBA,1.067,1.745,0.495,20.1,16.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.4,NaN,13.716,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.50,Xiangli Yu,AUIT_Single,CBA,1.060,1.731,0.497,16.5,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,36.3,NaN,13.713,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.61,Xiangli Yu,AUIT_Single,CBA,1.053,1.717,0.499,11.8,29.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,37.3,NaN,13.708,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.71,Xiangli Yu,AUIT_Single,CBA,1.047,1.707,0.501,8.5,34.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,38.9,NaN,13.705,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.81,Xiangli Yu,AUIT_Single,CBA,1.043,1.702,0.502,7.2,36.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,39.8,NaN,13.703,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.90,Xiangli Yu,AUIT_Single,CBA,1.041,1.700,0.502,7.1,37.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,40.6,NaN,13.702,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.08,Xiangli Yu,AUIT_Single,CBA,1.039,1.699,0.502,7.1,37.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,40.9,NaN,13.702,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.11,Xiangli Yu,AUIT_Single,CBA,1.036,1.698,0.501,7.5,37.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.4,NaN,13.702,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.21,Xiangli Yu,AUIT_Single,CBA,1.035,1.698,0.500,7.8,38.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.7,NaN,13.703,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.31,Xiangli Yu,AUIT_Single,CBA,1.033,1.699,0.499,8.1,37.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.5,NaN,13.703,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.40,Xiangli Yu,AUIT_Single,CBA,1.030,1.699,0.497,8.1,37.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.6,NaN,13.704,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.50,Xiangli Yu,AUIT_Single,CBA,1.028,1.699,0.496,8.2,37.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.6,NaN,13.705,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.70,Xiangli Yu,AUIT_Single,CBA,1.026,1.699,0.495,8.2,37.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.6,NaN,13.705,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.71,Xiangli Yu,AUIT_Single,CBA,1.023,1.699,0.494,8.0,37.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.6,NaN,13.706,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.81,Xiangli Yu,AUIT_Single,CBA,1.021,1.698,0.494,7.8,38.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.6,NaN,13.706,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.90,Xiangli Yu,AUIT_Single,CBA,1.019,1.698,0.493,7.7,38.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.6,NaN,13.705,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.00,Xiangli Yu,AUIT_Single,CBA,1.018,1.697,0.493,7.8,38.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.7,NaN,13.705,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.11,Xiangli Yu,AUIT_Single,CBA,1.017,1.698,0.494,7.8,38.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.6,NaN,13.705,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.33,Xiangli Yu,AUIT_Single,CBA,1.018,1.707,0.495,8.5,33.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,38.6,NaN,13.703,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.35,Xiangli Yu,AUIT_Single,CBA,1.020,1.736,0.496,11.1,21.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.0,NaN,13.704,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.40,Xiangli Yu,AUIT_Single,CBA,1.021,1.746,0.495,11.8,16.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.0,NaN,13.705,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.50,Xiangli Yu,AUIT_Single,CBA,1.022,1.755,0.492,12.6,11.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,27.8,NaN,13.709,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.61,Xiangli Yu,AUIT_Single,CBA,1.024,1.762,0.490,13.6,8.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.0,NaN,13.712,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.71,Xiangli Yu,AUIT_Single,CBA,1.026,1.764,0.488,14.4,7.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.5,NaN,13.714,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.81,Xiangli Yu,AUIT_Single,CBA,1.028,1.765,0.488,14.8,7.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.8,NaN,13.714,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.90,Xiangli Yu,AUIT_Single,CBA,1.030,1.764,0.488,15.2,7.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.3,NaN,13.715,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.00,Xiangli Yu,AUIT_Single,CBA,1.032,1.764,0.487,15.5,7.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.7,NaN,13.716,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.11,Xiangli Yu,AUIT_Single,CBA,1.034,1.764,0.486,15.9,7.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.0,NaN,13.718,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.21,Xiangli Yu,AUIT_Single,CBA,1.037,1.764,0.486,16.0,7.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.1,NaN,13.718,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.31,Xiangli Yu,AUIT_Single,CBA,1.039,1.764,0.487,16.4,7.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.5,NaN,13.718,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.40,Xiangli Yu,AUIT_Single,CBA,1.040,1.763,0.487,16.7,7.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.8,NaN,13.718,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.50,Xiangli Yu,AUIT_Single,CBA,1.042,1.763,0.488,16.8,7.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.0,NaN,13.718,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.61,Xiangli Yu,AUIT_Single,CBA,1.043,1.763,0.487,17.0,7.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.1,NaN,13.719,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.71,Xiangli Yu,AUIT_Single,CBA,1.045,1.763,0.488,17.0,7.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.2,NaN,13.719,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.81,Xiangli Yu,AUIT_Single,CBA,1.046,1.763,0.488,17.1,7.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.3,NaN,13.719,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.90,Xiangli Yu,AUIT_Single,CBA,1.046,1.763,0.487,17.1,7.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.3,NaN,13.719,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.00,Xiangli Yu,AUIT_Single,CBA,1.047,1.762,0.487,17.1,8.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.3,NaN,13.720,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.11,Xiangli Yu,AUIT_Single,CBA,1.047,1.762,0.486,17.1,7.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.3,NaN,13.720,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.21,Xiangli Yu,AUIT_Single,CBA,1.047,1.762,0.486,17.0,8.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.2,NaN,13.721,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.31,Xiangli Yu,AUIT_Single,CBA,1.047,1.762,0.485,17.0,8.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.2,NaN,13.721,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.40,Xiangli Yu,AUIT_Single,CBA,1.047,1.762,0.485,16.8,8.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.1,NaN,13.721,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.50,Xiangli Yu,AUIT_Single,CBA,1.048,1.761,0.486,16.7,8.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.1,NaN,13.721,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.61,Xiangli Yu,AUIT_Single,CBA,1.049,1.760,0.486,16.8,9.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.3,NaN,13.721,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.71,Xiangli Yu,AUIT_Single,CBA,1.051,1.760,0.486,16.9,9.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.4,NaN,13.721,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.88,Xiangli Yu,AUIT_Single,CBA,1.000,0.000,1.000,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,15.2,NaN,13.277,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
