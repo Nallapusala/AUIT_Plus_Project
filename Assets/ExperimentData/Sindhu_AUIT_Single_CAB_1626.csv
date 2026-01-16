@@ -1,0 +1,639 @@
+Time,ParticipantID,Scenario,Sequence,HeadX,HeadY,HeadZ,HeadYaw,HeadPitch,VideoX,VideoY,VideoZ,InstX,InstY,InstZ,GazeTarget,HitObjectName,AngleToVideo,AngleToInst,VideoDist,InstDist,VideoOcc,InstOcc,VideoOccHitName,InstOccHitName,VideoInCone,InstInCone,VideoVisible,InstVisible,VideoSpeed,InstSpeed,PanelSeparation,ScreenOverlapPct,BothVisible
+0.00,Sindhu,AUIT_Single,CAB,1.000,0.000,0.000,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,14.1,NaN,14.244,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.14,Sindhu,AUIT_Single,CAB,1.000,0.000,0.000,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,14.1,NaN,14.244,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.21,Sindhu,AUIT_Single,CAB,1.000,0.000,0.000,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,14.1,NaN,14.244,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.31,Sindhu,AUIT_Single,CAB,1.000,0.000,0.000,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,14.1,NaN,14.244,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.41,Sindhu,AUIT_Single,CAB,1.000,0.000,0.000,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,14.1,NaN,14.244,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.50,Sindhu,AUIT_Single,CAB,1.000,0.000,0.000,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,14.1,NaN,14.244,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.60,Sindhu,AUIT_Single,CAB,1.000,0.000,0.000,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,14.1,NaN,14.244,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.71,Sindhu,AUIT_Single,CAB,1.000,0.000,0.000,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,14.1,NaN,14.244,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.81,Sindhu,AUIT_Single,CAB,1.000,0.000,0.000,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,14.1,NaN,14.244,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.93,Sindhu,AUIT_Single,CAB,0.731,1.521,0.749,51.2,23.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,65.9,NaN,13.388,NaN,1,0,CabinetD06Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.01,Sindhu,AUIT_Single,CAB,0.731,1.521,0.748,51.2,23.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,65.9,NaN,13.389,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.15,Sindhu,AUIT_Single,CAB,0.730,1.521,0.748,51.3,23.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,66.0,NaN,13.388,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.21,Sindhu,AUIT_Single,CAB,0.728,1.521,0.748,51.5,23.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,66.1,NaN,13.389,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.30,Sindhu,AUIT_Single,CAB,0.726,1.521,0.747,51.6,23.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,66.2,NaN,13.389,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.40,Sindhu,AUIT_Single,CAB,0.724,1.521,0.747,51.6,23.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,66.1,NaN,13.388,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.51,Sindhu,AUIT_Single,CAB,0.721,1.521,0.746,51.5,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,66.0,NaN,13.389,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.61,Sindhu,AUIT_Single,CAB,0.719,1.521,0.746,51.2,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,65.7,NaN,13.388,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.71,Sindhu,AUIT_Single,CAB,0.717,1.521,0.746,50.8,23.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,65.3,NaN,13.388,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.80,Sindhu,AUIT_Single,CAB,0.715,1.520,0.746,50.5,23.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,65.1,NaN,13.388,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+1.90,Sindhu,AUIT_Single,CAB,0.713,1.520,0.745,50.3,23.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,64.9,NaN,13.388,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.01,Sindhu,AUIT_Single,CAB,0.711,1.521,0.744,50.0,23.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,64.7,NaN,13.389,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.11,Sindhu,AUIT_Single,CAB,0.709,1.522,0.742,48.8,23.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,63.6,NaN,13.390,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.21,Sindhu,AUIT_Single,CAB,0.708,1.523,0.740,45.4,22.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,60.3,NaN,13.392,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.30,Sindhu,AUIT_Single,CAB,0.707,1.525,0.738,39.7,21.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,54.9,NaN,13.393,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.40,Sindhu,AUIT_Single,CAB,0.704,1.526,0.737,32.8,20.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,48.5,NaN,13.394,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.51,Sindhu,AUIT_Single,CAB,0.695,1.529,0.738,25.8,19.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,42.1,NaN,13.392,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.61,Sindhu,AUIT_Single,CAB,0.680,1.531,0.736,21.8,18.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,38.1,NaN,13.390,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.71,Sindhu,AUIT_Single,CAB,0.659,1.534,0.732,18.8,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,34.7,NaN,13.390,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.80,Sindhu,AUIT_Single,CAB,0.634,1.536,0.726,16.6,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,32.2,NaN,13.390,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+2.90,Sindhu,AUIT_Single,CAB,0.606,1.536,0.719,14.5,14.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.9,NaN,13.390,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+3.01,Sindhu,AUIT_Single,CAB,0.570,1.536,0.709,11.3,14.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.6,NaN,13.393,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+3.11,Sindhu,AUIT_Single,CAB,0.538,1.534,0.696,8.0,13.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.4,NaN,13.399,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.28,Sindhu,AUIT_Single,CAB,0.503,1.533,0.678,6.0,13.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.4,NaN,13.410,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.30,Sindhu,AUIT_Single,CAB,0.486,1.533,0.668,5.7,13.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.1,NaN,13.416,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.40,Sindhu,AUIT_Single,CAB,0.470,1.535,0.657,6.1,13.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.4,NaN,13.424,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.51,Sindhu,AUIT_Single,CAB,0.459,1.535,0.648,6.5,13.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.6,NaN,13.430,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.61,Sindhu,AUIT_Single,CAB,0.452,1.535,0.642,6.8,13.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.3,NaN,13.434,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.71,Sindhu,AUIT_Single,CAB,0.454,1.533,0.635,13.1,16.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,28.7,NaN,13.442,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+3.80,Sindhu,AUIT_Single,CAB,0.460,1.531,0.625,23.0,17.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,38.0,NaN,13.453,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+3.90,Sindhu,AUIT_Single,CAB,0.467,1.529,0.612,33.3,19.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,47.5,NaN,13.467,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.01,Sindhu,AUIT_Single,CAB,0.476,1.526,0.596,44.7,20.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,58.2,NaN,13.485,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.11,Sindhu,AUIT_Single,CAB,0.480,1.523,0.584,51.3,21.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,64.5,NaN,13.498,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.21,Sindhu,AUIT_Single,CAB,0.483,1.520,0.574,55.9,21.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,68.8,NaN,13.507,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.30,Sindhu,AUIT_Single,CAB,0.485,1.517,0.568,58.4,22.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,71.2,NaN,13.514,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.40,Sindhu,AUIT_Single,CAB,0.487,1.516,0.562,59.6,22.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,72.3,NaN,13.520,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.51,Sindhu,AUIT_Single,CAB,0.488,1.516,0.556,60.3,22.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,73.0,NaN,13.526,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.61,Sindhu,AUIT_Single,CAB,0.489,1.515,0.550,60.0,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,72.7,NaN,13.532,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.71,Sindhu,AUIT_Single,CAB,0.490,1.515,0.545,58.8,23.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,71.6,NaN,13.537,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.80,Sindhu,AUIT_Single,CAB,0.490,1.515,0.541,57.5,23.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,70.5,NaN,13.541,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+4.90,Sindhu,AUIT_Single,CAB,0.490,1.515,0.538,56.8,23.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,69.8,NaN,13.544,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.01,Sindhu,AUIT_Single,CAB,0.490,1.514,0.535,55.8,23.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,69.0,NaN,13.547,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.11,Sindhu,AUIT_Single,CAB,0.491,1.513,0.533,55.2,23.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,68.4,NaN,13.550,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.21,Sindhu,AUIT_Single,CAB,0.492,1.513,0.531,54.5,24.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,67.9,NaN,13.551,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.30,Sindhu,AUIT_Single,CAB,0.493,1.514,0.529,53.6,24.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,67.1,NaN,13.553,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.40,Sindhu,AUIT_Single,CAB,0.495,1.513,0.528,52.2,24.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,65.9,NaN,13.555,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.51,Sindhu,AUIT_Single,CAB,0.496,1.513,0.528,51.0,24.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,64.9,NaN,13.556,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.61,Sindhu,AUIT_Single,CAB,0.498,1.512,0.529,50.3,24.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,64.3,NaN,13.555,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.71,Sindhu,AUIT_Single,CAB,0.498,1.511,0.531,49.4,25.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,63.6,NaN,13.553,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.81,Sindhu,AUIT_Single,CAB,0.500,1.511,0.534,48.7,25.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,63.1,NaN,13.550,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+5.90,Sindhu,AUIT_Single,CAB,0.500,1.511,0.537,48.4,25.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,62.7,NaN,13.547,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.01,Sindhu,AUIT_Single,CAB,0.501,1.511,0.542,47.7,25.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,62.2,NaN,13.543,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.11,Sindhu,AUIT_Single,CAB,0.501,1.509,0.545,47.5,26.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,62.2,NaN,13.539,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.21,Sindhu,AUIT_Single,CAB,0.501,1.511,0.549,47.5,25.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,62.0,NaN,13.535,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.31,Sindhu,AUIT_Single,CAB,0.500,1.512,0.552,47.5,24.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,61.8,NaN,13.532,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.40,Sindhu,AUIT_Single,CAB,0.498,1.514,0.552,48.6,23.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,62.6,NaN,13.532,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.51,Sindhu,AUIT_Single,CAB,0.497,1.516,0.547,52.8,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,66.2,NaN,13.536,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.61,Sindhu,AUIT_Single,CAB,0.491,1.516,0.539,57.8,23.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,70.8,NaN,13.543,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.71,Sindhu,AUIT_Single,CAB,0.484,1.514,0.534,60.2,25.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,73.1,NaN,13.547,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.80,Sindhu,AUIT_Single,CAB,0.478,1.512,0.532,60.3,25.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,73.3,NaN,13.548,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+6.90,Sindhu,AUIT_Single,CAB,0.474,1.511,0.534,60.2,25.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,73.2,NaN,13.545,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.00,Sindhu,AUIT_Single,CAB,0.471,1.510,0.536,59.3,25.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,72.3,NaN,13.542,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.11,Sindhu,AUIT_Single,CAB,0.469,1.510,0.539,58.0,26.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,71.3,NaN,13.539,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.21,Sindhu,AUIT_Single,CAB,0.468,1.509,0.540,57.5,26.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,70.9,NaN,13.537,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.31,Sindhu,AUIT_Single,CAB,0.468,1.508,0.541,56.9,27.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,70.4,NaN,13.536,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.40,Sindhu,AUIT_Single,CAB,0.469,1.507,0.543,56.0,27.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,69.7,NaN,13.535,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.50,Sindhu,AUIT_Single,CAB,0.471,1.506,0.546,55.1,28.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,69.0,NaN,13.532,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.61,Sindhu,AUIT_Single,CAB,0.473,1.505,0.549,54.4,28.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,68.7,NaN,13.530,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.71,Sindhu,AUIT_Single,CAB,0.476,1.504,0.551,54.0,29.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,68.4,NaN,13.529,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.81,Sindhu,AUIT_Single,CAB,0.478,1.504,0.553,54.0,29.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,68.5,NaN,13.527,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+7.90,Sindhu,AUIT_Single,CAB,0.481,1.503,0.554,53.9,30.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,68.6,NaN,13.527,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.01,Sindhu,AUIT_Single,CAB,0.483,1.502,0.554,53.7,30.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,68.5,NaN,13.527,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.11,Sindhu,AUIT_Single,CAB,0.485,1.502,0.554,53.4,30.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,68.2,NaN,13.527,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.21,Sindhu,AUIT_Single,CAB,0.486,1.502,0.553,52.9,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,67.9,NaN,13.528,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.31,Sindhu,AUIT_Single,CAB,0.487,1.502,0.552,52.5,30.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,67.5,NaN,13.530,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.40,Sindhu,AUIT_Single,CAB,0.488,1.502,0.550,52.4,30.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,67.4,NaN,13.532,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.50,Sindhu,AUIT_Single,CAB,0.488,1.502,0.548,52.5,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,67.6,NaN,13.534,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.61,Sindhu,AUIT_Single,CAB,0.488,1.502,0.545,52.4,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,67.4,NaN,13.536,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.71,Sindhu,AUIT_Single,CAB,0.487,1.502,0.544,51.9,30.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,67.0,NaN,13.537,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.81,Sindhu,AUIT_Single,CAB,0.486,1.502,0.544,51.4,30.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,66.6,NaN,13.538,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+8.90,Sindhu,AUIT_Single,CAB,0.486,1.502,0.543,51.1,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,66.4,NaN,13.538,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.00,Sindhu,AUIT_Single,CAB,0.485,1.502,0.543,50.9,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,66.2,NaN,13.538,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.11,Sindhu,AUIT_Single,CAB,0.486,1.502,0.544,50.8,30.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,66.2,NaN,13.538,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.21,Sindhu,AUIT_Single,CAB,0.486,1.501,0.544,51.0,31.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,66.4,NaN,13.538,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.31,Sindhu,AUIT_Single,CAB,0.487,1.501,0.545,51.0,31.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,66.4,NaN,13.537,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.40,Sindhu,AUIT_Single,CAB,0.487,1.501,0.546,50.8,31.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,66.2,NaN,13.536,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.50,Sindhu,AUIT_Single,CAB,0.488,1.501,0.548,50.2,31.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,65.8,NaN,13.534,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.61,Sindhu,AUIT_Single,CAB,0.487,1.501,0.549,49.7,31.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,65.5,NaN,13.532,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.71,Sindhu,AUIT_Single,CAB,0.487,1.500,0.550,49.6,31.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,65.5,NaN,13.532,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.81,Sindhu,AUIT_Single,CAB,0.488,1.499,0.551,49.5,32.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,65.4,NaN,13.531,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+9.90,Sindhu,AUIT_Single,CAB,0.488,1.499,0.551,49.7,32.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,65.6,NaN,13.531,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.00,Sindhu,AUIT_Single,CAB,0.490,1.499,0.552,49.9,32.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,65.9,NaN,13.530,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.11,Sindhu,AUIT_Single,CAB,0.493,1.499,0.553,50.4,33.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,66.4,NaN,13.530,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.21,Sindhu,AUIT_Single,CAB,0.496,1.499,0.552,52.4,33.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,68.1,NaN,13.532,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.31,Sindhu,AUIT_Single,CAB,0.501,1.499,0.549,56.4,33.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,71.4,NaN,13.535,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.40,Sindhu,AUIT_Single,CAB,0.505,1.499,0.546,60.7,33.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,74.9,NaN,13.539,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.51,Sindhu,AUIT_Single,CAB,0.509,1.499,0.543,64.3,33.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,78.0,NaN,13.543,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.61,Sindhu,AUIT_Single,CAB,0.510,1.499,0.543,65.2,33.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,78.7,NaN,13.543,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.71,Sindhu,AUIT_Single,CAB,0.507,1.499,0.550,62.8,33.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,76.7,NaN,13.536,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.81,Sindhu,AUIT_Single,CAB,0.501,1.500,0.559,56.8,33.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,71.8,NaN,13.525,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+10.90,Sindhu,AUIT_Single,CAB,0.490,1.500,0.571,48.5,34.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,65.2,NaN,13.512,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.00,Sindhu,AUIT_Single,CAB,0.477,1.500,0.582,39.8,34.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,58.6,NaN,13.498,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.11,Sindhu,AUIT_Single,CAB,0.460,1.502,0.595,29.5,34.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,51.1,NaN,13.482,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.21,Sindhu,AUIT_Single,CAB,0.446,1.504,0.604,18.2,34.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,43.8,NaN,13.470,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.31,Sindhu,AUIT_Single,CAB,0.430,1.508,0.613,4.8,34.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,36.7,NaN,13.458,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.40,Sindhu,AUIT_Single,CAB,0.414,1.514,0.622,349.3,33.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,33.2,NaN,13.447,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.50,Sindhu,AUIT_Single,CAB,0.405,1.517,0.625,339.7,33.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD03,34.1,NaN,13.442,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.61,Sindhu,AUIT_Single,CAB,0.384,1.520,0.622,314.4,33.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,46.4,NaN,13.441,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.71,Sindhu,AUIT_Single,CAB,0.380,1.519,0.615,302.5,34.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,54.8,NaN,13.447,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.81,Sindhu,AUIT_Single,CAB,0.380,1.519,0.612,296.3,34.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,59.5,NaN,13.450,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+11.90,Sindhu,AUIT_Single,CAB,0.387,1.519,0.617,298.3,34.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,57.9,NaN,13.447,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.00,Sindhu,AUIT_Single,CAB,0.393,1.522,0.620,301.1,33.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,55.4,NaN,13.445,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.11,Sindhu,AUIT_Single,CAB,0.399,1.524,0.621,302.1,32.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,54.2,NaN,13.445,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.21,Sindhu,AUIT_Single,CAB,0.400,1.524,0.620,301.1,32.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,54.8,NaN,13.447,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.31,Sindhu,AUIT_Single,CAB,0.402,1.524,0.620,302.0,31.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,54.0,NaN,13.446,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.40,Sindhu,AUIT_Single,CAB,0.407,1.523,0.624,306.8,31.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,50.5,NaN,13.444,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.50,Sindhu,AUIT_Single,CAB,0.412,1.523,0.628,311.7,31.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,46.9,NaN,13.441,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.61,Sindhu,AUIT_Single,CAB,0.419,1.522,0.633,316.3,31.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD04,43.7,NaN,13.438,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.71,Sindhu,AUIT_Single,CAB,0.425,1.522,0.637,320.4,31.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD04,41.0,NaN,13.434,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.81,Sindhu,AUIT_Single,CAB,0.432,1.521,0.642,325.5,32.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD04,38.4,NaN,13.430,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+12.90,Sindhu,AUIT_Single,CAB,0.439,1.522,0.648,332.1,32.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD03,35.3,NaN,13.426,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.00,Sindhu,AUIT_Single,CAB,0.447,1.523,0.657,340.2,32.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD03,32.6,NaN,13.419,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.11,Sindhu,AUIT_Single,CAB,0.455,1.520,0.666,351.9,32.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.7,NaN,13.412,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.21,Sindhu,AUIT_Single,CAB,0.461,1.521,0.670,5.0,32.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,35.5,NaN,13.409,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.31,Sindhu,AUIT_Single,CAB,0.461,1.522,0.668,19.6,31.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,42.6,NaN,13.411,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.40,Sindhu,AUIT_Single,CAB,0.458,1.523,0.659,35.6,31.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,54.1,NaN,13.419,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.50,Sindhu,AUIT_Single,CAB,0.454,1.523,0.645,51.2,31.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,66.5,NaN,13.432,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.61,Sindhu,AUIT_Single,CAB,0.450,1.521,0.627,64.6,31.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,77.6,NaN,13.449,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.71,Sindhu,AUIT_Single,CAB,0.448,1.519,0.607,73.3,30.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,85.0,NaN,13.468,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.81,Sindhu,AUIT_Single,CAB,0.448,1.520,0.586,80.4,30.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,91.2,NaN,13.489,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+13.90,Sindhu,AUIT_Single,CAB,0.453,1.521,0.564,85.1,30.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,95.2,NaN,13.511,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.00,Sindhu,AUIT_Single,CAB,0.459,1.524,0.544,86.7,31.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,96.5,NaN,13.533,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.11,Sindhu,AUIT_Single,CAB,0.470,1.527,0.523,86.4,30.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,96.4,NaN,13.555,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.21,Sindhu,AUIT_Single,CAB,0.479,1.527,0.507,86.4,30.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,96.3,NaN,13.573,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.31,Sindhu,AUIT_Single,CAB,0.488,1.526,0.489,88.5,30.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,98.3,NaN,13.592,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.40,Sindhu,AUIT_Single,CAB,0.494,1.525,0.469,92.6,29.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,101.8,NaN,13.613,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.50,Sindhu,AUIT_Single,CAB,0.497,1.524,0.444,101.1,30.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,108.9,NaN,13.638,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.61,Sindhu,AUIT_Single,CAB,0.494,1.522,0.418,111.1,31.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,117.0,NaN,13.663,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.77,Sindhu,AUIT_Single,CAB,0.488,1.520,0.398,117.5,31.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,122.1,NaN,13.681,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.81,Sindhu,AUIT_Single,CAB,0.485,1.521,0.387,121.1,30.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,124.9,NaN,13.691,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+14.90,Sindhu,AUIT_Single,CAB,0.481,1.521,0.375,127.0,31.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,129.3,NaN,13.703,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.00,Sindhu,AUIT_Single,CAB,0.476,1.519,0.366,133.7,32.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,133.4,NaN,13.710,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.11,Sindhu,AUIT_Single,CAB,0.472,1.519,0.365,136.6,31.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,135.7,NaN,13.710,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.21,Sindhu,AUIT_Single,CAB,0.472,1.524,0.367,138.6,31.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,137.1,NaN,13.709,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.36,Sindhu,AUIT_Single,CAB,0.474,1.525,0.372,141.6,31.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,139.0,NaN,13.704,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.40,Sindhu,AUIT_Single,CAB,0.476,1.524,0.378,144.5,31.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,140.4,NaN,13.699,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.50,Sindhu,AUIT_Single,CAB,0.480,1.523,0.387,145.7,32.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,140.5,NaN,13.690,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.61,Sindhu,AUIT_Single,CAB,0.487,1.524,0.399,145.7,31.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,141.0,NaN,13.680,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.71,Sindhu,AUIT_Single,CAB,0.495,1.525,0.410,143.4,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,140.5,NaN,13.671,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.81,Sindhu,AUIT_Single,CAB,0.502,1.526,0.421,140.3,30.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,138.7,NaN,13.662,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+15.90,Sindhu,AUIT_Single,CAB,0.507,1.525,0.430,137.9,30.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,137.2,NaN,13.653,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.00,Sindhu,AUIT_Single,CAB,0.510,1.526,0.439,136.0,30.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,136.1,NaN,13.645,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.11,Sindhu,AUIT_Single,CAB,0.511,1.526,0.448,133.9,30.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,134.6,NaN,13.637,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.21,Sindhu,AUIT_Single,CAB,0.511,1.526,0.454,132.6,30.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,133.8,NaN,13.631,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.31,Sindhu,AUIT_Single,CAB,0.512,1.526,0.459,131.3,30.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,133.0,NaN,13.626,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.40,Sindhu,AUIT_Single,CAB,0.512,1.526,0.463,130.2,30.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,132.2,NaN,13.622,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.50,Sindhu,AUIT_Single,CAB,0.512,1.527,0.465,129.5,30.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,131.8,NaN,13.620,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.61,Sindhu,AUIT_Single,CAB,0.513,1.527,0.467,128.6,30.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,131.1,NaN,13.618,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.71,Sindhu,AUIT_Single,CAB,0.513,1.528,0.471,127.8,29.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,130.8,NaN,13.615,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.81,Sindhu,AUIT_Single,CAB,0.511,1.530,0.476,127.2,28.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,130.8,NaN,13.609,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+16.91,Sindhu,AUIT_Single,CAB,0.506,1.532,0.482,126.7,27.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,131.0,NaN,13.602,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.00,Sindhu,AUIT_Single,CAB,0.500,1.535,0.489,126.8,26.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,131.7,NaN,13.594,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.11,Sindhu,AUIT_Single,CAB,0.496,1.538,0.498,126.5,24.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,132.0,NaN,13.585,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.21,Sindhu,AUIT_Single,CAB,0.502,1.538,0.502,123.9,24.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,130.2,NaN,13.582,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.31,Sindhu,AUIT_Single,CAB,0.506,1.535,0.501,122.2,25.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,128.3,NaN,13.583,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.41,Sindhu,AUIT_Single,CAB,0.507,1.532,0.498,121.9,27.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,127.3,NaN,13.587,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.50,Sindhu,AUIT_Single,CAB,0.508,1.529,0.492,122.3,29.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,126.6,NaN,13.593,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.61,Sindhu,AUIT_Single,CAB,0.511,1.527,0.486,122.9,31.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,126.4,NaN,13.599,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.71,Sindhu,AUIT_Single,CAB,0.514,1.525,0.481,122.5,32.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,125.5,NaN,13.604,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.81,Sindhu,AUIT_Single,CAB,0.517,1.524,0.477,121.9,33.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,124.8,NaN,13.609,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.91,Sindhu,AUIT_Single,CAB,0.519,1.523,0.473,121.2,33.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,124.1,NaN,13.613,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.00,Sindhu,AUIT_Single,CAB,0.520,1.524,0.470,120.1,33.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,123.3,NaN,13.617,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.10,Sindhu,AUIT_Single,CAB,0.522,1.524,0.466,118.7,33.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,122.3,NaN,13.621,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.21,Sindhu,AUIT_Single,CAB,0.522,1.523,0.461,116.5,33.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,120.4,NaN,13.626,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.31,Sindhu,AUIT_Single,CAB,0.524,1.520,0.458,113.1,35.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,117.2,NaN,13.630,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.40,Sindhu,AUIT_Single,CAB,0.527,1.517,0.456,107.5,37.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,112.2,NaN,13.631,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.50,Sindhu,AUIT_Single,CAB,0.529,1.511,0.456,100.3,39.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,106.2,NaN,13.632,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.60,Sindhu,AUIT_Single,CAB,0.533,1.502,0.457,91.9,42.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,99.5,NaN,13.632,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.71,Sindhu,AUIT_Single,CAB,0.534,1.493,0.457,85.5,45.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,94.5,NaN,13.632,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.81,Sindhu,AUIT_Single,CAB,0.530,1.489,0.460,81.8,47.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,91.9,NaN,13.628,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.91,Sindhu,AUIT_Single,CAB,0.522,1.488,0.465,83.0,47.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,92.7,NaN,13.622,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.00,Sindhu,AUIT_Single,CAB,0.516,1.490,0.470,86.3,47.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,95.0,NaN,13.616,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.11,Sindhu,AUIT_Single,CAB,0.495,1.496,0.491,98.8,43.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,104.2,NaN,13.591,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.21,Sindhu,AUIT_Single,CAB,0.474,1.497,0.516,107.9,40.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,111.6,NaN,13.562,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.31,Sindhu,AUIT_Single,CAB,0.452,1.499,0.552,115.5,38.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,117.4,NaN,13.523,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.41,Sindhu,AUIT_Single,CAB,0.431,1.500,0.593,120.5,37.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,121.7,NaN,13.478,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.50,Sindhu,AUIT_Single,CAB,0.416,1.497,0.635,119.5,35.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,121.6,NaN,13.434,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.61,Sindhu,AUIT_Single,CAB,0.403,1.497,0.673,117.7,35.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Outdoor_Table,120.3,NaN,13.394,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.71,Sindhu,AUIT_Single,CAB,0.394,1.498,0.697,115.4,35.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,118.7,NaN,13.369,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.81,Sindhu,AUIT_Single,CAB,0.389,1.500,0.714,113.2,34.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,117.3,NaN,13.351,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.91,Sindhu,AUIT_Single,CAB,0.384,1.499,0.727,112.0,34.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,116.3,NaN,13.338,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.00,Sindhu,AUIT_Single,CAB,0.381,1.500,0.735,110.6,34.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,115.4,NaN,13.329,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.10,Sindhu,AUIT_Single,CAB,0.382,1.499,0.742,109.2,34.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,114.4,NaN,13.323,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.21,Sindhu,AUIT_Single,CAB,0.385,1.498,0.748,108.2,33.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,113.7,NaN,13.317,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.31,Sindhu,AUIT_Single,CAB,0.389,1.499,0.752,107.4,32.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,113.3,NaN,13.314,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.41,Sindhu,AUIT_Single,CAB,0.391,1.500,0.755,106.3,32.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,112.5,NaN,13.312,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.50,Sindhu,AUIT_Single,CAB,0.393,1.499,0.757,105.3,32.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,111.7,NaN,13.310,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.60,Sindhu,AUIT_Single,CAB,0.396,1.498,0.759,104.2,33.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,110.7,NaN,13.309,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.71,Sindhu,AUIT_Single,CAB,0.402,1.498,0.761,101.6,33.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,108.6,NaN,13.308,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.81,Sindhu,AUIT_Single,CAB,0.409,1.500,0.762,96.3,34.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,104.1,NaN,13.309,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.91,Sindhu,AUIT_Single,CAB,0.417,1.498,0.764,86.4,36.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,95.9,NaN,13.308,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+21.00,Sindhu,AUIT_Single,CAB,0.421,1.497,0.765,74.6,37.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Floor,86.4,NaN,13.308,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+21.10,Sindhu,AUIT_Single,CAB,0.423,1.502,0.762,62.9,38.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,77.4,NaN,13.311,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+21.21,Sindhu,AUIT_Single,CAB,0.424,1.511,0.759,51.8,35.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,68.0,NaN,13.314,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+21.31,Sindhu,AUIT_Single,CAB,0.420,1.510,0.764,43.5,34.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,61.3,NaN,13.308,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+21.41,Sindhu,AUIT_Single,CAB,0.414,1.512,0.779,34.9,33.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,54.3,NaN,13.293,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+21.50,Sindhu,AUIT_Single,CAB,0.405,1.514,0.802,26.5,29.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,45.9,NaN,13.268,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+21.61,Sindhu,AUIT_Single,CAB,0.387,1.521,0.831,18.7,23.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,37.0,NaN,13.237,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+21.71,Sindhu,AUIT_Single,CAB,0.369,1.531,0.857,6.4,19.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.7,NaN,13.207,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+21.81,Sindhu,AUIT_Single,CAB,0.353,1.532,0.879,353.2,19.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,19.3,NaN,13.183,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.91,Sindhu,AUIT_Single,CAB,0.347,1.531,0.896,343.1,21.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.1,NaN,13.165,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.00,Sindhu,AUIT_Single,CAB,0.350,1.528,0.915,338.3,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.2,NaN,13.147,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.14,Sindhu,AUIT_Single,CAB,0.364,1.526,0.933,337.8,25.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,EggBowl,27.2,NaN,13.132,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+22.21,Sindhu,AUIT_Single,CAB,0.387,1.525,0.955,340.8,27.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,EggBowl,27.7,NaN,13.115,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+22.31,Sindhu,AUIT_Single,CAB,0.413,1.525,0.975,345.5,27.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD03,27.3,NaN,13.101,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+22.41,Sindhu,AUIT_Single,CAB,0.442,1.526,0.992,351.4,29.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,28.7,NaN,13.090,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+22.50,Sindhu,AUIT_Single,CAB,0.475,1.526,1.003,359.4,30.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,31.3,NaN,13.086,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+22.60,Sindhu,AUIT_Single,CAB,0.509,1.525,1.012,7.7,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,35.5,NaN,13.084,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+22.71,Sindhu,AUIT_Single,CAB,0.547,1.523,1.018,15.7,31.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,40.3,NaN,13.086,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+22.81,Sindhu,AUIT_Single,CAB,0.580,1.521,1.022,21.3,31.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,44.2,NaN,13.089,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+22.91,Sindhu,AUIT_Single,CAB,0.609,1.521,1.026,23.5,31.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,45.8,NaN,13.092,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.00,Sindhu,AUIT_Single,CAB,0.631,1.521,1.025,24.0,32.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,46.5,NaN,13.097,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.10,Sindhu,AUIT_Single,CAB,0.647,1.521,1.032,22.1,31.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,45.2,NaN,13.094,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.21,Sindhu,AUIT_Single,CAB,0.660,1.517,1.033,19.9,33.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,45.0,NaN,13.095,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.31,Sindhu,AUIT_Single,CAB,0.663,1.516,1.035,16.2,34.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.0,NaN,13.094,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.41,Sindhu,AUIT_Single,CAB,0.655,1.516,1.035,9.4,34.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,39.4,NaN,13.092,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.50,Sindhu,AUIT_Single,CAB,0.638,1.517,1.034,359.4,33.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,34.6,NaN,13.090,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.60,Sindhu,AUIT_Single,CAB,0.617,1.519,1.028,350.2,32.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,32.1,NaN,13.091,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.76,Sindhu,AUIT_Single,CAB,0.593,1.521,1.020,342.2,31.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,31.2,NaN,13.094,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.81,Sindhu,AUIT_Single,CAB,0.577,1.523,1.013,337.7,30.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD03,31.8,NaN,13.097,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+23.91,Sindhu,AUIT_Single,CAB,0.562,1.525,1.008,335.5,30.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,EggBowl,31.8,NaN,13.099,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.00,Sindhu,AUIT_Single,CAB,0.549,1.526,1.005,334.6,29.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,EggBowl,31.9,NaN,13.099,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.10,Sindhu,AUIT_Single,CAB,0.542,1.526,1.005,336.4,29.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,EggBowl,31.3,NaN,13.098,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.21,Sindhu,AUIT_Single,CAB,0.547,1.524,1.010,346.0,30.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,29.8,NaN,13.094,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.35,Sindhu,AUIT_Single,CAB,0.558,1.523,1.012,356.3,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,31.2,NaN,13.094,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.41,Sindhu,AUIT_Single,CAB,0.572,1.522,1.014,5.2,30.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,34.3,NaN,13.095,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.50,Sindhu,AUIT_Single,CAB,0.589,1.522,1.015,12.0,30.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,37.9,NaN,13.097,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.60,Sindhu,AUIT_Single,CAB,0.607,1.521,1.017,16.8,31.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.0,NaN,13.100,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.71,Sindhu,AUIT_Single,CAB,0.628,1.520,1.017,19.4,31.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.0,NaN,13.104,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.81,Sindhu,AUIT_Single,CAB,0.645,1.520,1.017,20.0,31.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,43.6,NaN,13.108,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+24.91,Sindhu,AUIT_Single,CAB,0.658,1.520,1.018,18.9,31.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,42.7,NaN,13.109,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+25.00,Sindhu,AUIT_Single,CAB,0.667,1.519,1.020,16.9,31.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.7,NaN,13.109,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+25.10,Sindhu,AUIT_Single,CAB,0.673,1.518,1.022,13.2,31.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,39.5,NaN,13.109,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+25.21,Sindhu,AUIT_Single,CAB,0.677,1.518,1.024,9.9,31.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,37.9,NaN,13.108,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+25.31,Sindhu,AUIT_Single,CAB,0.679,1.518,1.024,6.8,31.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,36.2,NaN,13.108,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+25.41,Sindhu,AUIT_Single,CAB,0.679,1.519,1.022,5.4,30.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,34.8,NaN,13.110,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+25.50,Sindhu,AUIT_Single,CAB,0.679,1.519,1.020,4.7,30.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,34.5,NaN,13.113,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+25.60,Sindhu,AUIT_Single,CAB,0.677,1.519,1.017,3.5,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,33.9,NaN,13.115,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+25.71,Sindhu,AUIT_Single,CAB,0.672,1.519,1.013,1.7,30.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,33.0,NaN,13.117,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+25.81,Sindhu,AUIT_Single,CAB,0.667,1.519,1.010,0.6,30.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,32.3,NaN,13.119,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+25.91,Sindhu,AUIT_Single,CAB,0.661,1.519,1.009,358.9,30.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,32.0,NaN,13.119,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.00,Sindhu,AUIT_Single,CAB,0.651,1.521,1.007,354.0,29.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,29.4,NaN,13.119,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.10,Sindhu,AUIT_Single,CAB,0.638,1.526,1.004,346.3,27.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.5,NaN,13.119,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.21,Sindhu,AUIT_Single,CAB,0.625,1.528,0.998,337.9,25.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.9,NaN,13.122,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.31,Sindhu,AUIT_Single,CAB,0.611,1.530,0.991,328.2,25.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,EggBowl,31.3,NaN,13.126,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.48,Sindhu,AUIT_Single,CAB,0.586,1.534,0.976,310.6,25.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,EggBowl,43.7,NaN,13.135,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.50,Sindhu,AUIT_Single,CAB,0.574,1.533,0.962,300.5,26.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD04,52.2,NaN,13.147,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.61,Sindhu,AUIT_Single,CAB,0.551,1.532,0.933,287.0,26.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,63.8,NaN,13.170,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.71,Sindhu,AUIT_Single,CAB,0.531,1.532,0.905,278.4,25.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,71.5,NaN,13.193,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.81,Sindhu,AUIT_Single,CAB,0.510,1.533,0.880,271.8,25.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,77.5,NaN,13.213,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+26.91,Sindhu,AUIT_Single,CAB,0.491,1.533,0.859,267.2,26.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,81.7,NaN,13.230,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.07,Sindhu,AUIT_Single,CAB,0.469,1.531,0.832,262.4,26.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,86.1,NaN,13.252,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.10,Sindhu,AUIT_Single,CAB,0.460,1.531,0.818,259.1,26.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,89.1,NaN,13.264,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.21,Sindhu,AUIT_Single,CAB,0.450,1.529,0.799,255.1,25.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,92.7,NaN,13.280,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.31,Sindhu,AUIT_Single,CAB,0.443,1.529,0.788,253.0,25.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,94.8,NaN,13.290,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.41,Sindhu,AUIT_Single,CAB,0.438,1.530,0.779,252.1,24.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,95.6,NaN,13.298,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.50,Sindhu,AUIT_Single,CAB,0.432,1.530,0.775,253.2,24.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,94.7,NaN,13.301,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.60,Sindhu,AUIT_Single,CAB,0.427,1.530,0.777,256.5,24.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,91.7,NaN,13.298,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.71,Sindhu,AUIT_Single,CAB,0.422,1.530,0.789,267.2,24.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,81.9,NaN,13.285,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.81,Sindhu,AUIT_Single,CAB,0.420,1.530,0.805,278.9,24.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,71.4,NaN,13.269,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.91,Sindhu,AUIT_Single,CAB,0.424,1.529,0.827,292.1,25.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,59.9,NaN,13.248,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.00,Sindhu,AUIT_Single,CAB,0.435,1.529,0.851,305.6,25.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,48.4,NaN,13.227,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.17,Sindhu,AUIT_Single,CAB,0.462,1.527,0.885,326.8,26.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,EggBowl,33.4,NaN,13.199,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.21,Sindhu,AUIT_Single,CAB,0.486,1.526,0.902,340.7,27.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,EggBowl,27.3,NaN,13.187,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.31,Sindhu,AUIT_Single,CAB,0.511,1.527,0.915,352.8,27.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,26.7,NaN,13.179,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.41,Sindhu,AUIT_Single,CAB,0.528,1.528,0.923,359.8,26.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,28.6,NaN,13.175,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.50,Sindhu,AUIT_Single,CAB,0.539,1.527,0.930,3.9,26.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,30.4,NaN,13.171,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.60,Sindhu,AUIT_Single,CAB,0.543,1.530,0.934,3.4,25.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.0,NaN,13.167,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.75,Sindhu,AUIT_Single,CAB,0.540,1.533,0.935,0.0,23.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.7,NaN,13.165,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.81,Sindhu,AUIT_Single,CAB,0.536,1.536,0.935,356.9,22.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.2,NaN,13.165,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+28.91,Sindhu,AUIT_Single,CAB,0.534,1.539,0.933,354.3,20.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.0,NaN,13.167,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+29.00,Sindhu,AUIT_Single,CAB,0.533,1.541,0.930,352.3,20.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,19.9,NaN,13.170,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+29.10,Sindhu,AUIT_Single,CAB,0.531,1.542,0.927,351.4,18.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.4,NaN,13.171,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+29.21,Sindhu,AUIT_Single,CAB,0.530,1.543,0.927,351.7,18.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.6,NaN,13.172,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+29.31,Sindhu,AUIT_Single,CAB,0.537,1.541,0.928,354.7,18.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.1,NaN,13.172,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+29.41,Sindhu,AUIT_Single,CAB,0.548,1.538,0.930,0.5,20.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.0,NaN,13.173,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+29.50,Sindhu,AUIT_Single,CAB,0.563,1.532,0.931,7.0,22.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,28.5,NaN,13.174,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.60,Sindhu,AUIT_Single,CAB,0.580,1.527,0.932,13.0,24.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,33.9,NaN,13.177,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.71,Sindhu,AUIT_Single,CAB,0.596,1.524,0.933,17.5,25.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,38.1,NaN,13.179,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.81,Sindhu,AUIT_Single,CAB,0.608,1.524,0.934,19.9,26.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,_Jar,40.2,NaN,13.181,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.91,Sindhu,AUIT_Single,CAB,0.617,1.524,0.937,21.0,26.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,41.2,NaN,13.180,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.01,Sindhu,AUIT_Single,CAB,0.622,1.524,0.938,20.7,26.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,_Jar,41.2,NaN,13.180,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.10,Sindhu,AUIT_Single,CAB,0.625,1.524,0.941,19.2,26.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,_Jar,40.1,NaN,13.178,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.21,Sindhu,AUIT_Single,CAB,0.627,1.524,0.944,17.5,27.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,39.0,NaN,13.176,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.30,Sindhu,AUIT_Single,CAB,0.628,1.524,0.946,15.9,27.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,37.9,NaN,13.173,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.41,Sindhu,AUIT_Single,CAB,0.629,1.524,0.948,14.0,26.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,36.5,NaN,13.172,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.51,Sindhu,AUIT_Single,CAB,0.627,1.525,0.951,11.5,26.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.4,NaN,13.169,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.61,Sindhu,AUIT_Single,CAB,0.622,1.526,0.953,8.6,26.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,32.4,NaN,13.166,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.71,Sindhu,AUIT_Single,CAB,0.616,1.527,0.954,5.5,25.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,30.3,NaN,13.164,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.81,Sindhu,AUIT_Single,CAB,0.608,1.528,0.954,2.5,25.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,28.4,NaN,13.161,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.91,Sindhu,AUIT_Single,CAB,0.599,1.530,0.955,0.0,24.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.5,NaN,13.159,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.00,Sindhu,AUIT_Single,CAB,0.591,1.532,0.955,357.4,23.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.5,NaN,13.157,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+31.10,Sindhu,AUIT_Single,CAB,0.583,1.534,0.952,355.5,22.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.2,NaN,13.158,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+31.21,Sindhu,AUIT_Single,CAB,0.575,1.535,0.947,354.2,21.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.1,NaN,13.161,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+31.31,Sindhu,AUIT_Single,CAB,0.567,1.537,0.941,352.5,20.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.7,NaN,13.165,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+31.41,Sindhu,AUIT_Single,CAB,0.558,1.538,0.935,350.6,20.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,19.5,NaN,13.170,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+31.50,Sindhu,AUIT_Single,CAB,0.548,1.539,0.930,348.8,19.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,18.5,NaN,13.173,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+31.60,Sindhu,AUIT_Single,CAB,0.539,1.539,0.926,347.0,18.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,18.2,NaN,13.174,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+31.71,Sindhu,AUIT_Single,CAB,0.529,1.538,0.924,345.4,18.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,18.3,NaN,13.174,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+31.81,Sindhu,AUIT_Single,CAB,0.523,1.538,0.924,345.1,19.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,18.7,NaN,13.173,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+31.91,Sindhu,AUIT_Single,CAB,0.521,1.538,0.927,345.9,19.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,18.9,NaN,13.169,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.00,Sindhu,AUIT_Single,CAB,0.521,1.538,0.931,347.6,19.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,19.1,NaN,13.165,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.10,Sindhu,AUIT_Single,CAB,0.523,1.538,0.935,349.3,20.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,19.5,NaN,13.163,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.21,Sindhu,AUIT_Single,CAB,0.526,1.537,0.938,351.5,20.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,19.9,NaN,13.160,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.31,Sindhu,AUIT_Single,CAB,0.528,1.537,0.940,353.5,20.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.7,NaN,13.159,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.41,Sindhu,AUIT_Single,CAB,0.530,1.536,0.941,355.4,20.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.3,NaN,13.158,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.50,Sindhu,AUIT_Single,CAB,0.532,1.536,0.942,356.4,20.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.5,NaN,13.157,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.60,Sindhu,AUIT_Single,CAB,0.535,1.535,0.944,356.9,20.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.5,NaN,13.156,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.71,Sindhu,AUIT_Single,CAB,0.540,1.536,0.948,358.1,20.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.8,NaN,13.153,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.81,Sindhu,AUIT_Single,CAB,0.545,1.536,0.953,359.2,20.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.2,NaN,13.149,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.91,Sindhu,AUIT_Single,CAB,0.552,1.535,0.959,0.2,20.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.4,NaN,13.145,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+33.00,Sindhu,AUIT_Single,CAB,0.558,1.534,0.965,1.5,21.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.9,NaN,13.141,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+33.10,Sindhu,AUIT_Single,CAB,0.562,1.533,0.969,2.3,22.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.7,NaN,13.137,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.21,Sindhu,AUIT_Single,CAB,0.565,1.533,0.972,2.4,22.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.0,NaN,13.135,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.31,Sindhu,AUIT_Single,CAB,0.567,1.532,0.973,1.6,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.7,NaN,13.134,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.41,Sindhu,AUIT_Single,CAB,0.569,1.532,0.974,0.9,22.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.5,NaN,13.134,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.50,Sindhu,AUIT_Single,CAB,0.571,1.532,0.974,0.8,23.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.8,NaN,13.134,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.60,Sindhu,AUIT_Single,CAB,0.572,1.532,0.974,0.5,23.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.7,NaN,13.134,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.71,Sindhu,AUIT_Single,CAB,0.573,1.533,0.974,359.7,22.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.6,NaN,13.135,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+33.81,Sindhu,AUIT_Single,CAB,0.572,1.535,0.974,358.5,22.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.7,NaN,13.134,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+33.91,Sindhu,AUIT_Single,CAB,0.567,1.536,0.972,355.8,22.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.9,NaN,13.135,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+34.01,Sindhu,AUIT_Single,CAB,0.551,1.539,0.966,347.2,21.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.2,NaN,13.138,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+34.10,Sindhu,AUIT_Single,CAB,0.528,1.539,0.950,331.9,22.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.7,NaN,13.149,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.21,Sindhu,AUIT_Single,CAB,0.501,1.538,0.917,308.6,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,44.3,NaN,13.175,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.31,Sindhu,AUIT_Single,CAB,0.485,1.538,0.881,288.0,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,62.5,NaN,13.207,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.41,Sindhu,AUIT_Single,CAB,0.479,1.537,0.847,270.4,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,78.6,NaN,13.239,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.50,Sindhu,AUIT_Single,CAB,0.478,1.535,0.820,257.3,22.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,90.7,NaN,13.266,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.60,Sindhu,AUIT_Single,CAB,0.478,1.534,0.801,249.7,22.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,97.8,NaN,13.284,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.71,Sindhu,AUIT_Single,CAB,0.476,1.533,0.788,245.1,21.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,102.1,NaN,13.297,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.81,Sindhu,AUIT_Single,CAB,0.471,1.532,0.780,244.4,21.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,102.8,NaN,13.303,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.91,Sindhu,AUIT_Single,CAB,0.466,1.531,0.774,245.3,22.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,101.9,NaN,13.308,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.00,Sindhu,AUIT_Single,CAB,0.463,1.530,0.768,245.5,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,101.7,NaN,13.314,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.10,Sindhu,AUIT_Single,CAB,0.461,1.530,0.762,245.7,22.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,101.5,NaN,13.319,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.21,Sindhu,AUIT_Single,CAB,0.459,1.531,0.756,247.5,22.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,99.8,NaN,13.324,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.31,Sindhu,AUIT_Single,CAB,0.458,1.532,0.752,249.4,23.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,98.1,NaN,13.328,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.41,Sindhu,AUIT_Single,CAB,0.457,1.533,0.747,250.6,23.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,97.0,NaN,13.333,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.50,Sindhu,AUIT_Single,CAB,0.456,1.534,0.741,250.4,23.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,97.1,NaN,13.339,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.60,Sindhu,AUIT_Single,CAB,0.455,1.533,0.733,248.0,23.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,99.4,NaN,13.346,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.71,Sindhu,AUIT_Single,CAB,0.452,1.533,0.726,243.2,23.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,103.8,NaN,13.352,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.81,Sindhu,AUIT_Single,CAB,0.455,1.531,0.723,238.5,24.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,107.9,NaN,13.356,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.98,Sindhu,AUIT_Single,CAB,0.465,1.529,0.722,236.9,26.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,108.9,NaN,13.359,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.01,Sindhu,AUIT_Single,CAB,0.473,1.524,0.724,236.2,28.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,109.1,NaN,13.359,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.10,Sindhu,AUIT_Single,CAB,0.479,1.524,0.726,233.9,30.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,110.6,NaN,13.358,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.21,Sindhu,AUIT_Single,CAB,0.482,1.524,0.721,235.6,31.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,109.1,NaN,13.364,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.31,Sindhu,AUIT_Single,CAB,0.488,1.521,0.707,239.0,31.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,106.1,NaN,13.378,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.41,Sindhu,AUIT_Single,CAB,0.490,1.520,0.683,240.7,30.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,104.9,NaN,13.402,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.56,Sindhu,AUIT_Single,CAB,0.476,1.519,0.636,241.0,27.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,105.2,NaN,13.445,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.60,Sindhu,AUIT_Single,CAB,0.459,1.515,0.592,240.6,26.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,105.9,NaN,13.485,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.71,Sindhu,AUIT_Single,CAB,0.431,1.509,0.520,239.7,24.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,107.1,NaN,13.550,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.81,Sindhu,AUIT_Single,CAB,0.402,1.518,0.456,239.9,22.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,107.3,NaN,13.607,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.91,Sindhu,AUIT_Single,CAB,0.384,1.528,0.408,240.5,24.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,106.6,NaN,13.651,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.01,Sindhu,AUIT_Single,CAB,0.368,1.536,0.375,244.4,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,103.4,NaN,13.681,NaN,1,0,CabinetD06Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.10,Sindhu,AUIT_Single,CAB,0.352,1.536,0.358,251.6,22.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,96.8,NaN,13.694,NaN,1,0,CabinetD06Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.21,Sindhu,AUIT_Single,CAB,0.336,1.533,0.360,263.9,24.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,85.6,NaN,13.689,NaN,1,0,CabinetD06Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.31,Sindhu,AUIT_Single,CAB,0.328,1.529,0.382,278.5,24.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,72.4,NaN,13.667,NaN,1,0,CabinetD06Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.41,Sindhu,AUIT_Single,CAB,0.331,1.527,0.417,295.0,26.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,58.2,NaN,13.632,NaN,1,0,CabinetD06Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.51,Sindhu,AUIT_Single,CAB,0.346,1.523,0.464,312.9,28.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,44.3,NaN,13.589,NaN,1,0,CabinetD06Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.64,Sindhu,AUIT_Single,CAB,0.373,1.522,0.518,329.2,29.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD04,34.4,NaN,13.541,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.71,Sindhu,AUIT_Single,CAB,0.413,1.521,0.580,345.2,28.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,EggBowl,28.5,NaN,13.488,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.81,Sindhu,AUIT_Single,CAB,0.448,1.522,0.626,356.9,28.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,28.9,NaN,13.450,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.91,Sindhu,AUIT_Single,CAB,0.472,1.526,0.667,3.9,27.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,30.8,NaN,13.414,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.00,Sindhu,AUIT_Single,CAB,0.488,1.531,0.701,8.3,28.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,33.5,NaN,13.384,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.10,Sindhu,AUIT_Single,CAB,0.498,1.532,0.731,11.0,28.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,35.1,NaN,13.357,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.21,Sindhu,AUIT_Single,CAB,0.502,1.530,0.758,14.5,28.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,37.6,NaN,13.332,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.31,Sindhu,AUIT_Single,CAB,0.505,1.532,0.778,16.7,27.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,38.3,NaN,13.313,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.41,Sindhu,AUIT_Single,CAB,0.515,1.534,0.800,17.5,26.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,38.1,NaN,13.293,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.50,Sindhu,AUIT_Single,CAB,0.535,1.532,0.823,16.5,26.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,37.9,NaN,13.275,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.60,Sindhu,AUIT_Single,CAB,0.564,1.528,0.842,15.3,28.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,38.2,NaN,13.261,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.71,Sindhu,AUIT_Single,CAB,0.602,1.528,0.862,14.0,29.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,38.2,NaN,13.251,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.81,Sindhu,AUIT_Single,CAB,0.634,1.527,0.872,13.5,30.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,38.6,NaN,13.248,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.91,Sindhu,AUIT_Single,CAB,0.658,1.529,0.884,11.5,30.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,37.4,NaN,13.241,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.00,Sindhu,AUIT_Single,CAB,0.674,1.527,0.889,8.2,30.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,35.6,NaN,13.239,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.10,Sindhu,AUIT_Single,CAB,0.683,1.527,0.891,6.0,30.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,34.7,NaN,13.239,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.21,Sindhu,AUIT_Single,CAB,0.689,1.528,0.891,3.4,29.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,32.6,NaN,13.240,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.31,Sindhu,AUIT_Single,CAB,0.693,1.526,0.889,2.3,30.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,32.6,NaN,13.243,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.41,Sindhu,AUIT_Single,CAB,0.695,1.526,0.885,0.1,29.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,31.6,NaN,13.247,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.50,Sindhu,AUIT_Single,CAB,0.694,1.526,0.879,356.8,29.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,30.4,NaN,13.253,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.60,Sindhu,AUIT_Single,CAB,0.692,1.525,0.871,353.2,29.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,29.1,NaN,13.260,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.71,Sindhu,AUIT_Single,CAB,0.687,1.525,0.862,348.8,29.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,28.4,NaN,13.269,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.81,Sindhu,AUIT_Single,CAB,0.681,1.525,0.852,342.8,29.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD02,28.8,NaN,13.277,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.91,Sindhu,AUIT_Single,CAB,0.668,1.526,0.841,333.0,28.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD03,31.4,NaN,13.285,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.00,Sindhu,AUIT_Single,CAB,0.650,1.527,0.821,320.2,28.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,EggBowl,38.5,NaN,13.301,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.10,Sindhu,AUIT_Single,CAB,0.629,1.530,0.791,306.6,28.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD04,47.9,NaN,13.326,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.28,Sindhu,AUIT_Single,CAB,0.601,1.531,0.734,291.8,27.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,59.8,NaN,13.376,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.31,Sindhu,AUIT_Single,CAB,0.586,1.531,0.702,285.8,26.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,65.1,NaN,13.404,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.41,Sindhu,AUIT_Single,CAB,0.563,1.530,0.650,277.9,25.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,72.0,NaN,13.449,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.50,Sindhu,AUIT_Single,CAB,0.536,1.527,0.592,271.8,25.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,77.6,NaN,13.501,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.60,Sindhu,AUIT_Single,CAB,0.511,1.529,0.532,264.5,25.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,84.3,NaN,13.555,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.71,Sindhu,AUIT_Single,CAB,0.497,1.527,0.479,257.8,25.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,90.5,NaN,13.604,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.86,Sindhu,AUIT_Single,CAB,0.492,1.527,0.443,254.6,24.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,93.4,NaN,13.638,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.91,Sindhu,AUIT_Single,CAB,0.491,1.527,0.426,253.9,24.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,94.1,NaN,13.655,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+41.00,Sindhu,AUIT_Single,CAB,0.491,1.526,0.413,254.4,24.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,93.6,NaN,13.667,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+41.10,Sindhu,AUIT_Single,CAB,0.490,1.527,0.404,254.9,24.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,93.2,NaN,13.675,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+41.21,Sindhu,AUIT_Single,CAB,0.488,1.529,0.395,254.2,23.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,93.8,NaN,13.684,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+41.31,Sindhu,AUIT_Single,CAB,0.485,1.530,0.388,254.0,23.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,94.1,NaN,13.690,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+41.41,Sindhu,AUIT_Single,CAB,0.481,1.529,0.384,254.9,23.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,93.2,NaN,13.694,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+41.50,Sindhu,AUIT_Single,CAB,0.477,1.528,0.382,256.9,24.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,91.4,NaN,13.695,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+41.60,Sindhu,AUIT_Single,CAB,0.473,1.527,0.383,258.6,24.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,89.8,NaN,13.693,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+41.71,Sindhu,AUIT_Single,CAB,0.465,1.527,0.386,260.9,25.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,87.8,NaN,13.689,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+41.81,Sindhu,AUIT_Single,CAB,0.458,1.527,0.391,264.3,25.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,84.8,NaN,13.682,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+41.91,Sindhu,AUIT_Single,CAB,0.450,1.527,0.396,267.8,25.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,81.7,NaN,13.676,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+42.00,Sindhu,AUIT_Single,CAB,0.445,1.527,0.400,270.8,26.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,79.0,NaN,13.670,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+42.10,Sindhu,AUIT_Single,CAB,0.441,1.528,0.401,271.5,25.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,78.4,NaN,13.669,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+42.21,Sindhu,AUIT_Single,CAB,0.436,1.530,0.399,271.4,24.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,78.4,NaN,13.670,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+42.31,Sindhu,AUIT_Single,CAB,0.430,1.531,0.404,275.4,22.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,74.6,NaN,13.664,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+42.41,Sindhu,AUIT_Single,CAB,0.423,1.530,0.416,282.0,21.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,68.4,NaN,13.651,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+42.50,Sindhu,AUIT_Single,CAB,0.417,1.530,0.437,291.0,21.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,60.1,NaN,13.629,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+42.60,Sindhu,AUIT_Single,CAB,0.424,1.530,0.467,303.9,21.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,48.4,NaN,13.601,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+42.71,Sindhu,AUIT_Single,CAB,0.454,1.531,0.507,321.7,21.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD04,33.3,NaN,13.568,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+42.81,Sindhu,AUIT_Single,CAB,0.491,1.534,0.544,336.1,19.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,EggBowl,22.4,NaN,13.538,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.91,Sindhu,AUIT_Single,CAB,0.531,1.536,0.584,347.7,17.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,16.7,NaN,13.508,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.00,Sindhu,AUIT_Single,CAB,0.572,1.538,0.623,356.0,16.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,17.6,NaN,13.477,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.10,Sindhu,AUIT_Single,CAB,0.611,1.538,0.661,1.8,16.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.7,NaN,13.449,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.21,Sindhu,AUIT_Single,CAB,0.648,1.536,0.698,6.8,16.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.3,NaN,13.421,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.31,Sindhu,AUIT_Single,CAB,0.668,1.538,0.729,8.9,16.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.3,NaN,13.394,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+43.41,Sindhu,AUIT_Single,CAB,0.675,1.542,0.760,7.0,16.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.0,NaN,13.366,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+43.50,Sindhu,AUIT_Single,CAB,0.671,1.541,0.785,3.2,17.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.5,NaN,13.340,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.60,Sindhu,AUIT_Single,CAB,0.662,1.545,0.806,0.1,17.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.0,NaN,13.318,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.71,Sindhu,AUIT_Single,CAB,0.646,1.547,0.822,354.0,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,17.4,NaN,13.299,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.81,Sindhu,AUIT_Single,CAB,0.634,1.547,0.834,348.5,16.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,16.1,NaN,13.285,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.91,Sindhu,AUIT_Single,CAB,0.626,1.545,0.842,345.7,17.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,16.5,NaN,13.275,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.00,Sindhu,AUIT_Single,CAB,0.623,1.545,0.847,345.9,17.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,16.6,NaN,13.269,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.10,Sindhu,AUIT_Single,CAB,0.626,1.545,0.849,350.0,17.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,16.7,NaN,13.268,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.21,Sindhu,AUIT_Single,CAB,0.633,1.545,0.848,356.0,17.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,18.9,NaN,13.270,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.31,Sindhu,AUIT_Single,CAB,0.639,1.544,0.845,359.4,18.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.8,NaN,13.274,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.41,Sindhu,AUIT_Single,CAB,0.642,1.543,0.843,1.7,18.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.2,NaN,13.278,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.50,Sindhu,AUIT_Single,CAB,0.646,1.542,0.839,3.4,18.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.5,NaN,13.282,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.60,Sindhu,AUIT_Single,CAB,0.648,1.542,0.836,4.9,18.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.5,NaN,13.286,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.71,Sindhu,AUIT_Single,CAB,0.651,1.543,0.829,7.3,18.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.9,NaN,13.293,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+44.81,Sindhu,AUIT_Single,CAB,0.652,1.546,0.824,9.1,16.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.5,NaN,13.298,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+44.91,Sindhu,AUIT_Single,CAB,0.648,1.550,0.824,8.5,14.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.9,NaN,13.297,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.00,Sindhu,AUIT_Single,CAB,0.638,1.553,0.829,2.8,13.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,19.3,NaN,13.291,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.10,Sindhu,AUIT_Single,CAB,0.630,1.555,0.834,358.0,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,15.6,NaN,13.284,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.21,Sindhu,AUIT_Single,CAB,0.627,1.554,0.837,355.8,13.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,15.1,NaN,13.280,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.31,Sindhu,AUIT_Single,CAB,0.629,1.553,0.838,355.5,14.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,16.0,NaN,13.279,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.41,Sindhu,AUIT_Single,CAB,0.634,1.553,0.838,357.5,15.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,17.4,NaN,13.280,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.50,Sindhu,AUIT_Single,CAB,0.643,1.548,0.835,1.5,17.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.3,NaN,13.285,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.61,Sindhu,AUIT_Single,CAB,0.653,1.543,0.831,5.6,19.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.5,NaN,13.291,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+45.71,Sindhu,AUIT_Single,CAB,0.666,1.537,0.826,10.2,21.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,30.5,NaN,13.299,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+45.81,Sindhu,AUIT_Single,CAB,0.675,1.534,0.823,12.3,22.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,32.6,NaN,13.304,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+45.91,Sindhu,AUIT_Single,CAB,0.683,1.533,0.821,12.8,23.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,33.8,NaN,13.307,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+46.00,Sindhu,AUIT_Single,CAB,0.691,1.532,0.820,12.0,24.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,33.7,NaN,13.310,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+46.10,Sindhu,AUIT_Single,CAB,0.698,1.531,0.820,10.4,25.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,33.4,NaN,13.312,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+46.21,Sindhu,AUIT_Single,CAB,0.704,1.530,0.819,7.7,26.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,32.1,NaN,13.314,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+46.31,Sindhu,AUIT_Single,CAB,0.710,1.529,0.816,6.4,26.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,31.7,NaN,13.318,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+46.41,Sindhu,AUIT_Single,CAB,0.713,1.530,0.814,4.8,25.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,30.2,NaN,13.321,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+46.50,Sindhu,AUIT_Single,CAB,0.717,1.529,0.810,3.8,26.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,30.0,NaN,13.326,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+46.60,Sindhu,AUIT_Single,CAB,0.718,1.530,0.806,3.0,24.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,28.6,NaN,13.329,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+46.71,Sindhu,AUIT_Single,CAB,0.720,1.530,0.801,3.4,24.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD01,28.6,NaN,13.335,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+46.81,Sindhu,AUIT_Single,CAB,0.719,1.531,0.798,3.2,23.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,27.7,NaN,13.338,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+46.91,Sindhu,AUIT_Single,CAB,0.718,1.531,0.795,3.7,23.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,27.8,NaN,13.341,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+47.00,Sindhu,AUIT_Single,CAB,0.717,1.531,0.792,4.2,23.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,28.1,NaN,13.344,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+47.10,Sindhu,AUIT_Single,CAB,0.714,1.531,0.789,4.7,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,27.9,NaN,13.345,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+47.21,Sindhu,AUIT_Single,CAB,0.710,1.531,0.787,5.4,23.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,28.7,NaN,13.347,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+47.31,Sindhu,AUIT_Single,CAB,0.704,1.531,0.785,5.4,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,28.1,NaN,13.347,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+47.41,Sindhu,AUIT_Single,CAB,0.697,1.533,0.784,5.9,22.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,28.0,NaN,13.346,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+47.50,Sindhu,AUIT_Single,CAB,0.689,1.534,0.783,5.8,21.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,27.3,NaN,13.346,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+47.60,Sindhu,AUIT_Single,CAB,0.682,1.535,0.780,6.4,21.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,27.6,NaN,13.347,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+47.71,Sindhu,AUIT_Single,CAB,0.671,1.535,0.776,6.1,20.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.0,NaN,13.349,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+47.81,Sindhu,AUIT_Single,CAB,0.664,1.536,0.774,5.1,20.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.0,NaN,13.350,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+47.91,Sindhu,AUIT_Single,CAB,0.658,1.537,0.771,5.0,20.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.9,NaN,13.351,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.00,Sindhu,AUIT_Single,CAB,0.657,1.536,0.768,5.5,20.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.2,NaN,13.353,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.10,Sindhu,AUIT_Single,CAB,0.662,1.536,0.767,6.6,20.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,27.0,NaN,13.356,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.21,Sindhu,AUIT_Single,CAB,0.674,1.535,0.766,9.1,21.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,29.3,NaN,13.359,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.31,Sindhu,AUIT_Single,CAB,0.686,1.532,0.768,11.6,22.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,31.8,NaN,13.360,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.41,Sindhu,AUIT_Single,CAB,0.699,1.528,0.771,13.4,22.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,33.4,NaN,13.360,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.50,Sindhu,AUIT_Single,CAB,0.707,1.528,0.777,14.5,23.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.9,NaN,13.355,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.60,Sindhu,AUIT_Single,CAB,0.711,1.530,0.787,14.8,23.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.8,NaN,13.347,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.71,Sindhu,AUIT_Single,CAB,0.711,1.530,0.802,15.4,22.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,34.8,NaN,13.332,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.81,Sindhu,AUIT_Single,CAB,0.707,1.532,0.821,16.8,22.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,35.7,NaN,13.313,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.91,Sindhu,AUIT_Single,CAB,0.699,1.533,0.841,16.8,21.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.4,NaN,13.292,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.00,Sindhu,AUIT_Single,CAB,0.692,1.534,0.862,16.6,21.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.1,NaN,13.270,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.10,Sindhu,AUIT_Single,CAB,0.686,1.533,0.878,17.4,21.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.6,NaN,13.252,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.21,Sindhu,AUIT_Single,CAB,0.683,1.532,0.893,18.7,20.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.7,NaN,13.237,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.31,Sindhu,AUIT_Single,CAB,0.682,1.531,0.902,20.3,21.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,38.0,NaN,13.228,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.41,Sindhu,AUIT_Single,CAB,0.682,1.530,0.908,21.3,21.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,39.1,NaN,13.222,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.50,Sindhu,AUIT_Single,CAB,0.682,1.528,0.912,22.5,22.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,40.4,NaN,13.218,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.60,Sindhu,AUIT_Single,CAB,0.683,1.528,0.915,23.6,23.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,41.6,NaN,13.216,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.71,Sindhu,AUIT_Single,CAB,0.683,1.528,0.915,24.5,23.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,42.4,NaN,13.216,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.81,Sindhu,AUIT_Single,CAB,0.685,1.527,0.914,26.0,23.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,43.9,NaN,13.217,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.91,Sindhu,AUIT_Single,CAB,0.687,1.526,0.915,28.4,24.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,46.1,NaN,13.217,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+50.01,Sindhu,AUIT_Single,CAB,0.690,1.525,0.919,32.2,25.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,49.8,NaN,13.213,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+50.10,Sindhu,AUIT_Single,CAB,0.692,1.522,0.928,36.9,27.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,54.4,NaN,13.205,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+50.21,Sindhu,AUIT_Single,CAB,0.693,1.518,0.939,42.4,28.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,59.5,NaN,13.194,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+50.31,Sindhu,AUIT_Single,CAB,0.694,1.514,0.949,47.4,30.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,64.1,NaN,13.185,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+50.41,Sindhu,AUIT_Single,CAB,0.694,1.510,0.958,51.7,30.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,67.8,NaN,13.176,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+50.50,Sindhu,AUIT_Single,CAB,0.696,1.508,0.967,55.3,31.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,71.0,NaN,13.168,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+50.60,Sindhu,AUIT_Single,CAB,0.702,1.507,0.975,58.0,31.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,73.4,NaN,13.161,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+50.71,Sindhu,AUIT_Single,CAB,0.714,1.505,0.979,60.4,32.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,75.6,NaN,13.160,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+50.81,Sindhu,AUIT_Single,CAB,0.728,1.505,0.979,61.1,33.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,76.4,NaN,13.163,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+50.92,Sindhu,AUIT_Single,CAB,0.743,1.506,0.977,60.6,34.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,76.1,NaN,13.168,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+51.00,Sindhu,AUIT_Single,CAB,0.777,1.507,0.972,58.5,34.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,74.6,NaN,13.181,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+51.10,Sindhu,AUIT_Single,CAB,0.814,1.508,0.969,55.1,35.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,72.0,NaN,13.192,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+51.21,Sindhu,AUIT_Single,CAB,0.860,1.505,0.969,49.4,35.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,67.9,NaN,13.203,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+51.31,Sindhu,AUIT_Single,CAB,0.901,1.499,0.973,43.0,37.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,63.7,NaN,13.208,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+51.41,Sindhu,AUIT_Single,CAB,0.938,1.488,0.980,35.2,38.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,58.8,NaN,13.210,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+51.50,Sindhu,AUIT_Single,CAB,0.958,1.481,0.986,31.1,38.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,56.1,NaN,13.209,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+51.60,Sindhu,AUIT_Single,CAB,0.999,1.458,1.000,24.2,38.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,51.5,NaN,13.205,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+51.71,Sindhu,AUIT_Single,CAB,1.026,1.436,1.008,21.8,38.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,50.2,NaN,13.204,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+51.81,Sindhu,AUIT_Single,CAB,1.045,1.416,1.015,20.6,38.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,49.7,NaN,13.202,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+51.91,Sindhu,AUIT_Single,CAB,1.061,1.399,1.020,20.1,38.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,49.8,NaN,13.201,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+52.00,Sindhu,AUIT_Single,CAB,1.075,1.383,1.021,20.3,39.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,50.4,NaN,13.203,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+52.10,Sindhu,AUIT_Single,CAB,1.085,1.369,1.022,20.5,40.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,51.1,NaN,13.205,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+52.21,Sindhu,AUIT_Single,CAB,1.093,1.360,1.018,22.0,41.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,53.1,NaN,13.210,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+52.31,Sindhu,AUIT_Single,CAB,1.096,1.362,1.011,23.6,41.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,54.1,NaN,13.218,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+52.41,Sindhu,AUIT_Single,CAB,1.096,1.372,1.000,26.2,41.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,55.5,NaN,13.229,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+52.50,Sindhu,AUIT_Single,CAB,1.092,1.388,0.987,29.3,40.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,56.6,NaN,13.240,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+52.60,Sindhu,AUIT_Single,CAB,1.082,1.405,0.971,33.5,39.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,58.5,NaN,13.253,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+52.71,Sindhu,AUIT_Single,CAB,1.062,1.421,0.951,39.1,36.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,61.3,NaN,13.268,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+52.81,Sindhu,AUIT_Single,CAB,1.033,1.432,0.934,43.2,35.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,63.8,NaN,13.277,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+52.91,Sindhu,AUIT_Single,CAB,0.997,1.444,0.921,46.0,34.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,65.5,NaN,13.281,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.00,Sindhu,AUIT_Single,CAB,0.955,1.456,0.908,48.0,33.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,66.5,NaN,13.284,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.10,Sindhu,AUIT_Single,CAB,0.906,1.466,0.891,51.0,33.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.8,NaN,13.289,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.21,Sindhu,AUIT_Single,CAB,0.851,1.475,0.873,52.9,34.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,70.3,NaN,13.294,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.31,Sindhu,AUIT_Single,CAB,0.807,1.479,0.858,54.2,35.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,71.4,NaN,13.299,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.41,Sindhu,AUIT_Single,CAB,0.771,1.483,0.848,55.1,35.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,72.0,NaN,13.301,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.50,Sindhu,AUIT_Single,CAB,0.742,1.488,0.841,55.1,34.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,71.6,NaN,13.301,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.60,Sindhu,AUIT_Single,CAB,0.720,1.492,0.838,54.5,33.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,70.7,NaN,13.299,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.71,Sindhu,AUIT_Single,CAB,0.702,1.496,0.837,53.7,32.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,69.8,NaN,13.296,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.81,Sindhu,AUIT_Single,CAB,0.690,1.498,0.838,52.6,31.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.7,NaN,13.292,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.91,Sindhu,AUIT_Single,CAB,0.681,1.500,0.841,51.3,31.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,67.5,NaN,13.287,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.00,Sindhu,AUIT_Single,CAB,0.675,1.501,0.845,50.4,31.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,66.7,NaN,13.282,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.10,Sindhu,AUIT_Single,CAB,0.671,1.500,0.848,50.2,31.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,66.6,NaN,13.278,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.21,Sindhu,AUIT_Single,CAB,0.668,1.498,0.852,50.3,32.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,67.0,NaN,13.274,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.31,Sindhu,AUIT_Single,CAB,0.667,1.497,0.853,50.9,33.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,67.6,NaN,13.272,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.41,Sindhu,AUIT_Single,CAB,0.665,1.498,0.853,51.6,32.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.1,NaN,13.272,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.50,Sindhu,AUIT_Single,CAB,0.664,1.498,0.852,51.8,32.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.3,NaN,13.273,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.60,Sindhu,AUIT_Single,CAB,0.663,1.499,0.851,51.5,32.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.0,NaN,13.273,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.71,Sindhu,AUIT_Single,CAB,0.661,1.499,0.851,51.5,32.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,67.9,NaN,13.273,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.81,Sindhu,AUIT_Single,CAB,0.658,1.499,0.851,51.3,32.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,67.8,NaN,13.272,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.91,Sindhu,AUIT_Single,CAB,0.655,1.500,0.851,51.2,32.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,67.6,NaN,13.272,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.00,Sindhu,AUIT_Single,CAB,0.651,1.500,0.851,51.3,31.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,67.6,NaN,13.271,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.10,Sindhu,AUIT_Single,CAB,0.647,1.501,0.851,51.3,31.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,67.5,NaN,13.270,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.21,Sindhu,AUIT_Single,CAB,0.644,1.501,0.852,51.3,31.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,67.4,NaN,13.269,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.31,Sindhu,AUIT_Single,CAB,0.641,1.501,0.852,51.3,30.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,67.4,NaN,13.268,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.41,Sindhu,AUIT_Single,CAB,0.638,1.502,0.852,51.3,30.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,67.3,NaN,13.267,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.50,Sindhu,AUIT_Single,CAB,0.637,1.502,0.852,51.0,30.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,67.0,NaN,13.267,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.60,Sindhu,AUIT_Single,CAB,0.636,1.501,0.851,51.0,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,67.0,NaN,13.267,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.71,Sindhu,AUIT_Single,CAB,0.636,1.501,0.849,51.1,30.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,67.2,NaN,13.269,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.81,Sindhu,AUIT_Single,CAB,0.636,1.501,0.847,51.4,31.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,67.4,NaN,13.272,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.91,Sindhu,AUIT_Single,CAB,0.636,1.500,0.844,51.7,31.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,67.7,NaN,13.274,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.00,Sindhu,AUIT_Single,CAB,0.636,1.500,0.841,52.1,31.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.1,NaN,13.277,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.10,Sindhu,AUIT_Single,CAB,0.636,1.500,0.838,52.4,31.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.3,NaN,13.280,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.21,Sindhu,AUIT_Single,CAB,0.635,1.500,0.836,52.8,31.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.6,NaN,13.283,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.31,Sindhu,AUIT_Single,CAB,0.634,1.500,0.834,53.0,30.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.7,NaN,13.284,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.41,Sindhu,AUIT_Single,CAB,0.632,1.500,0.833,53.1,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.8,NaN,13.285,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.50,Sindhu,AUIT_Single,CAB,0.630,1.501,0.832,53.1,30.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.7,NaN,13.285,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.60,Sindhu,AUIT_Single,CAB,0.628,1.501,0.832,53.2,30.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.8,NaN,13.285,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.71,Sindhu,AUIT_Single,CAB,0.626,1.501,0.832,53.5,30.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,69.0,NaN,13.285,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.81,Sindhu,AUIT_Single,CAB,0.624,1.500,0.832,53.9,30.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,69.3,NaN,13.284,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.91,Sindhu,AUIT_Single,CAB,0.623,1.500,0.832,54.0,30.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,69.4,NaN,13.283,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.00,Sindhu,AUIT_Single,CAB,0.623,1.501,0.833,54.1,30.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,69.4,NaN,13.282,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.10,Sindhu,AUIT_Single,CAB,0.622,1.500,0.834,54.3,30.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,69.7,NaN,13.281,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.21,Sindhu,AUIT_Single,CAB,0.622,1.500,0.836,54.2,30.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,69.7,NaN,13.280,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.31,Sindhu,AUIT_Single,CAB,0.622,1.499,0.837,54.2,30.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,69.7,NaN,13.278,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.41,Sindhu,AUIT_Single,CAB,0.622,1.499,0.838,54.1,31.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,69.6,NaN,13.277,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.50,Sindhu,AUIT_Single,CAB,0.622,1.499,0.839,54.0,31.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,69.6,NaN,13.276,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.60,Sindhu,AUIT_Single,CAB,0.623,1.499,0.840,54.0,31.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,69.6,NaN,13.276,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.71,Sindhu,AUIT_Single,CAB,0.623,1.499,0.840,53.7,31.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,69.4,NaN,13.275,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.81,Sindhu,AUIT_Single,CAB,0.622,1.500,0.841,53.1,30.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.8,NaN,13.274,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.91,Sindhu,AUIT_Single,CAB,0.622,1.500,0.841,52.7,30.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.4,NaN,13.274,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.00,Sindhu,AUIT_Single,CAB,0.621,1.501,0.841,52.7,30.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.3,NaN,13.274,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.10,Sindhu,AUIT_Single,CAB,0.620,1.500,0.841,52.8,30.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.4,NaN,13.274,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.21,Sindhu,AUIT_Single,CAB,0.619,1.500,0.839,53.0,30.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.6,NaN,13.275,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.31,Sindhu,AUIT_Single,CAB,0.618,1.500,0.838,53.0,30.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.6,NaN,13.276,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.41,Sindhu,AUIT_Single,CAB,0.618,1.500,0.837,53.1,30.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.6,NaN,13.278,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.51,Sindhu,AUIT_Single,CAB,0.617,1.500,0.835,53.1,30.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.7,NaN,13.279,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.60,Sindhu,AUIT_Single,CAB,0.617,1.500,0.833,53.3,30.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,68.8,NaN,13.281,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.71,Sindhu,AUIT_Single,CAB,0.617,1.501,0.831,54.3,29.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,69.4,NaN,13.283,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.81,Sindhu,AUIT_Single,CAB,0.616,1.503,0.829,55.7,28.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,70.4,NaN,13.285,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.91,Sindhu,AUIT_Single,CAB,0.615,1.504,0.826,56.5,27.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,70.9,NaN,13.287,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+59.00,Sindhu,AUIT_Single,CAB,0.614,1.508,0.824,57.7,24.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,71.6,NaN,13.289,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+59.10,Sindhu,AUIT_Single,CAB,0.614,1.513,0.821,59.4,21.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,72.7,NaN,13.292,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+59.21,Sindhu,AUIT_Single,CAB,0.614,1.520,0.817,63.0,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,75.6,NaN,13.296,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+59.31,Sindhu,AUIT_Single,CAB,0.613,1.526,0.813,67.0,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,79.3,NaN,13.300,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+59.41,Sindhu,AUIT_Single,CAB,0.612,1.533,0.809,70.1,8.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,82.2,NaN,13.304,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+59.50,Sindhu,AUIT_Single,CAB,0.610,1.544,0.804,74.7,2.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,86.9,NaN,13.309,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+59.60,Sindhu,AUIT_Single,CAB,0.610,1.552,0.801,78.0,357.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,90.2,NaN,13.312,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+59.71,Sindhu,AUIT_Single,CAB,0.609,1.566,0.800,78.0,348.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,90.3,NaN,13.312,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+59.81,Sindhu,AUIT_Single,CAB,0.606,1.577,0.796,80.2,341.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,92.5,NaN,13.316,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+59.91,Sindhu,AUIT_Single,CAB,0.603,1.579,0.789,82.2,340.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,94.3,NaN,13.322,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.01,Sindhu,AUIT_Single,CAB,0.604,1.579,0.785,82.9,339.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,95.1,NaN,13.327,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.10,Sindhu,AUIT_Single,CAB,0.606,1.580,0.782,82.3,338.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,94.5,NaN,13.330,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.20,Sindhu,AUIT_Single,CAB,0.607,1.582,0.777,82.6,336.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,94.7,NaN,13.335,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.31,Sindhu,AUIT_Single,CAB,0.609,1.582,0.772,84.6,336.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,96.6,NaN,13.341,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.41,Sindhu,AUIT_Single,CAB,0.611,1.580,0.769,85.2,337.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,97.2,NaN,13.344,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.51,Sindhu,AUIT_Single,CAB,0.614,1.580,0.768,85.3,338.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,97.3,NaN,13.345,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.60,Sindhu,AUIT_Single,CAB,0.617,1.581,0.768,85.3,337.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,97.3,NaN,13.346,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.70,Sindhu,AUIT_Single,CAB,0.619,1.581,0.767,85.5,337.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,97.4,NaN,13.348,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.81,Sindhu,AUIT_Single,CAB,0.619,1.580,0.767,85.7,338.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,97.7,NaN,13.347,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.91,Sindhu,AUIT_Single,CAB,0.620,1.578,0.770,84.3,339.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,96.4,NaN,13.344,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.01,Sindhu,AUIT_Single,CAB,0.623,1.569,0.780,78.5,347.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,90.9,NaN,13.335,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.10,Sindhu,AUIT_Single,CAB,0.625,1.547,0.792,72.2,1.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,84.4,NaN,13.324,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.20,Sindhu,AUIT_Single,CAB,0.625,1.530,0.804,65.7,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,78.0,NaN,13.311,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.31,Sindhu,AUIT_Single,CAB,0.620,1.514,0.814,58.4,21.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,71.9,NaN,13.300,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.41,Sindhu,AUIT_Single,CAB,0.615,1.510,0.818,55.4,24.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,69.4,NaN,13.296,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.51,Sindhu,AUIT_Single,CAB,0.607,1.508,0.818,52.9,25.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,67.3,NaN,13.294,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.60,Sindhu,AUIT_Single,CAB,0.600,1.508,0.817,51.5,25.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,66.1,NaN,13.294,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.70,Sindhu,AUIT_Single,CAB,0.595,1.506,0.814,51.0,25.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,65.7,NaN,13.296,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.81,Sindhu,AUIT_Single,CAB,0.592,1.504,0.809,52.3,25.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,66.9,NaN,13.299,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.91,Sindhu,AUIT_Single,CAB,0.592,1.503,0.804,54.9,26.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,69.3,NaN,13.305,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.01,Sindhu,AUIT_Single,CAB,0.593,1.502,0.799,57.0,26.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,71.1,NaN,13.309,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.10,Sindhu,AUIT_Single,CAB,0.594,1.503,0.796,59.0,26.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,73.0,NaN,13.313,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.20,Sindhu,AUIT_Single,CAB,0.598,1.502,0.794,61.0,27.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,74.8,NaN,13.316,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.31,Sindhu,AUIT_Single,CAB,0.602,1.499,0.793,63.5,28.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,77.1,NaN,13.318,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.41,Sindhu,AUIT_Single,CAB,0.605,1.496,0.792,64.8,30.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,78.5,NaN,13.319,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.51,Sindhu,AUIT_Single,CAB,0.608,1.495,0.792,65.3,30.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,79.0,NaN,13.319,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.60,Sindhu,AUIT_Single,CAB,0.611,1.496,0.793,64.8,30.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,78.6,NaN,13.319,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.70,Sindhu,AUIT_Single,CAB,0.614,1.497,0.795,63.8,30.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,77.7,NaN,13.318,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.81,Sindhu,AUIT_Single,CAB,0.618,1.498,0.797,64.0,30.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,77.9,NaN,13.317,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.91,Sindhu,AUIT_Single,CAB,0.620,1.500,0.798,64.6,30.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,78.3,NaN,13.316,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.01,Sindhu,AUIT_Single,CAB,0.621,1.501,0.801,64.5,29.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,78.2,NaN,13.313,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.10,Sindhu,AUIT_Single,CAB,0.622,1.501,0.805,64.3,29.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,78.0,NaN,13.309,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.20,Sindhu,AUIT_Single,CAB,0.622,1.502,0.810,63.2,29.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,77.1,NaN,13.305,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.31,Sindhu,AUIT_Single,CAB,0.621,1.502,0.817,61.6,29.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,75.7,NaN,13.298,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.40,Sindhu,AUIT_Single,CAB,0.621,1.502,0.822,60.7,29.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,74.8,NaN,13.293,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.51,Sindhu,AUIT_Single,CAB,0.619,1.500,0.826,60.4,29.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,74.8,NaN,13.289,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.60,Sindhu,AUIT_Single,CAB,0.616,1.499,0.829,60.4,30.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,74.7,NaN,13.285,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.70,Sindhu,AUIT_Single,CAB,1.000,0.000,0.000,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,14.1,NaN,14.244,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0

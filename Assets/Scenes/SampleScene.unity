@@ -2984,7 +2984,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &446813722
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2997,9 +2997,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02a52267cb32d7c4aa0f914165a92dae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ResearchLogManager
-  participantID: Saifuddin
+  participantID: Sindhu
   sequenceOrder: CAB
-  activeScenario: 2
+  activeScenario: 1
   head: {fileID: 789221007}
   videoPanel: {fileID: 2021502434}
   instructionPanel: {fileID: 134079333}
