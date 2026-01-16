@@ -633,7 +633,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &103741135
 Transform:
   m_ObjectHideFlags: 0
@@ -2984,7 +2984,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &446813722
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2997,9 +2997,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02a52267cb32d7c4aa0f914165a92dae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ResearchLogManager
-  participantID: Romila
-  sequenceOrder: ACB
-  activeScenario: 0
+  participantID: Saifuddin
+  sequenceOrder: CAB
+  activeScenario: 2
   head: {fileID: 789221007}
   videoPanel: {fileID: 2021502434}
   instructionPanel: {fileID: 134079333}
@@ -7798,7 +7798,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1432979873
 Transform:
   m_ObjectHideFlags: 0
@@ -8684,7 +8684,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
       propertyPath: m_LocalRotation.w

@@ -1,0 +1,2 @@
+Time,ParticipantID,Scenario,Sequence,HeadX,HeadY,HeadZ,HeadYaw,HeadPitch,VideoX,VideoY,VideoZ,InstX,InstY,InstZ,GazeTarget,HitObjectName,AngleToVideo,AngleToInst,VideoDist,InstDist,VideoOcc,InstOcc,VideoOccHitName,InstOccHitName,VideoInCone,InstInCone,VideoVisible,InstVisible,VideoSpeed,InstSpeed,PanelSeparation,ScreenOverlapPct,BothVisible
+0.00,dummy,AUIT_Multi,BAC,1.000,0.000,1.000,0.0,0.0,-2.197,1.378,13.812,-26.067,0.000,792.755,World,CabinetD01,15.2,2.0,13.277,792.217,1,1,CabinetD01,CabinetD01,1,1,0,0,0.0000,0.0000,779.309,0.000,0
