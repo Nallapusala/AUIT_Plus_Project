@@ -633,7 +633,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &103741135
 Transform:
   m_ObjectHideFlags: 0
@@ -2984,7 +2984,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &446813722
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2997,8 +2997,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02a52267cb32d7c4aa0f914165a92dae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ResearchLogManager
-  participantID: Xiangli Yu
-  sequenceOrder: CBA
+  participantID: Romila
+  sequenceOrder: ACB
   activeScenario: 0
   head: {fileID: 789221007}
   videoPanel: {fileID: 2021502434}
@@ -3519,6 +3519,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4937641475973602109, guid: 4835b836f2075924d9a5e9e1a81eb538, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1775140178}
+    - targetCorrespondingSourceObject: {fileID: 4937641475973602109, guid: 4835b836f2075924d9a5e9e1a81eb538, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1775140181}
   m_SourcePrefab: {fileID: 100100000, guid: 4835b836f2075924d9a5e9e1a81eb538, type: 3}
 --- !u!4 &605243586 stripped
 Transform:
@@ -4120,7 +4123,7 @@ Transform:
   m_GameObject: {fileID: 712410500}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 1.231, y: -0.051, z: -1.787}
+  m_LocalPosition: {x: 1.231, y: 0.276, z: -1.787}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5699,7 +5702,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &938490078
 Transform:
   m_ObjectHideFlags: 0
@@ -9278,6 +9281,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::IngredientIdentity
   type: 3
+--- !u!65 &1775140181
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1775140167}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.13128142, y: 0.22645988, z: 0.13128148}
+  m_Center: {x: -0.00025267154, y: -0.014636579, z: 0.00051138573}
 --- !u!1 &1777166053 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5326535201982983866, guid: a57e86d551e88f74ba2545b6bcd6a8b5, type: 3}
@@ -10700,6 +10724,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4937641475973602109, guid: 4835b836f2075924d9a5e9e1a81eb538, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2027016344}
+    - targetCorrespondingSourceObject: {fileID: 4937641475973602109, guid: 4835b836f2075924d9a5e9e1a81eb538, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2027016347}
   m_SourcePrefab: {fileID: 100100000, guid: 4835b836f2075924d9a5e9e1a81eb538, type: 3}
 --- !u!4 &2027016332 stripped
 Transform:
@@ -10827,6 +10854,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::IngredientIdentity
   type: 2
+--- !u!65 &2027016347
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1355847542}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.13128142, y: 0.22645988, z: 0.13128148}
+  m_Center: {x: -0.00025267154, y: -0.014636579, z: 0.00051138573}
 --- !u!1001 &2038555343
 PrefabInstance:
   m_ObjectHideFlags: 0

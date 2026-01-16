@@ -1,0 +1,1054 @@
+Time,ParticipantID,Scenario,Sequence,HeadX,HeadY,HeadZ,HeadYaw,HeadPitch,VideoX,VideoY,VideoZ,InstX,InstY,InstZ,GazeTarget,HitObjectName,AngleToVideo,AngleToInst,VideoDist,InstDist,VideoOcc,InstOcc,VideoOccHitName,InstOccHitName,VideoInCone,InstInCone,VideoVisible,InstVisible,VideoSpeed,InstSpeed,PanelSeparation,ScreenOverlapPct,BothVisible
+0.00,Tarun,Static,BAC,1.000,0.000,0.500,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,14.7,NaN,13.760,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.35,Tarun,Static,BAC,1.000,0.000,0.500,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,14.7,NaN,13.760,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.37,Tarun,Static,BAC,1.000,0.000,0.500,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,14.7,NaN,13.760,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.38,Tarun,Static,BAC,1.000,0.000,0.500,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,14.7,NaN,13.760,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.41,Tarun,Static,BAC,1.000,0.000,0.500,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,14.7,NaN,13.760,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.50,Tarun,Static,BAC,1.000,0.000,0.500,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,14.7,NaN,13.760,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.60,Tarun,Static,BAC,1.000,0.000,0.500,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,14.7,NaN,13.760,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+0.71,Tarun,Static,BAC,1.000,0.000,0.500,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,14.7,NaN,13.760,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+1.11,Tarun,Static,BAC,1.000,0.000,0.500,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,14.7,NaN,13.760,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+1.13,Tarun,Static,BAC,1.135,1.600,0.312,352.0,358.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,6.2,NaN,13.907,NaN,1,0,CabinetD05Door,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+1.18,Tarun,Static,BAC,1.135,1.600,0.312,352.0,358.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,6.2,NaN,13.907,NaN,1,0,CabinetD05Door,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+1.19,Tarun,Static,BAC,1.135,1.601,0.311,351.7,358.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,6.1,NaN,13.908,NaN,1,0,CabinetD05Door,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+1.21,Tarun,Static,BAC,1.134,1.601,0.311,351.7,358.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,6.0,NaN,13.908,NaN,1,0,CabinetD05Door,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+1.31,Tarun,Static,BAC,1.134,1.601,0.311,351.4,358.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,5.9,NaN,13.908,NaN,1,0,CabinetD05Door,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+1.40,Tarun,Static,BAC,1.134,1.601,0.310,351.2,358.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,5.8,NaN,13.908,NaN,1,0,CabinetD05Door,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+1.50,Tarun,Static,BAC,1.134,1.602,0.311,351.0,357.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,5.8,NaN,13.908,NaN,1,0,CabinetD05Door,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+1.61,Tarun,Static,BAC,1.134,1.602,0.311,350.8,357.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,5.7,NaN,13.908,NaN,1,0,CabinetD05Door,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+1.71,Tarun,Static,BAC,1.135,1.603,0.312,350.7,357.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,5.8,NaN,13.907,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+1.81,Tarun,Static,BAC,1.135,1.603,0.314,350.6,357.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,5.9,NaN,13.906,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+1.91,Tarun,Static,BAC,1.135,1.603,0.315,350.4,356.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,5.9,NaN,13.905,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+2.00,Tarun,Static,BAC,1.135,1.603,0.316,350.3,356.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,5.9,NaN,13.904,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+2.10,Tarun,Static,BAC,1.135,1.604,0.316,350.3,356.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,6.1,NaN,13.903,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+2.21,Tarun,Static,BAC,1.136,1.604,0.317,350.9,356.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,6.6,NaN,13.902,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+2.31,Tarun,Static,BAC,1.140,1.603,0.319,353.2,356.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,8.3,NaN,13.901,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+2.41,Tarun,Static,BAC,1.146,1.601,0.321,356.6,357.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.0,NaN,13.901,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+2.50,Tarun,Static,BAC,1.148,1.599,0.323,358.5,358.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.6,NaN,13.900,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+2.60,Tarun,Static,BAC,1.148,1.598,0.323,358.3,359.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.4,NaN,13.899,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+2.71,Tarun,Static,BAC,1.147,1.598,0.324,358.3,359.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.4,NaN,13.899,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+2.81,Tarun,Static,BAC,1.146,1.597,0.324,358.4,359.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.4,NaN,13.898,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+2.91,Tarun,Static,BAC,1.145,1.598,0.323,358.1,359.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.2,NaN,13.899,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.00,Tarun,Static,BAC,1.144,1.598,0.322,357.9,359.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.0,NaN,13.900,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.10,Tarun,Static,BAC,1.145,1.599,0.320,357.8,358.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.9,NaN,13.901,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.21,Tarun,Static,BAC,1.144,1.599,0.319,357.6,358.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.7,NaN,13.902,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.31,Tarun,Static,BAC,1.145,1.600,0.319,357.3,358.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.5,NaN,13.903,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.41,Tarun,Static,BAC,1.145,1.600,0.319,357.2,358.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.4,NaN,13.903,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.50,Tarun,Static,BAC,1.145,1.600,0.320,357.1,358.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.3,NaN,13.902,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.60,Tarun,Static,BAC,1.145,1.600,0.320,357.1,358.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.3,NaN,13.902,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.71,Tarun,Static,BAC,1.145,1.600,0.320,357.1,358.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.3,NaN,13.901,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.81,Tarun,Static,BAC,1.145,1.600,0.320,357.1,358.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.4,NaN,13.901,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+3.91,Tarun,Static,BAC,1.144,1.601,0.320,357.1,358.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.4,NaN,13.901,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+4.00,Tarun,Static,BAC,1.144,1.600,0.321,357.1,358.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.4,NaN,13.900,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+4.10,Tarun,Static,BAC,1.144,1.601,0.322,357.1,358.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.3,NaN,13.900,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+4.21,Tarun,Static,BAC,1.144,1.601,0.322,357.1,358.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.4,NaN,13.899,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+4.31,Tarun,Static,BAC,1.143,1.601,0.322,357.1,358.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.4,NaN,13.899,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+4.41,Tarun,Static,BAC,1.143,1.601,0.322,357.1,357.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.4,NaN,13.900,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+4.50,Tarun,Static,BAC,1.143,1.601,0.321,357.2,357.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.5,NaN,13.900,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+4.60,Tarun,Static,BAC,1.142,1.601,0.321,357.3,357.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.6,NaN,13.900,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+4.71,Tarun,Static,BAC,1.142,1.601,0.321,357.4,357.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.8,NaN,13.900,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+4.81,Tarun,Static,BAC,1.141,1.601,0.321,357.4,357.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.8,NaN,13.900,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+4.91,Tarun,Static,BAC,1.141,1.601,0.321,357.4,357.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.8,NaN,13.900,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+5.00,Tarun,Static,BAC,1.141,1.601,0.321,357.5,357.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.8,NaN,13.900,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+5.10,Tarun,Static,BAC,1.140,1.601,0.321,357.5,357.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.8,NaN,13.899,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+5.21,Tarun,Static,BAC,1.140,1.601,0.322,357.4,357.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.7,NaN,13.899,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+5.31,Tarun,Static,BAC,1.139,1.601,0.322,357.4,357.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.7,NaN,13.899,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+5.41,Tarun,Static,BAC,1.139,1.601,0.322,357.4,357.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.6,NaN,13.898,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+5.50,Tarun,Static,BAC,1.139,1.601,0.323,357.4,357.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.7,NaN,13.898,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+5.60,Tarun,Static,BAC,1.139,1.601,0.323,357.5,357.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.7,NaN,13.897,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+5.71,Tarun,Static,BAC,1.139,1.601,0.323,357.6,357.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.9,NaN,13.897,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+5.81,Tarun,Static,BAC,1.139,1.601,0.323,357.8,357.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.1,NaN,13.898,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+5.91,Tarun,Static,BAC,1.140,1.601,0.323,358.0,357.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.3,NaN,13.898,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+6.00,Tarun,Static,BAC,1.141,1.601,0.322,358.2,357.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.6,NaN,13.899,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+6.10,Tarun,Static,BAC,1.141,1.601,0.322,358.3,357.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.7,NaN,13.899,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+6.21,Tarun,Static,BAC,1.141,1.602,0.323,358.3,357.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.8,NaN,13.898,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+6.31,Tarun,Static,BAC,1.140,1.601,0.324,357.9,357.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.3,NaN,13.897,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+6.41,Tarun,Static,BAC,1.139,1.601,0.324,357.6,357.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.0,NaN,13.896,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+6.50,Tarun,Static,BAC,1.138,1.602,0.324,357.4,357.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.9,NaN,13.896,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+6.60,Tarun,Static,BAC,1.138,1.603,0.326,357.2,356.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.9,NaN,13.894,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+6.71,Tarun,Static,BAC,1.137,1.602,0.327,357.2,356.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.8,NaN,13.893,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+6.81,Tarun,Static,BAC,1.138,1.602,0.328,357.2,357.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.7,NaN,13.892,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+6.91,Tarun,Static,BAC,1.138,1.602,0.329,357.2,356.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.8,NaN,13.891,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+7.00,Tarun,Static,BAC,1.139,1.602,0.331,357.4,357.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.0,NaN,13.890,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+7.10,Tarun,Static,BAC,1.140,1.602,0.332,357.6,357.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.1,NaN,13.889,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+7.21,Tarun,Static,BAC,1.140,1.602,0.333,357.6,357.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.2,NaN,13.887,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+7.31,Tarun,Static,BAC,1.140,1.602,0.335,357.1,357.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.7,NaN,13.886,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+7.41,Tarun,Static,BAC,1.139,1.602,0.335,357.1,356.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.7,NaN,13.885,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+7.50,Tarun,Static,BAC,1.139,1.603,0.336,357.1,356.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.9,NaN,13.885,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+7.60,Tarun,Static,BAC,1.139,1.602,0.336,357.4,356.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.0,NaN,13.885,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+7.71,Tarun,Static,BAC,1.138,1.602,0.333,357.6,356.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.2,NaN,13.887,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+7.81,Tarun,Static,BAC,1.136,1.602,0.331,357.4,356.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.2,NaN,13.889,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+7.91,Tarun,Static,BAC,1.135,1.602,0.328,357.6,356.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.3,NaN,13.891,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+8.01,Tarun,Static,BAC,1.133,1.603,0.325,357.6,356.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.3,NaN,13.894,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+8.10,Tarun,Static,BAC,1.131,1.603,0.323,357.4,356.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,12.1,NaN,13.895,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+8.21,Tarun,Static,BAC,1.129,1.603,0.322,357.4,356.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.9,NaN,13.896,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+8.31,Tarun,Static,BAC,1.127,1.603,0.322,357.2,357.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,11.7,NaN,13.896,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+8.41,Tarun,Static,BAC,1.125,1.602,0.321,357.0,357.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,11.3,NaN,13.896,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+8.50,Tarun,Static,BAC,1.123,1.602,0.320,356.6,358.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,10.9,NaN,13.896,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+8.60,Tarun,Static,BAC,1.122,1.601,0.320,356.3,358.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.4,NaN,13.896,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+8.71,Tarun,Static,BAC,1.121,1.601,0.320,356.2,358.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.3,NaN,13.896,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+8.81,Tarun,Static,BAC,1.121,1.600,0.320,356.4,359.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.4,NaN,13.896,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+8.91,Tarun,Static,BAC,1.122,1.600,0.320,356.7,359.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.6,NaN,13.896,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+9.00,Tarun,Static,BAC,1.122,1.601,0.319,356.9,358.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.9,NaN,13.897,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+9.10,Tarun,Static,BAC,1.123,1.611,0.314,357.2,353.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,13.3,NaN,13.902,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+9.21,Tarun,Static,BAC,1.123,1.613,0.310,357.2,351.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,14.4,NaN,13.906,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+9.31,Tarun,Static,BAC,1.122,1.606,0.314,357.1,356.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,11.9,NaN,13.902,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+9.41,Tarun,Static,BAC,1.122,1.603,0.318,356.7,357.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,11.0,NaN,13.898,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+9.50,Tarun,Static,BAC,1.122,1.605,0.319,356.7,356.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,11.4,NaN,13.897,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+9.60,Tarun,Static,BAC,1.121,1.605,0.318,356.3,356.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,11.1,NaN,13.898,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+9.71,Tarun,Static,BAC,1.117,1.602,0.324,355.7,357.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,10.0,NaN,13.891,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+9.81,Tarun,Static,BAC,1.114,1.600,0.333,355.8,358.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.8,NaN,13.881,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+9.91,Tarun,Static,BAC,1.108,1.600,0.333,354.9,358.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,8.9,NaN,13.880,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+10.00,Tarun,Static,BAC,1.103,1.604,0.331,354.4,356.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,9.4,NaN,13.881,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+10.10,Tarun,Static,BAC,1.098,1.601,0.335,354.6,358.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,8.7,NaN,13.876,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+10.21,Tarun,Static,BAC,1.089,1.599,0.345,355.3,358.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.3,NaN,13.864,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+10.31,Tarun,Static,BAC,1.079,1.600,0.346,354.7,358.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,8.7,NaN,13.861,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+10.41,Tarun,Static,BAC,1.071,1.600,0.344,355.8,357.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,9.9,NaN,13.861,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+10.51,Tarun,Static,BAC,1.062,1.598,0.347,357.0,358.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.9,NaN,13.856,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+10.60,Tarun,Static,BAC,1.050,1.596,0.357,357.9,359.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.6,NaN,13.844,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+10.71,Tarun,Static,BAC,1.037,1.595,0.359,357.6,358.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.3,NaN,13.838,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+10.81,Tarun,Static,BAC,1.026,1.596,0.354,358.2,359.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.8,NaN,13.841,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+10.91,Tarun,Static,BAC,1.016,1.596,0.353,358.9,358.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,12.6,NaN,13.840,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+11.00,Tarun,Static,BAC,1.009,1.592,0.355,359.8,359.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,13.3,NaN,13.835,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+11.10,Tarun,Static,BAC,1.006,1.592,0.361,1.3,358.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,14.8,NaN,13.828,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+11.21,Tarun,Static,BAC,1.003,1.592,0.359,2.2,359.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,15.7,NaN,13.830,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+11.31,Tarun,Static,BAC,1.004,1.591,0.354,3.3,359.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,16.7,NaN,13.836,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+11.41,Tarun,Static,BAC,1.007,1.592,0.353,4.0,358.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.5,NaN,13.837,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+11.50,Tarun,Static,BAC,1.013,1.590,0.358,4.8,359.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.2,NaN,13.834,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+11.60,Tarun,Static,BAC,1.022,1.588,0.361,5.8,0.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.3,NaN,13.833,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+11.71,Tarun,Static,BAC,1.037,1.590,0.358,6.9,359.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,20.4,NaN,13.839,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+11.81,Tarun,Static,BAC,1.052,1.593,0.358,6.8,359.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,20.5,NaN,13.843,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+11.91,Tarun,Static,BAC,1.069,1.594,0.359,6.5,359.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,20.2,NaN,13.845,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+12.00,Tarun,Static,BAC,1.086,1.594,0.361,6.5,359.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,20.3,NaN,13.848,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+12.10,Tarun,Static,BAC,1.102,1.595,0.361,6.2,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,20.0,NaN,13.852,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+12.21,Tarun,Static,BAC,1.116,1.596,0.358,5.0,0.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.9,NaN,13.858,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+12.31,Tarun,Static,BAC,1.126,1.598,0.354,3.8,359.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.7,NaN,13.864,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+12.41,Tarun,Static,BAC,1.133,1.598,0.350,2.4,359.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,16.3,NaN,13.870,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+12.50,Tarun,Static,BAC,1.138,1.599,0.347,0.8,359.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,14.8,NaN,13.874,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+12.60,Tarun,Static,BAC,1.140,1.599,0.344,359.1,359.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,13.2,NaN,13.877,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+12.71,Tarun,Static,BAC,1.142,1.598,0.340,357.8,359.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.8,NaN,13.881,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+12.81,Tarun,Static,BAC,1.142,1.598,0.337,357.0,359.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.0,NaN,13.884,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+12.91,Tarun,Static,BAC,1.142,1.598,0.335,356.6,359.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.6,NaN,13.887,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+13.01,Tarun,Static,BAC,1.140,1.599,0.333,356.2,359.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.2,NaN,13.888,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+13.10,Tarun,Static,BAC,1.138,1.600,0.331,355.9,359.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.9,NaN,13.889,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+13.21,Tarun,Static,BAC,1.135,1.601,0.329,355.7,359.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.7,NaN,13.890,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+13.31,Tarun,Static,BAC,1.132,1.602,0.327,355.4,359.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.4,NaN,13.891,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+13.41,Tarun,Static,BAC,1.129,1.603,0.326,355.4,358.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.5,NaN,13.892,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+13.50,Tarun,Static,BAC,1.127,1.603,0.325,355.2,358.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.3,NaN,13.893,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+13.60,Tarun,Static,BAC,1.124,1.603,0.323,355.0,358.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.1,NaN,13.893,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+13.71,Tarun,Static,BAC,1.120,1.604,0.322,354.7,358.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,8.9,NaN,13.894,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+13.81,Tarun,Static,BAC,1.117,1.604,0.321,354.3,358.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,8.5,NaN,13.894,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+13.91,Tarun,Static,BAC,1.115,1.603,0.323,354.0,358.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,8.1,NaN,13.892,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+14.00,Tarun,Static,BAC,1.113,1.603,0.326,353.9,359.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,7.9,NaN,13.888,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+14.10,Tarun,Static,BAC,1.114,1.602,0.330,354.9,359.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,8.9,NaN,13.884,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+14.21,Tarun,Static,BAC,1.115,1.602,0.335,356.5,359.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.3,NaN,13.880,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+14.31,Tarun,Static,BAC,1.115,1.601,0.338,356.8,0.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.6,NaN,13.877,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+14.41,Tarun,Static,BAC,1.117,1.601,0.340,356.1,0.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.0,NaN,13.876,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+14.50,Tarun,Static,BAC,1.119,1.599,0.341,356.0,1.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.8,NaN,13.876,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+14.60,Tarun,Static,BAC,1.120,1.598,0.339,355.7,1.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.6,NaN,13.877,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+14.71,Tarun,Static,BAC,1.121,1.599,0.339,356.4,1.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.3,NaN,13.877,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+14.81,Tarun,Static,BAC,1.120,1.598,0.341,356.7,1.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.6,NaN,13.875,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+14.91,Tarun,Static,BAC,1.119,1.597,0.342,356.0,1.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.8,NaN,13.874,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+15.00,Tarun,Static,BAC,1.119,1.598,0.344,355.4,1.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.2,NaN,13.872,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+15.10,Tarun,Static,BAC,1.121,1.597,0.346,355.9,1.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.7,NaN,13.871,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+15.21,Tarun,Static,BAC,1.123,1.597,0.348,356.7,1.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.6,NaN,13.869,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+15.31,Tarun,Static,BAC,1.123,1.597,0.349,356.7,1.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.5,NaN,13.868,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+15.41,Tarun,Static,BAC,1.122,1.597,0.349,356.1,1.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.0,NaN,13.868,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+15.50,Tarun,Static,BAC,1.121,1.597,0.348,356.0,1.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.9,NaN,13.869,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+15.60,Tarun,Static,BAC,1.121,1.597,0.347,356.0,1.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.8,NaN,13.870,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+15.71,Tarun,Static,BAC,1.121,1.598,0.345,356.0,0.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.8,NaN,13.872,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+15.81,Tarun,Static,BAC,1.120,1.598,0.343,355.7,1.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,9.5,NaN,13.873,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+15.91,Tarun,Static,BAC,1.117,1.597,0.341,354.4,1.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,8.3,NaN,13.874,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+16.00,Tarun,Static,BAC,1.111,1.596,0.339,352.1,2.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,6.0,NaN,13.875,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+16.10,Tarun,Static,BAC,1.102,1.594,0.335,348.3,2.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,2.9,NaN,13.877,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+16.21,Tarun,Static,BAC,1.091,1.591,0.329,343.5,4.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,4.3,NaN,13.879,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+16.31,Tarun,Static,BAC,1.081,1.589,0.324,339.5,5.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,8.1,NaN,13.882,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+16.41,Tarun,Static,BAC,1.072,1.588,0.319,335.9,5.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,11.6,NaN,13.885,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+16.50,Tarun,Static,BAC,1.065,1.586,0.313,333.1,6.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,14.5,NaN,13.889,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+16.60,Tarun,Static,BAC,1.058,1.585,0.309,331.1,7.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,16.7,NaN,13.891,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+16.71,Tarun,Static,BAC,1.045,1.581,0.309,328.5,8.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,19.4,NaN,13.888,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+16.81,Tarun,Static,BAC,1.026,1.576,0.312,327.0,8.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.1,NaN,13.881,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+16.91,Tarun,Static,BAC,0.998,1.572,0.318,326.6,9.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.7,NaN,13.869,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+17.00,Tarun,Static,BAC,0.964,1.571,0.326,326.4,10.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.3,NaN,13.854,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+17.10,Tarun,Static,BAC,0.932,1.572,0.337,326.3,9.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.5,NaN,13.835,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+17.21,Tarun,Static,BAC,0.900,1.572,0.355,326.2,10.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,22.8,NaN,13.810,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+17.31,Tarun,Static,BAC,0.877,1.569,0.374,326.4,11.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.2,NaN,13.786,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+17.41,Tarun,Static,BAC,0.858,1.567,0.397,326.1,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.8,NaN,13.760,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+17.50,Tarun,Static,BAC,0.845,1.565,0.422,325.4,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.4,NaN,13.732,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+17.60,Tarun,Static,BAC,0.837,1.565,0.451,324.4,11.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.3,NaN,13.702,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.71,Tarun,Static,BAC,0.831,1.574,0.492,324.1,11.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.2,NaN,13.662,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+17.81,Tarun,Static,BAC,0.826,1.576,0.529,323.9,10.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.0,NaN,13.624,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+17.91,Tarun,Static,BAC,0.820,1.570,0.565,323.9,11.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.3,NaN,13.588,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.00,Tarun,Static,BAC,0.811,1.570,0.592,324.9,12.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.1,NaN,13.560,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.13,Tarun,Static,BAC,0.801,1.570,0.610,324.8,12.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.9,NaN,13.540,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+18.21,Tarun,Static,BAC,0.783,1.566,0.628,325.4,13.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.9,NaN,13.518,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+18.31,Tarun,Static,BAC,0.760,1.563,0.640,326.1,13.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.7,NaN,13.501,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+18.41,Tarun,Static,BAC,0.733,1.559,0.648,326.0,14.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.3,NaN,13.488,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.50,Tarun,Static,BAC,0.702,1.558,0.653,326.3,13.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.7,NaN,13.476,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+18.60,Tarun,Static,BAC,0.666,1.562,0.658,326.6,13.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.4,NaN,13.463,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+18.71,Tarun,Static,BAC,0.626,1.565,0.664,325.7,13.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.2,NaN,13.449,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.81,Tarun,Static,BAC,0.594,1.567,0.670,325.1,13.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.9,NaN,13.437,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+18.91,Tarun,Static,BAC,0.568,1.567,0.674,325.7,13.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.7,NaN,13.428,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+19.00,Tarun,Static,BAC,0.545,1.568,0.675,327.4,14.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.6,NaN,13.421,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+19.10,Tarun,Static,BAC,0.525,1.568,0.676,328.8,14.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.6,NaN,13.416,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+19.21,Tarun,Static,BAC,0.506,1.567,0.682,329.9,15.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.2,NaN,13.407,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+19.31,Tarun,Static,BAC,0.493,1.565,0.693,330.3,15.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.0,NaN,13.393,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+19.41,Tarun,Static,BAC,0.485,1.563,0.711,330.4,15.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.2,NaN,13.374,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+19.50,Tarun,Static,BAC,0.482,1.560,0.734,330.1,16.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.6,NaN,13.351,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+19.60,Tarun,Static,BAC,0.483,1.558,0.759,330.0,16.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.7,NaN,13.327,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+19.71,Tarun,Static,BAC,0.486,1.557,0.777,329.5,16.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.1,NaN,13.310,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+19.81,Tarun,Static,BAC,0.485,1.560,0.817,329.0,14.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.7,NaN,13.271,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+19.91,Tarun,Static,BAC,0.480,1.558,0.847,329.2,16.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.3,NaN,13.240,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+20.00,Tarun,Static,BAC,0.475,1.558,0.873,329.2,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.8,NaN,13.213,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+20.10,Tarun,Static,BAC,0.471,1.559,0.890,329.0,17.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.3,NaN,13.196,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.21,Tarun,Static,BAC,0.472,1.561,0.896,328.5,17.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.7,NaN,13.191,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.31,Tarun,Static,BAC,0.476,1.560,0.893,329.2,17.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.1,NaN,13.194,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+20.41,Tarun,Static,BAC,0.476,1.560,0.888,330.3,17.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.1,NaN,13.199,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+20.50,Tarun,Static,BAC,0.471,1.559,0.880,330.7,17.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.0,NaN,13.206,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+20.60,Tarun,Static,BAC,0.467,1.558,0.869,331.0,17.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.1,NaN,13.216,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+20.71,Tarun,Static,BAC,0.466,1.556,0.854,331.4,18.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.0,NaN,13.230,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+20.81,Tarun,Static,BAC,0.468,1.556,0.837,332.7,17.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.1,NaN,13.247,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+20.91,Tarun,Static,BAC,0.470,1.556,0.817,333.0,17.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.5,NaN,13.267,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.00,Tarun,Static,BAC,0.474,1.557,0.797,333.3,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.0,NaN,13.288,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.10,Tarun,Static,BAC,0.477,1.557,0.781,334.2,16.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.3,NaN,13.304,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.21,Tarun,Static,BAC,0.478,1.557,0.766,333.7,17.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.0,NaN,13.319,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.31,Tarun,Static,BAC,0.479,1.558,0.755,332.8,16.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.2,NaN,13.330,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.41,Tarun,Static,BAC,0.480,1.559,0.746,332.2,16.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.2,NaN,13.339,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.50,Tarun,Static,BAC,0.480,1.560,0.739,331.8,16.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.4,NaN,13.346,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.60,Tarun,Static,BAC,0.480,1.560,0.735,331.8,16.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.4,NaN,13.350,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.71,Tarun,Static,BAC,0.481,1.559,0.732,332.0,15.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.2,NaN,13.353,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.81,Tarun,Static,BAC,0.481,1.559,0.731,332.2,16.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.0,NaN,13.354,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+21.91,Tarun,Static,BAC,0.482,1.559,0.731,332.4,16.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.0,NaN,13.354,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.00,Tarun,Static,BAC,0.482,1.559,0.731,332.7,16.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.8,NaN,13.354,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.10,Tarun,Static,BAC,0.483,1.559,0.731,332.8,16.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.7,NaN,13.354,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.21,Tarun,Static,BAC,0.483,1.558,0.731,333.2,16.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.5,NaN,13.354,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.31,Tarun,Static,BAC,0.483,1.558,0.731,333.4,16.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.4,NaN,13.354,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.41,Tarun,Static,BAC,0.482,1.558,0.730,333.4,16.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.4,NaN,13.355,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.50,Tarun,Static,BAC,0.481,1.558,0.730,333.4,16.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.3,NaN,13.355,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.60,Tarun,Static,BAC,0.480,1.559,0.729,333.3,16.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.3,NaN,13.355,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.71,Tarun,Static,BAC,0.479,1.559,0.730,333.1,15.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.4,NaN,13.354,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.81,Tarun,Static,BAC,0.478,1.558,0.731,333.0,16.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.6,NaN,13.353,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+22.91,Tarun,Static,BAC,0.477,1.558,0.732,333.0,16.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.7,NaN,13.352,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+23.00,Tarun,Static,BAC,0.477,1.557,0.733,332.9,16.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.9,NaN,13.351,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+23.10,Tarun,Static,BAC,0.476,1.557,0.734,332.9,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.0,NaN,13.350,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+23.21,Tarun,Static,BAC,0.476,1.557,0.735,333.0,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.9,NaN,13.349,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+23.31,Tarun,Static,BAC,0.476,1.557,0.736,333.0,16.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.0,NaN,13.348,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+23.41,Tarun,Static,BAC,0.476,1.557,0.736,333.1,16.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.9,NaN,13.348,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+23.50,Tarun,Static,BAC,0.476,1.557,0.736,333.2,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.8,NaN,13.348,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+23.60,Tarun,Static,BAC,0.475,1.557,0.736,333.3,16.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.8,NaN,13.348,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+23.71,Tarun,Static,BAC,0.475,1.557,0.734,333.3,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.7,NaN,13.349,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+23.81,Tarun,Static,BAC,0.475,1.558,0.733,333.4,16.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.5,NaN,13.350,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+23.91,Tarun,Static,BAC,0.475,1.557,0.732,333.4,16.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.6,NaN,13.351,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+24.00,Tarun,Static,BAC,0.475,1.557,0.732,333.6,16.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.5,NaN,13.352,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+24.10,Tarun,Static,BAC,0.476,1.557,0.731,334.0,16.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.3,NaN,13.352,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+24.21,Tarun,Static,BAC,0.476,1.557,0.731,334.2,16.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.2,NaN,13.353,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+24.31,Tarun,Static,BAC,0.477,1.557,0.730,334.3,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.0,NaN,13.354,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+24.41,Tarun,Static,BAC,0.477,1.557,0.730,334.3,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.0,NaN,13.354,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+24.50,Tarun,Static,BAC,0.478,1.557,0.730,334.1,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.1,NaN,13.354,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+24.60,Tarun,Static,BAC,0.477,1.557,0.731,333.9,16.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.5,NaN,13.353,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+24.71,Tarun,Static,BAC,0.477,1.556,0.731,333.6,16.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.7,NaN,13.353,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+24.81,Tarun,Static,BAC,0.477,1.557,0.731,333.5,16.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.8,NaN,13.353,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+24.91,Tarun,Static,BAC,0.478,1.557,0.731,333.6,16.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.7,NaN,13.353,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.00,Tarun,Static,BAC,0.478,1.557,0.731,333.8,16.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.5,NaN,13.353,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.10,Tarun,Static,BAC,0.479,1.558,0.731,333.8,16.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.2,NaN,13.354,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.21,Tarun,Static,BAC,0.478,1.558,0.729,333.7,16.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.1,NaN,13.355,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.31,Tarun,Static,BAC,0.477,1.558,0.728,333.4,16.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.4,NaN,13.356,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.41,Tarun,Static,BAC,0.477,1.559,0.728,333.0,16.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.6,NaN,13.356,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.50,Tarun,Static,BAC,0.476,1.558,0.728,332.8,16.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.9,NaN,13.355,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.60,Tarun,Static,BAC,0.476,1.558,0.730,333.0,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.9,NaN,13.354,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.71,Tarun,Static,BAC,0.478,1.558,0.731,333.4,16.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.6,NaN,13.353,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.81,Tarun,Static,BAC,0.479,1.558,0.732,333.8,16.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.2,NaN,13.353,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+25.91,Tarun,Static,BAC,0.480,1.560,0.733,334.0,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.5,NaN,13.352,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+26.00,Tarun,Static,BAC,0.481,1.560,0.733,334.2,15.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.2,NaN,13.352,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+26.10,Tarun,Static,BAC,0.482,1.560,0.733,334.3,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.3,NaN,13.353,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+26.21,Tarun,Static,BAC,0.484,1.559,0.732,334.4,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.1,NaN,13.353,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+26.31,Tarun,Static,BAC,0.486,1.559,0.732,334.7,15.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,19.8,NaN,13.354,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+26.41,Tarun,Static,BAC,0.488,1.559,0.731,334.9,15.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,19.6,NaN,13.356,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+26.50,Tarun,Static,BAC,0.490,1.560,0.729,334.9,14.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,19.4,NaN,13.357,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+26.60,Tarun,Static,BAC,0.491,1.560,0.729,334.9,14.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,19.3,NaN,13.357,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+26.71,Tarun,Static,BAC,0.492,1.562,0.730,334.8,14.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,19.1,NaN,13.356,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+26.81,Tarun,Static,BAC,0.487,1.563,0.736,334.1,13.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,19.2,NaN,13.351,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+26.91,Tarun,Static,BAC,0.479,1.564,0.745,332.3,13.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.6,NaN,13.340,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+27.00,Tarun,Static,BAC,0.471,1.565,0.758,329.5,13.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.9,NaN,13.325,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+27.10,Tarun,Static,BAC,0.463,1.566,0.773,326.6,14.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.4,NaN,13.309,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.21,Tarun,Static,BAC,0.457,1.567,0.793,325.1,14.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.8,NaN,13.288,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.31,Tarun,Static,BAC,0.453,1.567,0.812,324.8,14.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.2,NaN,13.269,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.41,Tarun,Static,BAC,0.450,1.567,0.830,324.5,14.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.5,NaN,13.250,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.50,Tarun,Static,BAC,0.448,1.567,0.849,323.6,15.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,28.4,NaN,13.232,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.60,Tarun,Static,BAC,0.448,1.566,0.868,322.4,15.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.6,NaN,13.213,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.71,Tarun,Static,BAC,0.449,1.563,0.890,321.3,16.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.0,NaN,13.192,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.81,Tarun,Static,BAC,0.452,1.562,0.903,320.7,17.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.8,NaN,13.179,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+27.91,Tarun,Static,BAC,0.455,1.562,0.912,320.0,17.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,32.5,NaN,13.171,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.00,Tarun,Static,BAC,0.458,1.564,0.918,319.4,16.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,32.7,NaN,13.166,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.10,Tarun,Static,BAC,0.459,1.565,0.925,319.1,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,32.9,NaN,13.160,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.21,Tarun,Static,BAC,0.457,1.565,0.931,318.9,16.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,32.9,NaN,13.153,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.31,Tarun,Static,BAC,0.454,1.564,0.935,318.7,16.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,33.2,NaN,13.148,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.41,Tarun,Static,BAC,0.452,1.563,0.937,318.4,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,33.7,NaN,13.146,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.50,Tarun,Static,BAC,0.450,1.563,0.937,318.2,16.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,33.8,NaN,13.146,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.60,Tarun,Static,BAC,0.447,1.564,0.938,318.0,16.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,33.9,NaN,13.145,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.71,Tarun,Static,BAC,0.445,1.564,0.937,317.7,16.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,34.2,NaN,13.144,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.81,Tarun,Static,BAC,0.442,1.564,0.938,317.8,16.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,34.1,NaN,13.144,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+28.91,Tarun,Static,BAC,0.440,1.564,0.938,317.7,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,34.1,NaN,13.143,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.00,Tarun,Static,BAC,0.437,1.565,0.939,317.6,16.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,34.1,NaN,13.142,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.10,Tarun,Static,BAC,0.435,1.565,0.940,317.5,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,34.3,NaN,13.140,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.21,Tarun,Static,BAC,0.434,1.564,0.942,317.5,16.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,34.4,NaN,13.138,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.31,Tarun,Static,BAC,0.434,1.564,0.943,317.5,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,34.5,NaN,13.136,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.41,Tarun,Static,BAC,0.435,1.564,0.945,317.7,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,34.3,NaN,13.135,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.50,Tarun,Static,BAC,0.435,1.564,0.946,317.6,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,34.4,NaN,13.134,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.60,Tarun,Static,BAC,0.435,1.563,0.948,317.8,17.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,34.3,NaN,13.132,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.71,Tarun,Static,BAC,0.435,1.563,0.950,318.3,17.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,33.9,NaN,13.130,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.81,Tarun,Static,BAC,0.436,1.562,0.950,318.7,17.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,33.7,NaN,13.131,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+29.91,Tarun,Static,BAC,0.438,1.563,0.948,319.5,17.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,33.1,NaN,13.133,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.00,Tarun,Static,BAC,0.440,1.563,0.945,319.9,17.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,32.7,NaN,13.137,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.11,Tarun,Static,BAC,0.444,1.563,0.939,321.0,17.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.7,NaN,13.143,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.21,Tarun,Static,BAC,0.448,1.563,0.932,321.9,17.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.0,NaN,13.150,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.31,Tarun,Static,BAC,0.450,1.563,0.924,322.6,17.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,30.4,NaN,13.159,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.40,Tarun,Static,BAC,0.450,1.564,0.915,322.8,17.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,30.1,NaN,13.167,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.50,Tarun,Static,BAC,0.450,1.564,0.907,322.8,17.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,30.0,NaN,13.175,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.61,Tarun,Static,BAC,0.448,1.564,0.899,322.4,17.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,30.5,NaN,13.183,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.71,Tarun,Static,BAC,0.445,1.563,0.892,321.7,17.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.1,NaN,13.189,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.81,Tarun,Static,BAC,0.444,1.563,0.887,321.1,17.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.6,NaN,13.193,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+30.90,Tarun,Static,BAC,0.444,1.564,0.884,321.1,16.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.3,NaN,13.196,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.00,Tarun,Static,BAC,0.442,1.564,0.883,320.9,16.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.4,NaN,13.198,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.11,Tarun,Static,BAC,0.440,1.564,0.884,320.7,16.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.7,NaN,13.196,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.21,Tarun,Static,BAC,0.441,1.563,0.887,320.2,17.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,32.3,NaN,13.193,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.31,Tarun,Static,BAC,0.442,1.563,0.891,320.1,17.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,32.4,NaN,13.189,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.40,Tarun,Static,BAC,0.444,1.564,0.897,319.8,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,32.5,NaN,13.184,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.50,Tarun,Static,BAC,0.445,1.564,0.902,319.4,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,32.8,NaN,13.179,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.61,Tarun,Static,BAC,0.445,1.564,0.907,319.0,16.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,33.1,NaN,13.174,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.71,Tarun,Static,BAC,0.446,1.563,0.908,319.6,16.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,32.6,NaN,13.173,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.81,Tarun,Static,BAC,0.450,1.563,0.902,321.8,16.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,30.7,NaN,13.180,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+31.90,Tarun,Static,BAC,0.457,1.563,0.889,326.5,16.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.5,NaN,13.195,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+32.00,Tarun,Static,BAC,0.464,1.566,0.868,332.2,15.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,21.7,NaN,13.216,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.11,Tarun,Static,BAC,0.472,1.565,0.841,339.8,14.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,16.5,NaN,13.245,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.21,Tarun,Static,BAC,0.479,1.561,0.813,347.5,15.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,14.6,NaN,13.273,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.31,Tarun,Static,BAC,0.484,1.558,0.785,354.6,15.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,15.7,NaN,13.302,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.40,Tarun,Static,BAC,0.488,1.557,0.758,0.7,15.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,18.9,NaN,13.329,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.50,Tarun,Static,BAC,0.493,1.559,0.736,5.7,14.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,22.1,NaN,13.351,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+32.61,Tarun,Static,BAC,0.500,1.563,0.717,10.7,14.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.7,NaN,13.372,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+32.71,Tarun,Static,BAC,0.506,1.565,0.705,14.3,14.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.0,NaN,13.384,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+32.81,Tarun,Static,BAC,0.512,1.566,0.699,16.9,13.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.1,NaN,13.391,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+32.90,Tarun,Static,BAC,0.518,1.567,0.698,18.1,13.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,32.1,NaN,13.393,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.00,Tarun,Static,BAC,0.526,1.567,0.701,17.8,13.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.9,NaN,13.393,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.13,Tarun,Static,BAC,0.535,1.569,0.705,17.1,13.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.3,NaN,13.390,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.21,Tarun,Static,BAC,0.554,1.571,0.720,15.9,13.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,30.2,NaN,13.379,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.31,Tarun,Static,BAC,0.573,1.570,0.743,14.8,13.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.6,NaN,13.361,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.40,Tarun,Static,BAC,0.597,1.568,0.771,13.1,14.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,28.5,NaN,13.338,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.50,Tarun,Static,BAC,0.624,1.568,0.798,11.3,15.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.5,NaN,13.318,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.61,Tarun,Static,BAC,0.655,1.568,0.823,10.4,15.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.9,NaN,13.300,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.73,Tarun,Static,BAC,0.671,1.568,0.836,10.1,16.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.9,NaN,13.290,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.81,Tarun,Static,BAC,0.693,1.567,0.854,9.8,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.1,NaN,13.278,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+33.90,Tarun,Static,BAC,0.705,1.565,0.861,9.6,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.2,NaN,13.273,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.00,Tarun,Static,BAC,0.712,1.565,0.865,9.4,16.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.1,NaN,13.271,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.11,Tarun,Static,BAC,0.716,1.564,0.865,9.2,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.0,NaN,13.272,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.21,Tarun,Static,BAC,0.717,1.564,0.864,9.3,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.1,NaN,13.273,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.31,Tarun,Static,BAC,0.716,1.565,0.862,9.8,16.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.3,NaN,13.276,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.41,Tarun,Static,BAC,0.714,1.566,0.861,9.4,16.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.7,NaN,13.275,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.50,Tarun,Static,BAC,0.715,1.566,0.863,9.0,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.5,NaN,13.274,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.61,Tarun,Static,BAC,0.717,1.566,0.865,10.0,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.4,NaN,13.273,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.71,Tarun,Static,BAC,0.718,1.567,0.866,10.5,15.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.3,NaN,13.271,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.81,Tarun,Static,BAC,0.718,1.566,0.869,10.8,15.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.5,NaN,13.269,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+34.91,Tarun,Static,BAC,0.717,1.565,0.872,11.0,16.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,28.0,NaN,13.266,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.00,Tarun,Static,BAC,0.717,1.565,0.873,11.7,16.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,28.8,NaN,13.264,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.11,Tarun,Static,BAC,0.712,1.565,0.872,11.9,16.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,28.8,NaN,13.264,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.21,Tarun,Static,BAC,0.707,1.566,0.872,11.1,16.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.9,NaN,13.264,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.31,Tarun,Static,BAC,0.699,1.566,0.869,10.0,16.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.0,NaN,13.264,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.41,Tarun,Static,BAC,0.691,1.567,0.868,8.7,15.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.9,NaN,13.264,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.50,Tarun,Static,BAC,0.686,1.567,0.869,8.0,16.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,25.3,NaN,13.261,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.60,Tarun,Static,BAC,0.687,1.566,0.875,8.7,16.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,26.3,NaN,13.257,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.71,Tarun,Static,BAC,0.698,1.564,0.883,9.7,17.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.6,NaN,13.251,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.81,Tarun,Static,BAC,0.713,1.564,0.891,10.8,17.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,28.4,NaN,13.246,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+35.91,Tarun,Static,BAC,0.732,1.562,0.901,11.4,17.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.1,NaN,13.241,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.00,Tarun,Static,BAC,0.750,1.562,0.912,11.8,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.2,NaN,13.234,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.10,Tarun,Static,BAC,0.762,1.561,0.926,11.3,18.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.5,NaN,13.222,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.21,Tarun,Static,BAC,0.772,1.561,0.940,11.9,18.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,30.3,NaN,13.211,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.31,Tarun,Static,BAC,0.775,1.562,0.944,13.6,19.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.9,NaN,13.208,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.41,Tarun,Static,BAC,0.773,1.564,0.945,15.4,18.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,33.1,NaN,13.207,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.50,Tarun,Static,BAC,0.769,1.564,0.942,17.9,18.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,35.0,NaN,13.209,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.60,Tarun,Static,BAC,0.762,1.563,0.937,20.4,18.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,37.1,NaN,13.212,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.71,Tarun,Static,BAC,0.745,1.563,0.927,22.0,18.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,38.5,NaN,13.218,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.81,Tarun,Static,BAC,0.726,1.565,0.917,22.6,17.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,38.4,NaN,13.224,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+36.91,Tarun,Static,BAC,0.706,1.566,0.908,23.0,16.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,38.7,NaN,13.228,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.00,Tarun,Static,BAC,0.689,1.568,0.898,24.0,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,39.3,NaN,13.234,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.10,Tarun,Static,BAC,0.675,1.569,0.890,25.4,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,40.2,NaN,13.239,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.21,Tarun,Static,BAC,0.661,1.569,0.882,25.9,15.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,40.5,NaN,13.243,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.31,Tarun,Static,BAC,0.653,1.570,0.878,26.4,15.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,40.8,NaN,13.246,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.41,Tarun,Static,BAC,0.647,1.569,0.875,27.2,15.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,41.6,NaN,13.248,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.50,Tarun,Static,BAC,0.646,1.568,0.873,27.4,15.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,41.8,NaN,13.249,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.60,Tarun,Static,BAC,0.649,1.569,0.870,27.0,14.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,41.3,NaN,13.253,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.71,Tarun,Static,BAC,0.660,1.571,0.871,26.3,13.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,40.4,NaN,13.254,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.81,Tarun,Static,BAC,0.676,1.573,0.880,24.9,13.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,39.1,NaN,13.249,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+37.91,Tarun,Static,BAC,0.696,1.573,0.894,22.9,14.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.6,NaN,13.240,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.00,Tarun,Static,BAC,0.718,1.573,0.911,19.9,14.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.0,NaN,13.228,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.10,Tarun,Static,BAC,0.741,1.572,0.929,16.8,15.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.5,NaN,13.215,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.21,Tarun,Static,BAC,0.766,1.570,0.946,14.0,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.5,NaN,13.204,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.31,Tarun,Static,BAC,0.783,1.569,0.957,12.6,16.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.6,NaN,13.197,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.41,Tarun,Static,BAC,0.796,1.566,0.964,11.8,16.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.3,NaN,13.193,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.50,Tarun,Static,BAC,0.803,1.565,0.967,11.6,17.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.3,NaN,13.192,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.60,Tarun,Static,BAC,0.807,1.565,0.967,11.7,17.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.4,NaN,13.193,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.71,Tarun,Static,BAC,0.808,1.564,0.964,11.6,17.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.3,NaN,13.196,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.81,Tarun,Static,BAC,0.807,1.565,0.960,12.1,17.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.7,NaN,13.200,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+38.91,Tarun,Static,BAC,0.805,1.565,0.956,12.4,16.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.8,NaN,13.204,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.00,Tarun,Static,BAC,0.803,1.565,0.952,12.6,16.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.9,NaN,13.207,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.10,Tarun,Static,BAC,0.802,1.565,0.949,12.7,16.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,30.0,NaN,13.209,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.21,Tarun,Static,BAC,0.800,1.566,0.946,12.7,16.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.9,NaN,13.212,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.31,Tarun,Static,BAC,0.798,1.566,0.943,12.4,16.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.6,NaN,13.214,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.41,Tarun,Static,BAC,0.794,1.567,0.939,11.5,16.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.7,NaN,13.217,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.50,Tarun,Static,BAC,0.789,1.568,0.934,10.0,15.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,27.2,NaN,13.221,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.60,Tarun,Static,BAC,0.782,1.571,0.927,8.0,15.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.2,NaN,13.226,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+39.71,Tarun,Static,BAC,0.772,1.574,0.917,6.0,13.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,22.8,NaN,13.234,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+39.81,Tarun,Static,BAC,0.763,1.577,0.909,4.9,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,21.0,NaN,13.240,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+39.91,Tarun,Static,BAC,0.754,1.579,0.900,5.0,11.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,20.5,NaN,13.247,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+40.00,Tarun,Static,BAC,0.748,1.581,0.889,8.0,10.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,22.8,NaN,13.256,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+40.10,Tarun,Static,BAC,0.740,1.585,0.877,12.3,8.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.2,NaN,13.266,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.21,Tarun,Static,BAC,0.726,1.588,0.864,16.9,7.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.2,NaN,13.276,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.31,Tarun,Static,BAC,0.711,1.589,0.854,20.0,7.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,33.1,NaN,13.282,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.41,Tarun,Static,BAC,0.694,1.588,0.844,22.6,6.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.6,NaN,13.288,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.50,Tarun,Static,BAC,0.677,1.588,0.836,24.3,6.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.2,NaN,13.292,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.60,Tarun,Static,BAC,0.663,1.588,0.828,24.8,6.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.6,NaN,13.297,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.71,Tarun,Static,BAC,0.654,1.588,0.819,23.4,6.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.2,NaN,13.304,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.81,Tarun,Static,BAC,0.653,1.589,0.811,21.1,6.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,33.9,NaN,13.312,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+40.91,Tarun,Static,BAC,0.660,1.588,0.804,18.9,6.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.7,NaN,13.320,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+41.00,Tarun,Static,BAC,0.674,1.589,0.798,16.8,7.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.8,NaN,13.329,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+41.10,Tarun,Static,BAC,0.695,1.588,0.793,15.0,7.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.2,NaN,13.338,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+41.21,Tarun,Static,BAC,0.724,1.587,0.785,13.8,8.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,27.3,NaN,13.353,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+41.31,Tarun,Static,BAC,0.749,1.586,0.778,12.4,8.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.1,NaN,13.365,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+41.41,Tarun,Static,BAC,0.769,1.584,0.771,9.8,8.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.9,NaN,13.375,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+41.50,Tarun,Static,BAC,0.784,1.583,0.766,6.9,9.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,21.5,NaN,13.384,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+41.60,Tarun,Static,BAC,0.792,1.583,0.759,4.9,9.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.7,NaN,13.393,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+41.71,Tarun,Static,BAC,0.797,1.585,0.749,4.6,8.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.2,NaN,13.404,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+41.81,Tarun,Static,BAC,0.797,1.587,0.740,7.2,8.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,21.3,NaN,13.412,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+41.91,Tarun,Static,BAC,0.791,1.589,0.732,10.5,7.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.3,NaN,13.419,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.00,Tarun,Static,BAC,0.776,1.594,0.722,11.3,5.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.5,NaN,13.425,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.10,Tarun,Static,BAC,0.754,1.602,0.711,8.4,2.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,21.1,NaN,13.432,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.20,Tarun,Static,BAC,0.728,1.610,0.700,2.9,357.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,15.8,NaN,13.437,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.30,Tarun,Static,BAC,0.699,1.615,0.690,355.8,354.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,10.7,NaN,13.440,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.40,Tarun,Static,BAC,0.680,1.615,0.684,351.2,353.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,8.0,NaN,13.442,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.50,Tarun,Static,BAC,0.667,1.615,0.680,348.7,354.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,7.0,NaN,13.443,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.61,Tarun,Static,BAC,0.656,1.615,0.677,346.7,353.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,7.4,NaN,13.444,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.71,Tarun,Static,BAC,0.648,1.615,0.674,344.8,353.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,8.3,NaN,13.445,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.81,Tarun,Static,BAC,0.642,1.615,0.672,343.1,353.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,9.3,NaN,13.446,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+42.91,Tarun,Static,BAC,0.635,1.614,0.669,341.7,352.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,10.4,NaN,13.447,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.03,Tarun,Static,BAC,0.631,1.614,0.668,341.0,352.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,10.9,NaN,13.447,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.10,Tarun,Static,BAC,0.627,1.614,0.667,340.6,352.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,11.2,NaN,13.447,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.21,Tarun,Static,BAC,0.626,1.615,0.666,340.5,352.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,11.3,NaN,13.448,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.31,Tarun,Static,BAC,0.627,1.616,0.665,340.5,352.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,11.5,NaN,13.449,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.41,Tarun,Static,BAC,0.627,1.618,0.665,340.6,351.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,11.9,NaN,13.449,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.50,Tarun,Static,BAC,0.624,1.619,0.665,339.6,351.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,12.9,NaN,13.448,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.60,Tarun,Static,BAC,0.622,1.619,0.667,338.4,350.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,13.8,NaN,13.446,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.71,Tarun,Static,BAC,0.621,1.619,0.672,337.4,350.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,14.5,NaN,13.441,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.81,Tarun,Static,BAC,0.621,1.619,0.677,337.6,351.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,14.2,NaN,13.436,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+43.91,Tarun,Static,BAC,0.619,1.619,0.684,338.3,350.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,14.1,NaN,13.429,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.00,Tarun,Static,BAC,0.617,1.617,0.691,339.0,351.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,13.1,NaN,13.421,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.10,Tarun,Static,BAC,0.618,1.616,0.697,339.3,352.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,12.2,NaN,13.416,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.21,Tarun,Static,BAC,0.625,1.615,0.704,341.5,353.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,10.0,NaN,13.411,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.31,Tarun,Static,BAC,0.630,1.616,0.704,342.4,353.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,9.3,NaN,13.412,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.41,Tarun,Static,BAC,0.632,1.615,0.702,342.0,353.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,9.4,NaN,13.414,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.50,Tarun,Static,BAC,0.634,1.615,0.701,341.6,353.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,9.7,NaN,13.416,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.60,Tarun,Static,BAC,0.635,1.615,0.699,341.3,353.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,9.8,NaN,13.417,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.71,Tarun,Static,BAC,0.630,1.618,0.700,340.0,352.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,11.6,NaN,13.415,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.81,Tarun,Static,BAC,0.617,1.620,0.706,338.2,349.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,14.9,NaN,13.408,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+44.91,Tarun,Static,BAC,0.596,1.620,0.715,337.9,349.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,15.4,NaN,13.394,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.00,Tarun,Static,BAC,0.572,1.620,0.729,338.1,350.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,14.7,NaN,13.376,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.10,Tarun,Static,BAC,0.553,1.625,0.747,338.8,350.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,13.8,NaN,13.354,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.21,Tarun,Static,BAC,0.539,1.632,0.770,339.2,350.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,13.8,NaN,13.328,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.31,Tarun,Static,BAC,0.535,1.634,0.793,338.7,350.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,14.4,NaN,13.305,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.41,Tarun,Static,BAC,0.537,1.634,0.819,336.9,349.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,16.0,NaN,13.280,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.50,Tarun,Static,BAC,0.539,1.638,0.844,335.5,349.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,17.2,NaN,13.256,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.60,Tarun,Static,BAC,0.541,1.638,0.863,335.6,349.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,16.9,NaN,13.238,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.71,Tarun,Static,BAC,0.539,1.639,0.874,336.7,349.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,16.2,NaN,13.227,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.81,Tarun,Static,BAC,0.536,1.637,0.875,338.6,350.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,14.5,NaN,13.226,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+45.91,Tarun,Static,BAC,0.541,1.631,0.868,342.7,351.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,10.6,NaN,13.233,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.00,Tarun,Static,BAC,0.551,1.627,0.855,349.9,353.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,8.3,NaN,13.248,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.10,Tarun,Static,BAC,0.558,1.627,0.835,354.7,351.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,11.6,NaN,13.268,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.21,Tarun,Static,BAC,0.556,1.628,0.812,355.9,350.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,13.2,NaN,13.291,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.31,Tarun,Static,BAC,0.558,1.632,0.791,355.3,347.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,15.2,NaN,13.312,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.41,Tarun,Static,BAC,0.589,1.634,0.774,6.1,344.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,24.4,NaN,13.335,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.50,Tarun,Static,BAC,0.623,1.626,0.760,20.5,347.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,35.0,NaN,13.356,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+46.60,Tarun,Static,BAC,0.627,1.625,0.756,19.5,348.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,34.1,NaN,13.361,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+46.71,Tarun,Static,BAC,0.603,1.629,0.761,8.3,346.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,24.7,NaN,13.351,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.81,Tarun,Static,BAC,0.571,1.631,0.765,354.8,346.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,16.4,NaN,13.340,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+46.91,Tarun,Static,BAC,0.544,1.630,0.769,344.0,347.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,14.2,NaN,13.330,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.00,Tarun,Static,BAC,0.528,1.628,0.776,338.6,348.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,15.7,NaN,13.321,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.10,Tarun,Static,BAC,0.521,1.627,0.786,337.0,349.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,15.9,NaN,13.309,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.21,Tarun,Static,BAC,0.515,1.625,0.801,335.1,350.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06Door,16.6,NaN,13.293,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.31,Tarun,Static,BAC,0.499,1.625,0.807,327.8,351.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06Door,22.7,NaN,13.284,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.41,Tarun,Static,BAC,0.485,1.622,0.814,321.3,352.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06Door,28.5,NaN,13.275,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+47.50,Tarun,Static,BAC,0.482,1.622,0.825,320.0,352.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD07,29.5,NaN,13.263,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+47.60,Tarun,Static,BAC,0.488,1.620,0.837,323.0,353.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06Door,26.4,NaN,13.253,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+47.71,Tarun,Static,BAC,0.504,1.619,0.843,330.8,354.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06Door,18.7,NaN,13.250,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.81,Tarun,Static,BAC,0.520,1.618,0.837,339.3,354.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,11.3,NaN,13.259,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+47.91,Tarun,Static,BAC,0.533,1.615,0.821,347.4,354.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,6.3,NaN,13.277,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+48.00,Tarun,Static,BAC,0.544,1.612,0.801,354.6,355.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,8.4,NaN,13.299,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+48.10,Tarun,Static,BAC,0.554,1.607,0.781,1.1,357.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,13.5,NaN,13.321,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+48.21,Tarun,Static,BAC,0.567,1.603,0.761,8.3,359.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,20.3,NaN,13.342,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+48.31,Tarun,Static,BAC,0.580,1.600,0.750,13.1,0.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,25.1,NaN,13.356,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.41,Tarun,Static,BAC,0.593,1.596,0.744,16.2,2.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,28.3,NaN,13.365,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.50,Tarun,Static,BAC,0.607,1.594,0.744,18.8,3.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,30.9,NaN,13.367,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.60,Tarun,Static,BAC,0.619,1.592,0.751,20.9,4.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,33.2,NaN,13.363,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.71,Tarun,Static,BAC,0.628,1.590,0.764,22.2,5.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,34.7,NaN,13.352,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.81,Tarun,Static,BAC,0.632,1.589,0.774,22.7,5.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,35.2,NaN,13.343,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+48.91,Tarun,Static,BAC,0.641,1.587,0.794,23.9,6.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.5,NaN,13.326,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.00,Tarun,Static,BAC,0.650,1.587,0.810,24.2,6.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.9,NaN,13.312,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.10,Tarun,Static,BAC,0.659,1.585,0.826,23.5,6.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.2,NaN,13.298,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.21,Tarun,Static,BAC,0.670,1.582,0.847,21.8,6.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.7,NaN,13.280,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.31,Tarun,Static,BAC,0.677,1.577,0.867,19.1,7.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.1,NaN,13.262,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.41,Tarun,Static,BAC,0.682,1.572,0.885,15.9,7.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.2,NaN,13.246,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.50,Tarun,Static,BAC,0.687,1.569,0.897,13.0,8.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.6,NaN,13.234,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+49.60,Tarun,Static,BAC,0.690,1.565,0.907,10.7,9.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.7,NaN,13.225,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+49.71,Tarun,Static,BAC,0.695,1.562,0.918,9.5,9.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.8,NaN,13.216,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+49.81,Tarun,Static,BAC,0.701,1.561,0.923,8.6,10.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.2,NaN,13.212,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+49.91,Tarun,Static,BAC,0.707,1.562,0.925,8.5,10.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.0,NaN,13.211,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.00,Tarun,Static,BAC,0.711,1.562,0.926,8.8,9.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.3,NaN,13.212,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.10,Tarun,Static,BAC,0.711,1.563,0.924,9.0,9.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.4,NaN,13.214,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.21,Tarun,Static,BAC,0.710,1.564,0.920,9.7,9.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,23.8,NaN,13.217,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.31,Tarun,Static,BAC,0.710,1.567,0.914,10.1,8.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,24.1,NaN,13.223,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.41,Tarun,Static,BAC,0.706,1.575,0.901,8.2,6.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,21.7,NaN,13.235,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.50,Tarun,Static,BAC,0.696,1.586,0.882,4.0,4.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,16.9,NaN,13.252,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.60,Tarun,Static,BAC,0.684,1.594,0.860,0.2,1.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,12.7,NaN,13.270,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.71,Tarun,Static,BAC,0.670,1.599,0.839,357.1,0.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,9.6,NaN,13.288,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.81,Tarun,Static,BAC,0.661,1.601,0.823,356.0,360.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,8.5,NaN,13.302,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+50.91,Tarun,Static,BAC,0.655,1.603,0.809,356.2,359.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,8.7,NaN,13.314,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.00,Tarun,Static,BAC,0.648,1.603,0.798,357.3,358.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,9.9,NaN,13.324,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.10,Tarun,Static,BAC,0.637,1.602,0.787,357.6,358.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,10.1,NaN,13.331,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.21,Tarun,Static,BAC,0.623,1.602,0.777,357.0,358.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,9.6,NaN,13.339,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.31,Tarun,Static,BAC,0.614,1.603,0.770,357.1,357.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,9.8,NaN,13.343,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.41,Tarun,Static,BAC,0.610,1.602,0.768,358.6,357.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,11.2,NaN,13.345,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.50,Tarun,Static,BAC,0.610,1.599,0.771,0.8,359.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,13.1,NaN,13.342,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.60,Tarun,Static,BAC,0.615,1.594,0.776,4.5,1.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,16.7,NaN,13.338,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.71,Tarun,Static,BAC,0.623,1.592,0.780,8.7,2.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,21.0,NaN,13.336,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.81,Tarun,Static,BAC,0.627,1.592,0.782,11.0,2.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,23.3,NaN,13.334,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+51.91,Tarun,Static,BAC,0.628,1.593,0.785,11.6,2.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,23.9,NaN,13.332,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.00,Tarun,Static,BAC,0.627,1.595,0.788,11.7,2.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,24.0,NaN,13.329,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.10,Tarun,Static,BAC,0.627,1.596,0.790,11.7,1.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,24.0,NaN,13.327,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.21,Tarun,Static,BAC,0.627,1.597,0.793,11.7,1.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,23.9,NaN,13.324,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.31,Tarun,Static,BAC,0.627,1.596,0.797,11.6,1.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,23.8,NaN,13.320,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.41,Tarun,Static,BAC,0.630,1.594,0.802,12.2,3.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,24.6,NaN,13.315,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+52.50,Tarun,Static,BAC,0.633,1.592,0.808,13.4,3.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.8,NaN,13.311,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+52.60,Tarun,Static,BAC,0.635,1.591,0.813,14.0,4.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.5,NaN,13.306,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+52.71,Tarun,Static,BAC,0.637,1.590,0.819,14.5,5.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,27.1,NaN,13.300,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+52.81,Tarun,Static,BAC,0.641,1.589,0.824,15.5,5.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.1,NaN,13.296,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+52.91,Tarun,Static,BAC,0.644,1.589,0.828,15.9,5.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.5,NaN,13.293,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.00,Tarun,Static,BAC,0.646,1.590,0.829,15.6,5.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.2,NaN,13.292,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.10,Tarun,Static,BAC,0.647,1.592,0.828,14.2,4.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.7,NaN,13.294,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.21,Tarun,Static,BAC,0.646,1.596,0.822,12.7,2.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.1,NaN,13.299,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.31,Tarun,Static,BAC,0.644,1.601,0.815,11.7,0.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,24.0,NaN,13.306,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+53.41,Tarun,Static,BAC,0.642,1.605,0.809,12.0,359.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,24.4,NaN,13.312,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+53.50,Tarun,Static,BAC,0.643,1.606,0.803,14.2,358.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.7,NaN,13.317,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.60,Tarun,Static,BAC,0.645,1.606,0.799,17.9,358.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.3,NaN,13.322,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.71,Tarun,Static,BAC,0.647,1.602,0.792,23.3,0.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.7,NaN,13.329,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.81,Tarun,Static,BAC,0.650,1.601,0.784,28.6,0.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,41.0,NaN,13.337,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+53.91,Tarun,Static,BAC,0.654,1.601,0.779,33.8,1.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,46.1,NaN,13.343,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.00,Tarun,Static,BAC,0.659,1.601,0.775,37.8,1.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,50.1,NaN,13.349,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.10,Tarun,Static,BAC,0.661,1.601,0.771,37.5,1.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,49.8,NaN,13.353,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.21,Tarun,Static,BAC,0.668,1.603,0.763,34.7,0.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,47.1,NaN,13.362,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.31,Tarun,Static,BAC,0.682,1.605,0.755,31.6,0.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,44.1,NaN,13.373,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.41,Tarun,Static,BAC,0.702,1.606,0.750,28.6,359.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,41.1,NaN,13.382,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.50,Tarun,Static,BAC,0.725,1.608,0.748,25.9,359.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,38.5,NaN,13.389,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.60,Tarun,Static,BAC,0.746,1.607,0.746,23.2,359.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.9,NaN,13.396,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.71,Tarun,Static,BAC,0.768,1.606,0.743,20.6,359.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,33.4,NaN,13.403,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.81,Tarun,Static,BAC,0.782,1.605,0.741,18.3,360.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.2,NaN,13.409,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+54.91,Tarun,Static,BAC,0.791,1.603,0.737,16.8,1.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.7,NaN,13.414,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.00,Tarun,Static,BAC,0.791,1.603,0.732,15.3,0.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.1,NaN,13.419,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.10,Tarun,Static,BAC,0.786,1.603,0.728,14.2,0.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,27.1,NaN,13.422,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.21,Tarun,Static,BAC,0.777,1.605,0.723,15.2,359.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.0,NaN,13.425,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.31,Tarun,Static,BAC,0.768,1.606,0.720,16.8,359.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.6,NaN,13.426,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.41,Tarun,Static,BAC,0.761,1.602,0.719,20.1,1.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.8,NaN,13.425,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.50,Tarun,Static,BAC,0.752,1.601,0.718,23.2,2.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.9,NaN,13.424,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.60,Tarun,Static,BAC,0.740,1.603,0.718,24.8,1.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.4,NaN,13.422,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.71,Tarun,Static,BAC,0.724,1.604,0.719,24.4,0.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.9,NaN,13.417,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.81,Tarun,Static,BAC,0.710,1.604,0.720,23.3,0.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.8,NaN,13.413,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+55.91,Tarun,Static,BAC,0.699,1.605,0.720,22.5,359.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.0,NaN,13.411,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.00,Tarun,Static,BAC,0.688,1.606,0.720,21.3,359.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,33.7,NaN,13.408,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.10,Tarun,Static,BAC,0.680,1.606,0.721,19.2,358.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.7,NaN,13.405,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.21,Tarun,Static,BAC,0.671,1.607,0.723,16.2,358.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.7,NaN,13.402,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.31,Tarun,Static,BAC,0.667,1.608,0.724,13.9,357.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.5,NaN,13.400,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.41,Tarun,Static,BAC,0.666,1.610,0.724,12.5,356.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.2,NaN,13.399,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+56.50,Tarun,Static,BAC,0.668,1.611,0.726,10.6,356.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.4,NaN,13.398,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+56.60,Tarun,Static,BAC,0.670,1.613,0.730,8.1,355.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,21.2,NaN,13.394,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+56.71,Tarun,Static,BAC,0.673,1.612,0.737,6.0,356.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,19.1,NaN,13.389,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+56.81,Tarun,Static,BAC,0.679,1.612,0.739,6.0,356.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,19.0,NaN,13.387,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+56.91,Tarun,Static,BAC,0.690,1.613,0.740,7.5,355.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,20.7,NaN,13.389,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+57.00,Tarun,Static,BAC,0.704,1.612,0.741,10.8,355.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.9,NaN,13.391,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+57.10,Tarun,Static,BAC,0.717,1.611,0.742,14.1,356.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,27.1,NaN,13.393,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.21,Tarun,Static,BAC,0.728,1.611,0.742,16.5,356.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.5,NaN,13.395,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.31,Tarun,Static,BAC,0.735,1.612,0.742,18.3,355.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.3,NaN,13.397,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.41,Tarun,Static,BAC,0.740,1.612,0.742,19.2,355.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.2,NaN,13.398,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.50,Tarun,Static,BAC,0.743,1.612,0.743,19.1,356.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.2,NaN,13.398,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.60,Tarun,Static,BAC,0.745,1.612,0.745,18.9,356.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.9,NaN,13.397,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.71,Tarun,Static,BAC,0.747,1.612,0.747,19.0,356.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.0,NaN,13.395,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.81,Tarun,Static,BAC,0.749,1.611,0.749,19.3,356.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.3,NaN,13.393,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+57.91,Tarun,Static,BAC,0.751,1.611,0.751,19.7,356.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.7,NaN,13.392,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.00,Tarun,Static,BAC,0.751,1.611,0.753,19.6,356.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.6,NaN,13.390,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.10,Tarun,Static,BAC,0.752,1.611,0.754,19.6,357.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.5,NaN,13.389,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.21,Tarun,Static,BAC,0.751,1.611,0.754,19.5,357.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.5,NaN,13.389,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.31,Tarun,Static,BAC,0.749,1.611,0.754,19.3,356.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.3,NaN,13.389,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.41,Tarun,Static,BAC,0.747,1.612,0.753,19.3,356.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.2,NaN,13.389,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.50,Tarun,Static,BAC,0.745,1.612,0.752,19.3,356.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.3,NaN,13.389,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.60,Tarun,Static,BAC,0.743,1.611,0.752,19.3,356.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.2,NaN,13.390,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.71,Tarun,Static,BAC,0.740,1.612,0.750,18.9,356.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,31.8,NaN,13.390,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.81,Tarun,Static,BAC,0.735,1.615,0.748,17.6,355.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.8,NaN,13.391,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+58.91,Tarun,Static,BAC,0.727,1.619,0.745,15.1,352.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.8,NaN,13.392,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+59.00,Tarun,Static,BAC,0.720,1.621,0.743,13.1,351.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,27.2,NaN,13.393,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+59.10,Tarun,Static,BAC,0.715,1.620,0.743,12.3,352.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,26.2,NaN,13.392,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+59.21,Tarun,Static,BAC,0.710,1.619,0.743,11.1,352.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.0,NaN,13.391,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.31,Tarun,Static,BAC,0.707,1.620,0.743,9.1,352.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,23.2,NaN,13.390,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.41,Tarun,Static,BAC,0.704,1.621,0.745,5.9,352.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,20.4,NaN,13.388,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.50,Tarun,Static,BAC,0.700,1.620,0.746,1.3,353.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,16.0,NaN,13.385,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.60,Tarun,Static,BAC,0.692,1.620,0.747,355.3,353.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,10.7,NaN,13.383,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.71,Tarun,Static,BAC,0.681,1.616,0.745,348.5,355.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,5.9,NaN,13.383,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.81,Tarun,Static,BAC,0.671,1.615,0.738,343.5,355.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,7.1,NaN,13.387,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+59.91,Tarun,Static,BAC,0.664,1.614,0.728,337.4,355.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,11.6,NaN,13.395,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+60.00,Tarun,Static,BAC,0.664,1.613,0.719,331.0,355.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06Door,17.5,NaN,13.404,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+60.10,Tarun,Static,BAC,0.672,1.612,0.711,324.4,356.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06Door,23.8,NaN,13.414,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+60.21,Tarun,Static,BAC,0.692,1.608,0.704,317.7,357.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06Door,30.0,NaN,13.425,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.31,Tarun,Static,BAC,0.716,1.606,0.699,311.0,357.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,36.6,NaN,13.435,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.41,Tarun,Static,BAC,0.741,1.602,0.695,304.9,358.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,42.5,NaN,13.444,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.50,Tarun,Static,BAC,0.764,1.600,0.688,299.8,0.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,47.5,NaN,13.456,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.60,Tarun,Static,BAC,0.786,1.600,0.675,294.2,0.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,53.0,NaN,13.474,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.71,Tarun,Static,BAC,0.808,1.600,0.655,287.7,0.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,59.4,NaN,13.498,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.81,Tarun,Static,BAC,0.823,1.600,0.636,282.7,0.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,64.4,NaN,13.520,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+60.91,Tarun,Static,BAC,0.837,1.600,0.613,278.5,0.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,68.5,NaN,13.545,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.00,Tarun,Static,BAC,0.849,1.598,0.587,274.7,1.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,72.3,NaN,13.574,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.10,Tarun,Static,BAC,0.861,1.598,0.557,270.9,1.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,76.1,NaN,13.605,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.21,Tarun,Static,BAC,0.873,1.599,0.522,266.8,1.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,80.2,NaN,13.642,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.31,Tarun,Static,BAC,0.883,1.599,0.493,263.7,2.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,83.3,NaN,13.673,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.41,Tarun,Static,BAC,0.892,1.599,0.467,261.1,2.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,85.8,NaN,13.700,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.50,Tarun,Static,BAC,0.902,1.598,0.444,258.7,3.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,88.2,NaN,13.724,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.60,Tarun,Static,BAC,0.910,1.597,0.426,256.8,3.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,90.1,NaN,13.744,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.71,Tarun,Static,BAC,0.916,1.596,0.411,255.4,3.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,91.5,NaN,13.760,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.81,Tarun,Static,BAC,0.915,1.596,0.401,254.7,3.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,92.1,NaN,13.769,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+61.91,Tarun,Static,BAC,0.908,1.597,0.397,254.1,3.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,92.8,NaN,13.772,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.00,Tarun,Static,BAC,0.894,1.598,0.396,253.4,3.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,93.5,NaN,13.769,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.10,Tarun,Static,BAC,0.871,1.599,0.398,252.7,3.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,94.4,NaN,13.762,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.23,Tarun,Static,BAC,0.837,1.598,0.402,251.1,3.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,96.1,NaN,13.750,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.31,Tarun,Static,BAC,0.803,1.598,0.409,250.0,3.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,97.3,NaN,13.736,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.41,Tarun,Static,BAC,0.766,1.598,0.419,249.7,3.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,97.8,NaN,13.719,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.50,Tarun,Static,BAC,0.729,1.600,0.428,249.5,3.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,98.1,NaN,13.702,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.60,Tarun,Static,BAC,0.691,1.601,0.433,248.9,2.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,98.9,NaN,13.689,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.71,Tarun,Static,BAC,0.650,1.603,0.433,248.9,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,99.1,NaN,13.680,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.81,Tarun,Static,BAC,0.620,1.603,0.430,248.4,359.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,99.7,NaN,13.677,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+62.91,Tarun,Static,BAC,0.593,1.601,0.425,247.5,358.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,100.7,NaN,13.676,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.00,Tarun,Static,BAC,0.568,1.596,0.418,246.4,359.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,101.9,NaN,13.678,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.10,Tarun,Static,BAC,0.546,1.592,0.411,245.5,359.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,103.0,NaN,13.681,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.21,Tarun,Static,BAC,0.526,1.588,0.401,244.3,359.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,104.2,NaN,13.687,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.31,Tarun,Static,BAC,0.513,1.582,0.392,243.7,1.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,104.8,NaN,13.693,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.41,Tarun,Static,BAC,0.509,1.577,0.389,244.0,2.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,104.5,NaN,13.695,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.50,Tarun,Static,BAC,0.514,1.576,0.394,246.0,3.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,102.5,NaN,13.691,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.60,Tarun,Static,BAC,0.528,1.577,0.403,249.1,4.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,99.3,NaN,13.685,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.71,Tarun,Static,BAC,0.553,1.583,0.418,254.7,3.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,93.6,NaN,13.676,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.81,Tarun,Static,BAC,0.583,1.588,0.430,261.6,2.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,86.6,NaN,13.670,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+63.91,Tarun,Static,BAC,0.619,1.592,0.434,269.7,2.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,78.4,NaN,13.673,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+64.00,Tarun,Static,BAC,0.657,1.595,0.430,277.9,1.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03,70.1,NaN,13.685,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+64.10,Tarun,Static,BAC,0.695,1.598,0.421,287.3,1.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,60.5,NaN,13.701,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+64.21,Tarun,Static,BAC,0.735,1.593,0.409,297.3,3.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,50.3,NaN,13.722,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+64.35,Tarun,Static,BAC,0.769,1.590,0.401,305.5,4.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Refrigerator03_Door01,42.1,NaN,13.736,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+64.41,Tarun,Static,BAC,0.800,1.587,0.399,313.4,4.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,34.2,NaN,13.746,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+64.50,Tarun,Static,BAC,0.827,1.586,0.400,321.8,4.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06Door,25.7,NaN,13.751,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+64.60,Tarun,Static,BAC,0.852,1.584,0.403,330.1,4.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06Door,17.4,NaN,13.753,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+64.71,Tarun,Static,BAC,0.877,1.582,0.412,338.2,5.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,9.9,NaN,13.750,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+64.81,Tarun,Static,BAC,0.895,1.582,0.423,343.8,5.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,6.0,NaN,13.743,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+64.94,Tarun,Static,BAC,0.906,1.584,0.439,348.6,5.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,4.9,NaN,13.730,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.00,Tarun,Static,BAC,0.915,1.582,0.464,353.6,5.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,8.4,NaN,13.707,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.10,Tarun,Static,BAC,0.923,1.580,0.489,357.2,7.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,12.1,NaN,13.685,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.21,Tarun,Static,BAC,0.931,1.582,0.517,359.9,6.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,14.1,NaN,13.660,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.31,Tarun,Static,BAC,0.936,1.584,0.542,1.8,5.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,15.7,NaN,13.637,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.41,Tarun,Static,BAC,0.937,1.583,0.567,3.9,5.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,17.8,NaN,13.613,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.52,Tarun,Static,BAC,0.936,1.582,0.586,4.6,5.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,18.5,NaN,13.594,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.60,Tarun,Static,BAC,0.931,1.581,0.615,5.1,5.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,19.0,NaN,13.564,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.71,Tarun,Static,BAC,0.926,1.581,0.637,5.4,5.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,19.3,NaN,13.542,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.81,Tarun,Static,BAC,0.919,1.582,0.653,4.4,5.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,18.3,NaN,13.524,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+65.91,Tarun,Static,BAC,0.910,1.581,0.665,3.5,5.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,17.4,NaN,13.511,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+66.00,Tarun,Static,BAC,0.901,1.580,0.674,2.8,5.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,16.6,NaN,13.500,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+66.10,Tarun,Static,BAC,0.889,1.580,0.689,2.4,5.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,16.2,NaN,13.482,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+66.21,Tarun,Static,BAC,0.877,1.573,0.711,1.0,7.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,15.6,NaN,13.459,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+66.31,Tarun,Static,BAC,0.872,1.566,0.728,0.8,9.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,16.4,NaN,13.441,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+66.41,Tarun,Static,BAC,0.870,1.562,0.738,1.0,9.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,16.8,NaN,13.430,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+66.50,Tarun,Static,BAC,0.869,1.558,0.747,0.6,10.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,16.9,NaN,13.421,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+66.60,Tarun,Static,BAC,0.869,1.553,0.753,360.0,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,17.5,NaN,13.416,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+66.71,Tarun,Static,BAC,0.870,1.550,0.758,359.1,13.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,17.4,NaN,13.411,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+66.81,Tarun,Static,BAC,0.870,1.547,0.762,357.9,13.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,17.0,NaN,13.407,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+66.91,Tarun,Static,BAC,0.870,1.544,0.766,357.0,14.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,17.0,NaN,13.403,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+67.00,Tarun,Static,BAC,0.873,1.542,0.766,356.8,14.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,17.0,NaN,13.403,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+67.10,Tarun,Static,BAC,0.875,1.542,0.765,356.7,14.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,17.0,NaN,13.405,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+67.21,Tarun,Static,BAC,0.877,1.544,0.764,355.4,13.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,15.4,NaN,13.406,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+67.31,Tarun,Static,BAC,0.879,1.544,0.764,354.2,13.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,14.6,NaN,13.407,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+67.41,Tarun,Static,BAC,0.885,1.544,0.765,354.9,14.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,15.5,NaN,13.408,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+67.50,Tarun,Static,BAC,0.889,1.547,0.765,355.1,13.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,14.8,NaN,13.408,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+67.60,Tarun,Static,BAC,0.891,1.548,0.766,354.8,12.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,14.2,NaN,13.408,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+67.71,Tarun,Static,BAC,0.892,1.546,0.768,354.6,12.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,14.4,NaN,13.406,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+67.81,Tarun,Static,BAC,0.893,1.545,0.770,354.6,13.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,14.7,NaN,13.404,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+67.91,Tarun,Static,BAC,0.893,1.545,0.768,354.6,13.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,14.8,NaN,13.406,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+68.00,Tarun,Static,BAC,0.892,1.548,0.763,354.1,12.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,13.9,NaN,13.410,NaN,1,0,CabinetD05,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+68.10,Tarun,Static,BAC,0.889,1.552,0.755,353.2,11.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,12.7,NaN,13.418,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+68.21,Tarun,Static,BAC,0.883,1.561,0.740,351.2,9.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,9.7,NaN,13.431,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+68.31,Tarun,Static,BAC,0.877,1.569,0.722,349.9,7.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,7.1,NaN,13.448,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+68.41,Tarun,Static,BAC,0.872,1.577,0.703,349.3,5.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,4.8,NaN,13.465,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+68.50,Tarun,Static,BAC,0.870,1.585,0.682,350.2,2.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,3.7,NaN,13.485,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+68.60,Tarun,Static,BAC,0.870,1.594,0.659,352.3,0.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,5.5,NaN,13.508,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+68.71,Tarun,Static,BAC,0.869,1.604,0.628,356.9,357.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,10.7,NaN,13.538,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+68.81,Tarun,Static,BAC,0.862,1.611,0.600,359.5,354.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,14.0,NaN,13.564,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+68.91,Tarun,Static,BAC,0.850,1.614,0.573,0.9,353.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,15.7,NaN,13.588,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+69.00,Tarun,Static,BAC,0.835,1.614,0.550,1.8,352.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,16.8,NaN,13.607,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+69.10,Tarun,Static,BAC,0.820,1.613,0.532,2.5,352.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,17.5,NaN,13.620,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+69.21,Tarun,Static,BAC,0.804,1.612,0.518,3.0,352.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,18.0,NaN,13.630,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+69.31,Tarun,Static,BAC,0.791,1.612,0.509,2.7,351.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,17.7,NaN,13.636,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+69.41,Tarun,Static,BAC,0.779,1.613,0.501,1.9,350.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,17.7,NaN,13.642,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+69.50,Tarun,Static,BAC,0.771,1.613,0.494,1.5,350.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,17.7,NaN,13.647,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+69.60,Tarun,Static,BAC,0.766,1.612,0.489,2.3,350.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,18.3,NaN,13.651,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+69.71,Tarun,Static,BAC,0.763,1.611,0.486,4.7,350.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,20.0,NaN,13.653,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+69.81,Tarun,Static,BAC,0.759,1.608,0.486,6.3,351.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,20.9,NaN,13.652,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+69.91,Tarun,Static,BAC,0.753,1.605,0.486,6.6,352.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,20.7,NaN,13.650,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+70.00,Tarun,Static,BAC,0.746,1.604,0.486,5.6,353.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.7,NaN,13.649,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+70.10,Tarun,Static,BAC,0.741,1.604,0.486,4.3,352.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.5,NaN,13.649,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+70.21,Tarun,Static,BAC,0.741,1.605,0.485,3.3,352.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.7,NaN,13.649,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+70.31,Tarun,Static,BAC,0.746,1.608,0.484,3.2,351.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,18.2,NaN,13.652,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+70.41,Tarun,Static,BAC,0.755,1.611,0.484,4.9,350.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,20.3,NaN,13.653,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+70.50,Tarun,Static,BAC,0.775,1.615,0.485,11.3,349.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,26.5,NaN,13.657,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+70.60,Tarun,Static,BAC,0.805,1.616,0.481,23.8,348.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,38.2,NaN,13.667,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+70.71,Tarun,Static,BAC,0.829,1.614,0.480,32.1,350.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,46.0,NaN,13.674,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+70.81,Tarun,Static,BAC,0.833,1.613,0.486,29.7,351.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,43.5,NaN,13.668,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+70.91,Tarun,Static,BAC,0.831,1.614,0.494,25.3,351.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,39.2,NaN,13.660,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+71.00,Tarun,Static,BAC,0.826,1.614,0.500,21.1,351.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,35.0,NaN,13.653,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+71.10,Tarun,Static,BAC,0.822,1.613,0.503,18.2,352.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,32.1,NaN,13.649,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+71.21,Tarun,Static,BAC,0.817,1.612,0.504,15.3,352.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.2,NaN,13.647,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+71.31,Tarun,Static,BAC,0.812,1.611,0.504,12.7,353.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.5,NaN,13.646,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+71.41,Tarun,Static,BAC,0.808,1.610,0.502,10.3,353.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.1,NaN,13.647,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+71.50,Tarun,Static,BAC,0.804,1.610,0.500,8.7,354.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,22.5,NaN,13.648,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+71.60,Tarun,Static,BAC,0.800,1.608,0.498,7.5,354.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,21.2,NaN,13.649,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+71.71,Tarun,Static,BAC,0.795,1.607,0.495,6.4,355.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.9,NaN,13.651,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+71.81,Tarun,Static,BAC,0.789,1.606,0.492,5.3,355.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.6,NaN,13.652,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+71.91,Tarun,Static,BAC,0.785,1.607,0.490,5.0,355.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,18.6,NaN,13.654,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+72.00,Tarun,Static,BAC,0.788,1.610,0.488,7.5,353.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,21.4,NaN,13.656,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+72.10,Tarun,Static,BAC,0.796,1.610,0.487,11.7,353.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.5,NaN,13.659,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.21,Tarun,Static,BAC,0.801,1.610,0.489,15.0,353.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.6,NaN,13.658,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.31,Tarun,Static,BAC,0.802,1.610,0.494,16.3,353.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,29.9,NaN,13.653,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.41,Tarun,Static,BAC,0.805,1.610,0.500,19.2,353.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.7,NaN,13.648,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.50,Tarun,Static,BAC,0.820,1.609,0.504,27.5,353.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,40.9,NaN,13.648,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.60,Tarun,Static,BAC,0.839,1.607,0.506,37.3,354.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,50.6,NaN,13.650,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.71,Tarun,Static,BAC,0.852,1.605,0.514,43.0,353.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,56.3,NaN,13.645,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.81,Tarun,Static,BAC,0.851,1.603,0.528,41.0,353.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,54.3,NaN,13.632,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+72.91,Tarun,Static,BAC,0.838,1.604,0.544,36.7,353.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,50.1,NaN,13.613,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.00,Tarun,Static,BAC,0.815,1.608,0.560,32.1,352.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,45.6,NaN,13.592,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.10,Tarun,Static,BAC,0.785,1.608,0.573,29.4,351.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,43.0,NaN,13.573,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.21,Tarun,Static,BAC,0.750,1.608,0.582,31.3,353.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,44.4,NaN,13.556,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.31,Tarun,Static,BAC,0.713,1.611,0.587,30.8,352.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,43.9,NaN,13.543,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.41,Tarun,Static,BAC,0.674,1.610,0.594,27.8,351.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,41.0,NaN,13.528,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.50,Tarun,Static,BAC,0.639,1.607,0.602,24.0,352.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,37.0,NaN,13.513,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.60,Tarun,Static,BAC,0.608,1.610,0.609,21.4,353.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.2,NaN,13.500,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.71,Tarun,Static,BAC,0.578,1.611,0.615,19.4,352.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.3,NaN,13.488,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.81,Tarun,Static,BAC,0.557,1.614,0.620,17.1,353.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,29.9,NaN,13.479,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+73.91,Tarun,Static,BAC,0.545,1.613,0.624,15.1,353.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,27.8,NaN,13.472,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.00,Tarun,Static,BAC,0.544,1.612,0.627,12.5,354.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,25.1,NaN,13.469,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.10,Tarun,Static,BAC,0.554,1.613,0.629,10.9,354.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,23.5,NaN,13.469,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+74.21,Tarun,Static,BAC,0.566,1.608,0.630,10.1,354.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,22.8,NaN,13.471,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+74.31,Tarun,Static,BAC,0.570,1.606,0.631,11.4,356.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,23.6,NaN,13.470,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+74.41,Tarun,Static,BAC,0.565,1.609,0.632,13.3,355.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,25.8,NaN,13.468,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.50,Tarun,Static,BAC,0.552,1.608,0.639,15.6,354.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,28.2,NaN,13.459,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.60,Tarun,Static,BAC,0.534,1.608,0.651,19.7,354.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,32.1,NaN,13.443,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.71,Tarun,Static,BAC,0.508,1.608,0.668,24.8,354.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,37.0,NaN,13.421,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.81,Tarun,Static,BAC,0.484,1.606,0.683,28.7,354.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,40.7,NaN,13.402,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+74.91,Tarun,Static,BAC,0.461,1.605,0.695,32.4,354.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,44.3,NaN,13.386,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.00,Tarun,Static,BAC,0.443,1.605,0.703,36.2,354.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,48.0,NaN,13.374,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.10,Tarun,Static,BAC,0.430,1.605,0.709,40.8,354.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,52.4,NaN,13.366,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.21,Tarun,Static,BAC,0.417,1.606,0.713,46.9,354.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,58.5,NaN,13.360,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.31,Tarun,Static,BAC,0.409,1.607,0.716,51.7,354.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,63.2,NaN,13.355,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.41,Tarun,Static,BAC,0.401,1.607,0.720,55.1,353.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,66.6,NaN,13.349,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.50,Tarun,Static,BAC,0.393,1.606,0.724,56.9,354.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,68.3,NaN,13.344,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.61,Tarun,Static,BAC,0.384,1.606,0.728,57.0,353.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,68.5,NaN,13.338,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.71,Tarun,Static,BAC,0.377,1.605,0.732,55.2,353.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,66.6,NaN,13.333,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.81,Tarun,Static,BAC,0.369,1.605,0.735,53.2,353.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,64.6,NaN,13.329,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+75.90,Tarun,Static,BAC,0.362,1.605,0.736,50.7,353.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,62.1,NaN,13.326,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.00,Tarun,Static,BAC,0.355,1.605,0.738,47.2,353.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,58.7,NaN,13.323,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.11,Tarun,Static,BAC,0.346,1.605,0.742,41.0,353.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,52.5,NaN,13.318,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.21,Tarun,Static,BAC,0.339,1.604,0.744,35.1,353.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,46.5,NaN,13.313,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.31,Tarun,Static,BAC,0.335,1.605,0.745,30.4,353.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,41.9,NaN,13.312,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.40,Tarun,Static,BAC,0.336,1.607,0.744,27.2,353.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,38.8,NaN,13.314,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.50,Tarun,Static,BAC,0.340,1.607,0.743,24.1,353.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,35.8,NaN,13.316,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.61,Tarun,Static,BAC,0.346,1.608,0.741,20.7,353.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,32.4,NaN,13.319,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.71,Tarun,Static,BAC,0.356,1.608,0.738,18.2,353.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,30.1,NaN,13.323,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.81,Tarun,Static,BAC,0.369,1.609,0.734,16.4,354.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,28.3,NaN,13.329,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+76.90,Tarun,Static,BAC,0.384,1.611,0.730,15.2,354.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,27.3,NaN,13.337,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.00,Tarun,Static,BAC,0.399,1.613,0.725,14.6,354.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,26.7,NaN,13.344,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.11,Tarun,Static,BAC,0.414,1.614,0.721,13.7,354.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,25.9,NaN,13.351,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.21,Tarun,Static,BAC,0.426,1.615,0.719,13.0,354.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,25.2,NaN,13.355,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.31,Tarun,Static,BAC,0.437,1.615,0.717,12.5,354.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,24.8,NaN,13.360,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+77.42,Tarun,Static,BAC,0.444,1.615,0.716,12.3,354.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,24.7,NaN,13.362,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+77.50,Tarun,Static,BAC,0.454,1.615,0.713,12.5,354.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,24.9,NaN,13.366,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+77.61,Tarun,Static,BAC,0.460,1.615,0.710,12.8,354.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,25.2,NaN,13.371,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.71,Tarun,Static,BAC,0.463,1.615,0.707,13.0,353.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,25.5,NaN,13.374,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.81,Tarun,Static,BAC,0.465,1.615,0.704,13.3,353.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,25.8,NaN,13.378,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+77.90,Tarun,Static,BAC,0.466,1.616,0.701,13.7,353.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,26.2,NaN,13.381,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.00,Tarun,Static,BAC,0.466,1.616,0.698,13.9,353.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,26.5,NaN,13.384,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.11,Tarun,Static,BAC,0.466,1.617,0.696,14.6,353.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,27.2,NaN,13.386,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.21,Tarun,Static,BAC,0.468,1.617,0.696,15.7,353.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,28.3,NaN,13.387,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.31,Tarun,Static,BAC,0.470,1.617,0.694,16.8,353.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,29.2,NaN,13.388,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.40,Tarun,Static,BAC,0.472,1.617,0.693,17.5,353.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,29.9,NaN,13.390,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.50,Tarun,Static,BAC,0.474,1.617,0.691,18.3,353.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,30.7,NaN,13.392,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.61,Tarun,Static,BAC,0.476,1.617,0.689,19.4,353.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,31.8,NaN,13.395,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.71,Tarun,Static,BAC,0.478,1.617,0.688,20.5,353.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,32.8,NaN,13.397,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.81,Tarun,Static,BAC,0.478,1.616,0.687,21.1,353.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,33.4,NaN,13.398,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+78.90,Tarun,Static,BAC,0.477,1.617,0.687,21.0,353.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,33.3,NaN,13.397,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.00,Tarun,Static,BAC,0.475,1.617,0.688,20.8,353.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,33.1,NaN,13.396,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.11,Tarun,Static,BAC,0.475,1.617,0.689,21.1,353.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,33.4,NaN,13.395,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.21,Tarun,Static,BAC,0.476,1.616,0.690,21.9,353.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,34.1,NaN,13.394,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.31,Tarun,Static,BAC,0.477,1.616,0.690,23.4,354.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,35.5,NaN,13.394,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.40,Tarun,Static,BAC,0.476,1.616,0.689,24.4,353.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,36.5,NaN,13.395,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.50,Tarun,Static,BAC,0.477,1.616,0.687,25.3,353.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,37.6,NaN,13.397,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.61,Tarun,Static,BAC,0.479,1.617,0.684,27.1,352.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,39.4,NaN,13.400,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.71,Tarun,Static,BAC,0.481,1.617,0.683,28.5,352.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,40.8,NaN,13.402,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.81,Tarun,Static,BAC,0.483,1.617,0.683,29.5,352.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,41.8,NaN,13.402,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+79.90,Tarun,Static,BAC,0.485,1.617,0.682,30.3,352.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,42.6,NaN,13.403,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.00,Tarun,Static,BAC,0.486,1.617,0.682,30.8,352.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,43.0,NaN,13.404,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.11,Tarun,Static,BAC,0.486,1.617,0.682,30.8,352.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,43.1,NaN,13.404,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.21,Tarun,Static,BAC,0.486,1.617,0.682,31.0,352.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,43.2,NaN,13.403,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.31,Tarun,Static,BAC,0.486,1.617,0.683,31.1,352.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,43.3,NaN,13.403,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.40,Tarun,Static,BAC,0.486,1.617,0.683,31.7,352.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,43.9,NaN,13.403,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.50,Tarun,Static,BAC,0.488,1.617,0.682,32.7,352.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,44.9,NaN,13.404,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.61,Tarun,Static,BAC,0.490,1.616,0.682,34.0,353.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,46.2,NaN,13.404,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.71,Tarun,Static,BAC,0.491,1.616,0.682,34.8,353.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,47.0,NaN,13.405,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.81,Tarun,Static,BAC,0.493,1.616,0.682,35.5,353.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,47.6,NaN,13.405,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+80.90,Tarun,Static,BAC,0.494,1.616,0.683,35.8,353.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,47.9,NaN,13.405,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+81.00,Tarun,Static,BAC,0.494,1.615,0.684,35.9,353.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,47.9,NaN,13.404,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+81.11,Tarun,Static,BAC,0.493,1.615,0.685,35.5,353.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,47.6,NaN,13.402,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+81.21,Tarun,Static,BAC,0.493,1.615,0.687,35.1,353.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,47.2,NaN,13.400,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+81.31,Tarun,Static,BAC,0.492,1.615,0.688,34.5,353.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,46.6,NaN,13.399,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+81.40,Tarun,Static,BAC,0.492,1.615,0.689,34.0,353.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,46.1,NaN,13.398,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+81.50,Tarun,Static,BAC,0.492,1.615,0.688,33.6,353.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,45.7,NaN,13.399,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+81.61,Tarun,Static,BAC,0.491,1.615,0.686,33.4,353.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,45.5,NaN,13.400,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+81.71,Tarun,Static,BAC,0.491,1.615,0.685,33.3,353.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,45.5,NaN,13.402,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+81.81,Tarun,Static,BAC,0.490,1.615,0.683,33.3,353.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,45.4,NaN,13.404,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+81.90,Tarun,Static,BAC,0.490,1.615,0.681,33.4,353.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,45.5,NaN,13.405,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+82.00,Tarun,Static,BAC,0.489,1.615,0.680,33.5,353.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,45.6,NaN,13.406,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+82.11,Tarun,Static,BAC,0.488,1.615,0.678,33.5,353.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,45.6,NaN,13.407,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+82.21,Tarun,Static,BAC,0.486,1.616,0.677,33.7,353.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,45.7,NaN,13.409,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+82.31,Tarun,Static,BAC,0.485,1.616,0.675,33.9,353.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,46.0,NaN,13.410,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+82.40,Tarun,Static,BAC,0.484,1.618,0.675,34.8,352.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,47.0,NaN,13.410,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+82.50,Tarun,Static,BAC,0.484,1.618,0.674,35.7,352.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,47.9,NaN,13.411,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+82.61,Tarun,Static,BAC,0.489,1.619,0.671,38.0,352.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,50.1,NaN,13.415,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+82.71,Tarun,Static,BAC,0.495,1.619,0.668,40.8,352.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05Door,52.9,NaN,13.420,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+82.81,Tarun,Static,BAC,0.501,1.619,0.666,43.5,352.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner02,55.6,NaN,13.423,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+82.90,Tarun,Static,BAC,0.504,1.618,0.666,44.8,353.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,56.8,NaN,13.423,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+83.00,Tarun,Static,BAC,0.506,1.618,0.668,45.4,353.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,57.4,NaN,13.421,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+83.11,Tarun,Static,BAC,0.505,1.617,0.671,46.4,354.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,58.3,NaN,13.418,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+83.21,Tarun,Static,BAC,0.503,1.617,0.675,45.6,354.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,57.5,NaN,13.414,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+83.31,Tarun,Static,BAC,0.499,1.617,0.677,43.3,354.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,55.3,NaN,13.412,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+83.40,Tarun,Static,BAC,0.496,1.617,0.678,40.9,354.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,52.8,NaN,13.410,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+83.50,Tarun,Static,BAC,0.493,1.618,0.678,38.8,353.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,50.8,NaN,13.409,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+83.61,Tarun,Static,BAC,0.490,1.618,0.680,36.2,353.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,48.3,NaN,13.406,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+83.71,Tarun,Static,BAC,0.488,1.618,0.682,33.6,353.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,45.7,NaN,13.404,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+83.81,Tarun,Static,BAC,0.486,1.617,0.684,31.4,353.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,43.6,NaN,13.402,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+83.90,Tarun,Static,BAC,0.484,1.616,0.687,29.8,353.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,42.0,NaN,13.398,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+84.00,Tarun,Static,BAC,0.480,1.615,0.689,27.4,354.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,39.5,NaN,13.396,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+84.11,Tarun,Static,BAC,0.477,1.614,0.688,25.0,354.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,37.0,NaN,13.395,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+84.21,Tarun,Static,BAC,0.474,1.613,0.686,23.4,354.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,35.4,NaN,13.397,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+84.31,Tarun,Static,BAC,0.471,1.612,0.683,22.0,355.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,33.9,NaN,13.400,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+84.40,Tarun,Static,BAC,0.469,1.613,0.679,20.1,354.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,32.1,NaN,13.403,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+84.50,Tarun,Static,BAC,0.466,1.614,0.677,17.9,354.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,30.0,NaN,13.405,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+84.61,Tarun,Static,BAC,0.463,1.615,0.676,15.3,353.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,27.7,NaN,13.405,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+84.71,Tarun,Static,BAC,0.462,1.615,0.677,13.8,353.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,26.2,NaN,13.404,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+84.81,Tarun,Static,BAC,0.460,1.616,0.677,12.9,353.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,25.3,NaN,13.404,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+84.90,Tarun,Static,BAC,0.458,1.617,0.674,11.6,353.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,24.1,NaN,13.406,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+85.00,Tarun,Static,BAC,0.455,1.622,0.671,9.2,351.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,22.6,NaN,13.409,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+85.11,Tarun,Static,BAC,0.452,1.625,0.671,6.5,351.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,20.4,NaN,13.408,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+85.21,Tarun,Static,BAC,0.449,1.628,0.677,3.7,351.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,18.1,NaN,13.402,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+85.31,Tarun,Static,BAC,0.447,1.630,0.686,0.7,350.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,15.9,NaN,13.392,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+85.40,Tarun,Static,BAC,0.447,1.634,0.699,358.4,350.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,14.8,NaN,13.379,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+85.50,Tarun,Static,BAC,0.449,1.635,0.717,357.1,350.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,14.0,NaN,13.363,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+85.61,Tarun,Static,BAC,0.454,1.636,0.736,357.5,349.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,14.4,NaN,13.345,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+85.71,Tarun,Static,BAC,0.457,1.633,0.744,0.3,351.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD06,15.1,NaN,13.337,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+85.81,Tarun,Static,BAC,0.459,1.632,0.746,3.7,352.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,17.3,NaN,13.336,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+85.90,Tarun,Static,BAC,0.460,1.630,0.741,6.7,353.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,19.7,NaN,13.340,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+86.00,Tarun,Static,BAC,0.462,1.627,0.735,10.2,354.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,22.8,NaN,13.347,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+86.11,Tarun,Static,BAC,0.467,1.625,0.724,15.0,354.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,27.2,NaN,13.359,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+86.21,Tarun,Static,BAC,0.469,1.624,0.713,18.2,355.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.3,NaN,13.370,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+86.31,Tarun,Static,BAC,0.470,1.623,0.704,20.8,354.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.8,NaN,13.379,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+86.40,Tarun,Static,BAC,0.470,1.623,0.696,22.1,354.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,34.2,NaN,13.387,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+86.50,Tarun,Static,BAC,0.469,1.623,0.690,22.9,354.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,34.9,NaN,13.393,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+86.61,Tarun,Static,BAC,0.469,1.623,0.683,23.4,354.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,35.4,NaN,13.400,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+86.71,Tarun,Static,BAC,0.468,1.624,0.677,22.8,353.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,35.0,NaN,13.405,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+86.81,Tarun,Static,BAC,0.466,1.624,0.673,21.5,353.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,33.8,NaN,13.409,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+86.90,Tarun,Static,BAC,0.464,1.624,0.669,19.8,353.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.2,NaN,13.412,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+87.00,Tarun,Static,BAC,0.461,1.624,0.666,17.5,352.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.0,NaN,13.414,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+87.11,Tarun,Static,BAC,0.458,1.625,0.664,14.9,352.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,27.7,NaN,13.416,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+87.21,Tarun,Static,BAC,0.455,1.625,0.663,12.9,352.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.8,NaN,13.417,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+87.31,Tarun,Static,BAC,0.453,1.624,0.661,11.4,352.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.4,NaN,13.418,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+87.40,Tarun,Static,BAC,0.451,1.624,0.659,10.8,351.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.9,NaN,13.420,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+87.50,Tarun,Static,BAC,0.451,1.625,0.656,10.6,351.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.9,NaN,13.423,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+87.61,Tarun,Static,BAC,0.452,1.625,0.653,10.7,351.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.2,NaN,13.426,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+87.71,Tarun,Static,BAC,0.452,1.625,0.651,11.0,350.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.5,NaN,13.428,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+87.81,Tarun,Static,BAC,0.453,1.626,0.650,11.4,350.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.0,NaN,13.429,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+87.91,Tarun,Static,BAC,0.453,1.626,0.649,11.8,350.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.3,NaN,13.429,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+88.00,Tarun,Static,BAC,0.452,1.626,0.649,12.0,350.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.5,NaN,13.429,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+88.11,Tarun,Static,BAC,0.452,1.626,0.649,12.2,350.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.7,NaN,13.429,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+88.21,Tarun,Static,BAC,0.452,1.626,0.650,12.3,350.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.8,NaN,13.428,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+88.31,Tarun,Static,BAC,0.451,1.626,0.651,12.2,350.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.7,NaN,13.427,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+88.40,Tarun,Static,BAC,0.450,1.626,0.652,12.2,350.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.7,NaN,13.427,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+88.50,Tarun,Static,BAC,0.450,1.626,0.653,12.4,350.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.9,NaN,13.425,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+88.61,Tarun,Static,BAC,0.449,1.625,0.657,12.8,351.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.0,NaN,13.421,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+88.71,Tarun,Static,BAC,0.447,1.623,0.662,13.4,352.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.2,NaN,13.415,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+88.81,Tarun,Static,BAC,0.444,1.622,0.668,14.1,352.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.7,NaN,13.409,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+88.90,Tarun,Static,BAC,0.442,1.621,0.672,14.2,352.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.7,NaN,13.405,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+89.00,Tarun,Static,BAC,0.442,1.621,0.674,14.1,353.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.7,NaN,13.403,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+89.11,Tarun,Static,BAC,0.447,1.620,0.675,14.2,353.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.7,NaN,13.402,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+89.21,Tarun,Static,BAC,0.452,1.619,0.675,13.6,353.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.2,NaN,13.404,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+89.31,Tarun,Static,BAC,0.459,1.618,0.674,13.1,353.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.6,NaN,13.406,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+89.40,Tarun,Static,BAC,0.472,1.615,0.675,13.8,354.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.0,NaN,13.408,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+89.50,Tarun,Static,BAC,0.489,1.611,0.676,16.0,356.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,27.9,NaN,13.410,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+89.60,Tarun,Static,BAC,0.505,1.604,0.677,18.4,358.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,30.1,NaN,13.412,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+89.71,Tarun,Static,BAC,0.518,1.598,0.679,20.9,0.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,32.6,NaN,13.413,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+89.81,Tarun,Static,BAC,0.524,1.594,0.682,21.9,1.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,33.6,NaN,13.411,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+89.90,Tarun,Static,BAC,0.525,1.591,0.687,22.2,2.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,34.0,NaN,13.407,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+90.00,Tarun,Static,BAC,0.520,1.588,0.692,22.8,3.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,34.5,NaN,13.400,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+90.11,Tarun,Static,BAC,0.508,1.587,0.703,22.9,4.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,34.7,NaN,13.387,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+90.21,Tarun,Static,BAC,0.493,1.588,0.717,22.1,3.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,33.7,NaN,13.370,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+90.31,Tarun,Static,BAC,0.479,1.585,0.735,20.2,4.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,31.9,NaN,13.350,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+90.41,Tarun,Static,BAC,0.468,1.578,0.752,18.8,5.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,30.7,NaN,13.331,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+90.50,Tarun,Static,BAC,0.463,1.571,0.764,18.0,7.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,30.2,NaN,13.318,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+90.61,Tarun,Static,BAC,0.464,1.565,0.773,17.7,9.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,30.2,NaN,13.309,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+90.71,Tarun,Static,BAC,0.466,1.561,0.779,17.4,9.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,30.1,NaN,13.304,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+90.81,Tarun,Static,BAC,0.466,1.558,0.783,16.7,9.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,29.6,NaN,13.300,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+90.90,Tarun,Static,BAC,0.464,1.552,0.788,15.7,10.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,28.8,NaN,13.294,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+91.00,Tarun,Static,BAC,0.462,1.545,0.793,14.9,11.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,28.3,NaN,13.289,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+91.11,Tarun,Static,BAC,0.462,1.540,0.795,14.4,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,28.3,NaN,13.287,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+91.21,Tarun,Static,BAC,0.464,1.540,0.792,14.2,12.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,28.0,NaN,13.290,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+91.31,Tarun,Static,BAC,0.465,1.542,0.788,13.6,11.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.2,NaN,13.294,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+91.40,Tarun,Static,BAC,0.467,1.543,0.786,13.6,11.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.2,NaN,13.297,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+91.50,Tarun,Static,BAC,0.470,1.545,0.780,13.8,11.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.2,NaN,13.303,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+91.61,Tarun,Static,BAC,0.477,1.552,0.770,13.8,10.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,26.9,NaN,13.315,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+91.71,Tarun,Static,BAC,0.484,1.563,0.756,13.3,8.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.9,NaN,13.330,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+91.81,Tarun,Static,BAC,0.494,1.577,0.740,12.6,5.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.6,NaN,13.348,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+91.90,Tarun,Static,BAC,0.505,1.591,0.721,12.1,2.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.8,NaN,13.369,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+92.00,Tarun,Static,BAC,0.517,1.602,0.702,11.5,358.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.3,NaN,13.390,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+92.11,Tarun,Static,BAC,0.530,1.611,0.683,11.8,356.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.0,NaN,13.411,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+92.21,Tarun,Static,BAC,0.539,1.615,0.669,12.2,355.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,24.6,NaN,13.427,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+92.31,Tarun,Static,BAC,0.547,1.618,0.657,12.5,354.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,25.0,NaN,13.440,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+92.40,Tarun,Static,BAC,0.553,1.618,0.647,12.9,355.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,25.4,NaN,13.452,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+92.50,Tarun,Static,BAC,0.560,1.615,0.639,13.5,356.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.7,NaN,13.461,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+92.60,Tarun,Static,BAC,0.566,1.613,0.632,13.8,356.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,26.0,NaN,13.468,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+92.71,Tarun,Static,BAC,0.567,1.613,0.626,14.4,356.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,26.6,NaN,13.475,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+92.81,Tarun,Static,BAC,0.561,1.612,0.621,14.2,357.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,26.3,NaN,13.479,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+92.90,Tarun,Static,BAC,0.548,1.612,0.615,13.5,356.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.6,NaN,13.481,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+93.00,Tarun,Static,BAC,0.531,1.613,0.610,12.5,356.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.6,NaN,13.483,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+93.10,Tarun,Static,BAC,0.513,1.615,0.607,11.6,355.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.7,NaN,13.482,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+93.21,Tarun,Static,BAC,0.495,1.614,0.606,10.8,356.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,22.8,NaN,13.480,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+93.31,Tarun,Static,BAC,0.481,1.614,0.605,11.2,356.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,23.0,NaN,13.478,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+93.40,Tarun,Static,BAC,0.471,1.610,0.607,12.3,356.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,24.1,NaN,13.474,NaN,1,0,CabinetD06,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
+93.50,Tarun,Static,BAC,0.469,1.606,0.610,14.3,359.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,25.8,NaN,13.470,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+93.61,Tarun,Static,BAC,0.476,1.602,0.615,16.5,0.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,28.0,NaN,13.467,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+93.71,Tarun,Static,BAC,0.490,1.599,0.617,18.6,2.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,30.1,NaN,13.468,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+93.81,Tarun,Static,BAC,0.512,1.595,0.620,20.7,4.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,32.4,NaN,13.469,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+93.90,Tarun,Static,BAC,0.545,1.590,0.625,22.5,6.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetD05,34.6,NaN,13.471,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+94.00,Tarun,Static,BAC,0.589,1.585,0.631,23.9,7.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,36.4,NaN,13.474,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+94.11,Tarun,Static,BAC,0.650,1.581,0.639,24.6,9.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,37.6,NaN,13.479,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+94.21,Tarun,Static,BAC,0.703,1.579,0.646,24.7,9.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,38.0,NaN,13.483,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+94.31,Tarun,Static,BAC,0.749,1.579,0.655,25.0,10.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,38.7,NaN,13.485,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+94.40,Tarun,Static,BAC,0.786,1.581,0.665,25.0,11.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,39.0,NaN,13.482,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+94.50,Tarun,Static,BAC,0.814,1.581,0.681,23.4,11.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,37.6,NaN,13.473,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+94.61,Tarun,Static,BAC,0.837,1.577,0.703,20.9,11.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,35.4,NaN,13.457,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+94.71,Tarun,Static,BAC,0.851,1.573,0.723,19.3,12.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,34.1,NaN,13.441,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+94.81,Tarun,Static,BAC,0.863,1.571,0.743,18.7,11.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,33.5,NaN,13.424,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+94.90,Tarun,Static,BAC,0.874,1.569,0.764,17.8,11.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,32.7,NaN,13.406,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+95.00,Tarun,Static,BAC,0.887,1.569,0.783,16.4,12.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,31.7,NaN,13.391,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+95.11,Tarun,Static,BAC,0.907,1.570,0.803,14.6,12.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,30.1,NaN,13.376,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+95.21,Tarun,Static,BAC,0.929,1.569,0.818,12.9,13.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,28.9,NaN,13.366,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+95.31,Tarun,Static,BAC,0.954,1.569,0.833,10.9,13.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,27.5,NaN,13.358,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+95.40,Tarun,Static,BAC,0.981,1.566,0.839,10.7,15.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,28.2,NaN,13.358,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+95.50,Tarun,Static,BAC,1.009,1.563,0.836,12.1,16.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,30.0,NaN,13.368,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+95.61,Tarun,Static,BAC,1.044,1.561,0.824,15.4,17.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,33.2,NaN,13.388,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+95.71,Tarun,Static,BAC,1.075,1.559,0.813,19.7,17.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,37.3,NaN,13.405,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+95.81,Tarun,Static,BAC,1.103,1.557,0.800,24.9,18.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,42.4,NaN,13.425,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+95.90,Tarun,Static,BAC,1.124,1.556,0.784,29.9,18.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,46.9,NaN,13.446,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+96.00,Tarun,Static,BAC,1.136,1.553,0.767,33.8,19.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,50.7,NaN,13.465,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+96.11,Tarun,Static,BAC,1.140,1.552,0.750,36.7,19.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,53.4,NaN,13.483,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+96.21,Tarun,Static,BAC,1.142,1.549,0.741,38.3,20.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,55.1,NaN,13.492,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+96.31,Tarun,Static,BAC,1.144,1.543,0.735,39.0,21.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,55.8,NaN,13.498,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+96.40,Tarun,Static,BAC,1.150,1.535,0.730,39.0,22.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,56.3,NaN,13.505,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+96.50,Tarun,Static,BAC,1.161,1.531,0.722,38.6,24.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,56.4,NaN,13.515,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+96.61,Tarun,Static,BAC,1.183,1.530,0.718,37.5,23.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,55.3,NaN,13.524,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+96.71,Tarun,Static,BAC,1.215,1.525,0.724,36.3,22.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,54.1,NaN,13.526,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+96.81,Tarun,Static,BAC,1.253,1.517,0.736,34.3,22.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,52.6,NaN,13.524,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+96.90,Tarun,Static,BAC,1.289,1.508,0.747,32.9,23.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,51.6,NaN,13.523,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+97.00,Tarun,Static,BAC,1.320,1.500,0.757,30.5,24.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,50.0,NaN,13.521,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+97.11,Tarun,Static,BAC,1.352,1.491,0.768,27.7,24.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,47.9,NaN,13.518,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+97.21,Tarun,Static,BAC,1.377,1.486,0.781,25.7,24.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,46.3,NaN,13.513,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+97.31,Tarun,Static,BAC,1.398,1.481,0.795,24.1,23.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,44.6,NaN,13.505,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+97.40,Tarun,Static,BAC,1.413,1.481,0.805,22.3,21.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,42.2,NaN,13.499,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+97.50,Tarun,Static,BAC,1.423,1.479,0.813,20.5,20.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,40.4,NaN,13.494,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+97.61,Tarun,Static,BAC,1.429,1.474,0.819,18.9,21.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,39.5,NaN,13.490,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+97.71,Tarun,Static,BAC,1.430,1.469,0.825,17.9,21.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,38.7,NaN,13.484,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+97.81,Tarun,Static,BAC,1.431,1.461,0.833,17.4,21.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,38.6,NaN,13.477,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+97.90,Tarun,Static,BAC,1.433,1.453,0.842,16.8,20.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,37.7,NaN,13.468,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+98.00,Tarun,Static,BAC,1.435,1.441,0.853,15.2,21.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,36.7,NaN,13.458,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+98.11,Tarun,Static,BAC,1.439,1.432,0.865,12.9,21.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,34.9,NaN,13.448,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+98.21,Tarun,Static,BAC,1.446,1.430,0.874,11.4,19.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,33.0,NaN,13.441,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+98.31,Tarun,Static,BAC,1.453,1.431,0.878,11.2,19.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,32.9,NaN,13.440,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+98.40,Tarun,Static,BAC,1.457,1.433,0.880,11.4,19.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,33.0,NaN,13.439,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+98.50,Tarun,Static,BAC,1.457,1.433,0.881,11.8,19.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,33.3,NaN,13.438,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+98.61,Tarun,Static,BAC,1.455,1.429,0.881,12.5,20.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,34.2,NaN,13.437,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+98.71,Tarun,Static,BAC,1.451,1.428,0.879,13.3,20.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,35.1,NaN,13.438,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+98.81,Tarun,Static,BAC,1.445,1.431,0.873,14.4,21.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,36.2,NaN,13.442,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+98.90,Tarun,Static,BAC,1.436,1.439,0.859,16.5,21.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,38.0,NaN,13.453,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+99.00,Tarun,Static,BAC,1.425,1.445,0.838,19.6,24.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,41.6,NaN,13.470,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+99.11,Tarun,Static,BAC,1.412,1.451,0.808,23.8,28.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,46.7,NaN,13.496,NaN,1,0,CabinetDCorner02,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+99.21,Tarun,Static,BAC,1.398,1.455,0.778,28.4,30.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,51.4,NaN,13.521,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+99.31,Tarun,Static,BAC,1.380,1.459,0.751,32.6,31.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,55.1,NaN,13.543,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+99.40,Tarun,Static,BAC,1.363,1.460,0.728,35.9,31.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,57.5,NaN,13.560,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+99.50,Tarun,Static,BAC,1.350,1.448,0.712,38.0,33.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,MixingBowl,59.8,NaN,13.572,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+99.61,Tarun,Static,BAC,1.344,1.409,0.701,40.1,38.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,63.2,NaN,13.581,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+99.72,Tarun,Static,BAC,1.347,1.376,0.697,41.2,39.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,64.8,NaN,13.586,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+99.81,Tarun,Static,BAC,1.355,1.321,0.694,42.9,42.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,67.2,NaN,13.591,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+99.90,Tarun,Static,BAC,1.359,1.299,0.696,42.7,40.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,66.5,NaN,13.589,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+100.00,Tarun,Static,BAC,1.354,1.301,0.698,42.5,40.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,66.2,NaN,13.587,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+100.11,Tarun,Static,BAC,1.344,1.332,0.693,43.3,38.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,66.1,NaN,13.589,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+100.21,Tarun,Static,BAC,1.332,1.372,0.685,43.8,36.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,65.5,NaN,13.593,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+100.35,Tarun,Static,BAC,1.320,1.410,0.678,43.8,34.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,64.6,NaN,13.597,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+100.40,Tarun,Static,BAC,1.310,1.441,0.672,42.4,31.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,62.4,NaN,13.600,NaN,1,0,Wall4m,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+100.50,Tarun,Static,BAC,1.298,1.466,0.665,39.8,27.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,59.1,NaN,13.604,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+100.61,Tarun,Static,BAC,1.282,1.491,0.652,35.9,23.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,54.3,NaN,13.613,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+100.71,Tarun,Static,BAC,1.265,1.507,0.634,33.6,20.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,51.1,NaN,13.626,NaN,1,0,CabinetD05Door,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+100.81,Tarun,Static,BAC,1.243,1.519,0.609,31.9,17.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,48.7,NaN,13.644,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+100.90,Tarun,Static,BAC,1.217,1.528,0.581,30.0,16.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,46.5,NaN,13.665,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+101.00,Tarun,Static,BAC,1.190,1.533,0.551,28.2,16.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,44.8,NaN,13.688,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+101.11,Tarun,Static,BAC,1.159,1.543,0.515,26.4,13.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,42.2,NaN,13.715,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+101.21,Tarun,Static,BAC,1.134,1.554,0.486,24.9,10.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,39.9,NaN,13.737,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+101.31,Tarun,Static,BAC,1.115,1.562,0.461,24.8,8.3,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,39.3,NaN,13.757,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+101.40,Tarun,Static,BAC,1.102,1.567,0.439,26.1,8.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,40.5,NaN,13.775,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+101.50,Tarun,Static,BAC,1.100,1.564,0.419,29.3,10.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,44.0,NaN,13.794,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+101.61,Tarun,Static,BAC,1.103,1.548,0.399,33.4,16.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,49.1,NaN,13.814,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+101.71,Tarun,Static,BAC,1.108,1.538,0.380,35.6,19.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,51.8,NaN,13.834,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+101.81,Tarun,Static,BAC,1.114,1.538,0.357,36.2,18.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,52.2,NaN,13.858,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+101.90,Tarun,Static,BAC,1.122,1.538,0.332,36.1,17.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,51.9,NaN,13.883,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+102.00,Tarun,Static,BAC,1.131,1.532,0.306,36.0,18.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,52.0,NaN,13.911,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+102.11,Tarun,Static,BAC,1.136,1.528,0.274,35.7,19.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,51.9,NaN,13.943,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+102.21,Tarun,Static,BAC,1.133,1.531,0.250,34.9,19.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,51.3,NaN,13.966,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+102.31,Tarun,Static,BAC,1.124,1.536,0.227,34.5,19.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,50.9,NaN,13.986,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+102.40,Tarun,Static,BAC,1.108,1.540,0.210,33.8,19.1,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,50.0,NaN,13.998,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+102.50,Tarun,Static,BAC,1.088,1.544,0.200,32.8,18.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,48.8,NaN,14.004,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+102.61,Tarun,Static,BAC,1.063,1.549,0.197,31.7,17.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,47.4,NaN,14.001,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+102.71,Tarun,Static,BAC,1.040,1.555,0.201,30.9,16.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,46.4,NaN,13.992,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+102.81,Tarun,Static,BAC,1.018,1.557,0.204,29.6,16.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,45.0,NaN,13.984,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+102.90,Tarun,Static,BAC,0.999,1.559,0.207,28.9,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,44.2,NaN,13.976,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+103.00,Tarun,Static,BAC,0.990,1.560,0.209,28.9,15.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,44.1,NaN,13.972,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+103.11,Tarun,Static,BAC,0.972,1.559,0.214,29.0,15.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,44.2,NaN,13.964,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+103.21,Tarun,Static,BAC,0.964,1.560,0.214,29.4,15.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,KitchenOven07,44.4,NaN,13.962,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+103.31,Tarun,Static,BAC,0.960,1.563,0.214,29.9,14.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,44.7,NaN,13.961,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+103.40,Tarun,Static,BAC,0.959,1.565,0.214,30.7,13.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,45.2,NaN,13.961,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+103.50,Tarun,Static,BAC,0.959,1.567,0.215,31.3,12.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,45.5,NaN,13.960,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+103.61,Tarun,Static,BAC,0.961,1.570,0.216,31.9,11.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,45.9,NaN,13.959,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+103.71,Tarun,Static,BAC,0.962,1.571,0.218,32.5,11.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,46.3,NaN,13.958,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+103.81,Tarun,Static,BAC,0.963,1.573,0.219,33.6,9.9,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,47.3,NaN,13.957,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+103.90,Tarun,Static,BAC,0.963,1.575,0.221,34.8,8.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,48.3,NaN,13.955,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+104.00,Tarun,Static,BAC,0.963,1.573,0.225,36.5,9.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,50.0,NaN,13.952,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+104.10,Tarun,Static,BAC,0.968,1.569,0.229,40.3,10.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,54.0,NaN,13.949,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+104.21,Tarun,Static,BAC,0.978,1.561,0.230,47.7,13.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,61.6,NaN,13.949,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+104.31,Tarun,Static,BAC,0.988,1.557,0.228,55.0,15.8,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,68.8,NaN,13.954,NaN,1,0,CabinetD06,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+104.41,Tarun,Static,BAC,0.999,1.554,0.223,61.8,17.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,75.4,NaN,13.961,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+104.50,Tarun,Static,BAC,1.013,1.550,0.216,68.0,18.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,81.5,NaN,13.971,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+104.62,Tarun,Static,BAC,1.024,1.547,0.210,71.2,19.4,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,84.6,NaN,13.980,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+104.70,Tarun,Static,BAC,1.045,1.549,0.196,73.4,19.2,-2.197,1.378,13.812,NaN,NaN,NaN,World,Wall4m,86.8,NaN,13.998,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+104.81,Tarun,Static,BAC,1.064,1.553,0.183,72.4,18.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,85.8,NaN,14.015,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+104.90,Tarun,Static,BAC,1.079,1.557,0.176,68.4,16.6,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,82.0,NaN,14.026,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+105.00,Tarun,Static,BAC,1.093,1.560,0.172,63.2,15.5,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,77.0,NaN,14.032,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+105.11,Tarun,Static,BAC,1.104,1.561,0.168,56.3,14.7,-2.197,1.378,13.812,NaN,NaN,NaN,World,Video Quad,70.4,NaN,14.039,NaN,1,0,CabinetD05,None,0,0,0,0,0.0000,NaN,NaN,NaN,0
+105.24,Tarun,Static,BAC,1.000,0.000,0.500,0.0,0.0,-2.197,1.378,13.812,NaN,NaN,NaN,World,CabinetDCorner01,14.7,NaN,13.760,NaN,1,0,CabinetD01,None,1,0,0,0,0.0000,NaN,NaN,NaN,0
